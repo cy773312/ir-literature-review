@@ -1,5 +1,7 @@
 # ir-literature-review
 
+[中文](./README.md) | [English](./README.en.md)
+
 一个面向**国际关系（IR）研究**的 Claude Code 自定义技能，用于产出高质量文献综述。
 
 它强调“问题张力与研究定位”，而不是机械罗列文献；并支持：
