@@ -1,8 +1,8 @@
 # IR 文献综述 Skill
 
 <p align="center">
-  <strong>面向国际关系（IR）文献综述写作场景的 Codex Skill</strong><br />
-  先围绕问题张力搭骨架，再把已核实文献嵌入论证，避免写成机械罗列。
+  <strong>面向国际关系（IR）文献综述写作的 Codex Skill</strong><br />
+  中文优先，英文可选。先搭论证骨架，再把已核实文献嵌入推理，避免机械罗列。
 </p>
 
 <p align="center">
@@ -12,8 +12,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Codex-Skill-111827?style=flat-square" alt="Codex Skill" />
-  <img src="https://img.shields.io/badge/语言-中文优先-0f766e?style=flat-square" alt="中文优先" />
-  <img src="https://img.shields.io/badge/用途-IR%20Literature%20Review-7c3aed?style=flat-square" alt="IR Literature Review" />
+  <img src="https://img.shields.io/badge/主页-中文优先-0f766e?style=flat-square" alt="中文优先" />
+  <img src="https://img.shields.io/badge/英文-可选-1d4ed8?style=flat-square" alt="英文可选" />
+  <img src="https://img.shields.io/badge/检索-GS%20%2B%20CNKI-7c3aed?style=flat-square" alt="GS and CNKI" />
 </p>
 
 <p align="center">
@@ -24,9 +25,9 @@
 
 `ir-literature-review` 是一个专门服务于 **国际关系（IR）文献综述** 的 Claude Code skill。
 
-它不是用来“把很多论文说一遍”，而是帮助 agent 更稳定地做到：
+它的目标不是“把很多论文说一遍”，而是让 agent 更稳定地做到：
 
-- 先提炼研究问题与核心张力
+- 先识别研究问题与核心张力
 - 先确认骨架，再展开成文
 - 用已核实文献支撑论证，而不是堆作者名
 - 默认输出符合学术排版要求的 `.docx`
@@ -47,23 +48,21 @@
 - 机械化的文献清单
 - 不需要综述结构的泛化写作
 
-## 这个 Skill 会做什么
+## 你会得到什么
 
-默认执行流程是：
+| 产出 | 说明 |
+|---|---|
+| 文献综述骨架草案 | 先给结构，确认方向后再展开 |
+| 正式综述正文 | 围绕争论、机制和缺口成文 |
+| 参考文献 + `.docx` | 直接交付可用稿件 |
+
+## 默认执行流程
 
 1. 结构化提取研究问题、机制、方法范围与竞争文献
 2. 检索并核实文献（Google Scholar / CNKI 路径）
 3. 输出“文献综述骨架草案”并等待确认
 4. 按选定策略展开正式写作
 5. 输出带引用、参考文献和排版的 `.docx`
-
-默认支持 3 类输出形态：
-
-| 输出形态 | 适用情况 |
-|---|---|
-| `文献综述骨架草案` | 还需要先确认方向 |
-| `正式综述正文` | 研究问题和结构已经稳定 |
-| `参考文献 + docx` | 需要可交付成稿 |
 
 ## 检索依赖
 
@@ -74,11 +73,11 @@
 
 它们分别用于英文 IR 文献和中文 IR 文献的检索、核实与补充阅读。
 
-## 默认写作原则
+## 核心能力
 
-| 原则 | 含义 |
+| 能力 | 作用 |
 |---|---|
-| 张力优先 | 不是逐篇总结，而是围绕争论、机制和缺口组织文献 |
+| 张力优先 | 不做逐篇总结，而是围绕争论、机制和缺口组织文献 |
 | 骨架先行 | 先确认论证结构，再进入展开写作 |
 | 核实优先 | 未核实文献不得当作确定性证据使用 |
 | 交付优先 | 默认要生成可直接使用的 `.docx` |
@@ -100,26 +99,6 @@
 | 最终交付 | `.docx` |
 
 如果用户提供学校或期刊模板，以模板要求优先。
-
-## 仓库结构
-
-```text
-.
-├── SKILL.md
-├── EG1.txt
-├── EG2.txt
-├── LR1.txt
-├── LR2.txt
-└── references/
-    ├── writing-strategies.md
-    └── quality-checklist.md
-```
-
-- `SKILL.md`：技能主定义与执行协议
-- `EG1.txt`、`EG2.txt`：不同写作策略的范文样本
-- `LR1.txt`、`LR2.txt`：文献综述方法参考材料
-- `references/writing-strategies.md`：策略细化说明
-- `references/quality-checklist.md`：质量标准与常见错误
 
 ## 快速开始
 

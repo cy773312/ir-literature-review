@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>A Codex Skill for International Relations literature reviews</strong><br />
-  It turns an outline and a search direction into a review organized around research tension, verified literature, and usable academic delivery.
+  Chinese-first, with English available as an option. Build the argument skeleton first, then embed verified literature into the draft.
 </p>
 
 <p align="center">
@@ -12,19 +12,20 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Codex-Skill-111827?style=flat-square" alt="Codex Skill" />
-  <img src="https://img.shields.io/badge/Language-Chinese%20first-0f766e?style=flat-square" alt="Chinese first" />
-  <img src="https://img.shields.io/badge/Use-IR%20Literature%20Review-7c3aed?style=flat-square" alt="IR Literature Review" />
+  <img src="https://img.shields.io/badge/Home-Chinese%20first-0f766e?style=flat-square" alt="Chinese first" />
+  <img src="https://img.shields.io/badge/English-optional-1d4ed8?style=flat-square" alt="English optional" />
+  <img src="https://img.shields.io/badge/Retrieval-GS%20%2B%20CNKI-7c3aed?style=flat-square" alt="GS and CNKI" />
 </p>
 
 <p align="center">
-  <sub>This repository is Chinese-first. English is available as an option.</sub>
+  <sub>This repository is Chinese-first. English readers can start here.</sub>
 </p>
 
 ## One-line Summary
 
 `ir-literature-review` is a custom Claude Code skill for **International Relations literature review** tasks.
 
-Its purpose is not to summarize a pile of papers, but to help an agent reliably do the things strong IR reviews require:
+Its goal is not to summarize a stack of papers, but to help an agent reliably do the things strong IR reviews require:
 
 - identify the research question and tension first
 - confirm the structure before drafting full text
@@ -47,23 +48,21 @@ It is **not primarily for**:
 - mechanical paper lists
 - writing tasks that do not require a literature-review structure
 
-## What the Skill Does
+## What You Get
 
-The default workflow is:
+| Output | Meaning |
+|---|---|
+| Skeleton draft | structure first, full prose later |
+| Full review | organized around disputes, mechanisms, and gaps |
+| References + `.docx` | a ready-to-deliver manuscript |
+
+## Default Workflow
 
 1. Extract the research question, mechanism, method scope, and competing literature.
 2. Search and verify sources through Google Scholar or CNKI workflows.
 3. Produce a literature-review skeleton and wait for confirmation.
 4. Expand the confirmed skeleton into full prose.
 5. Deliver citations, references, and a formatted `.docx` file.
-
-By default it supports 3 output states:
-
-| Output State | When to Use |
-|---|---|
-| `Skeleton draft` | the direction still needs confirmation |
-| `Full review` | the question and structure are stable |
-| `References + docx` | the user needs a ready-to-deliver draft |
 
 ## Retrieval Dependencies
 
@@ -74,9 +73,9 @@ This skill relies on two external skills during the literature-search phase:
 
 They are used for English IR literature and Chinese IR literature search, verification, and follow-up reading.
 
-## Default Writing Rules
+## Core Capabilities
 
-| Rule | Meaning |
+| Capability | What it does |
 |---|---|
 | Tension first | organize around disputes, mechanisms, and gaps, not paper-by-paper summaries |
 | Structure first | confirm the argument structure before expansion |
@@ -100,26 +99,6 @@ Unless the user specifies otherwise:
 | Final deliverable | `.docx` |
 
 If a school or journal template is provided, that template takes priority.
-
-## Repository Layout
-
-```text
-.
-├── SKILL.md
-├── EG1.txt
-├── EG2.txt
-├── LR1.txt
-├── LR2.txt
-└── references/
-    ├── writing-strategies.md
-    └── quality-checklist.md
-```
-
-- `SKILL.md`: main skill definition and execution protocol
-- `EG1.txt`, `EG2.txt`: sample texts for different writing strategies
-- `LR1.txt`, `LR2.txt`: literature-review method references
-- `references/writing-strategies.md`: strategy detail reference
-- `references/quality-checklist.md`: quality standards and common failure modes
 
 ## Quick Start
 
