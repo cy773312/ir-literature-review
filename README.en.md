@@ -1,68 +1,49 @@
 # ir-literature-review
 
-[中文](./README.md) | [English](./README.en.md)
+[中文](./README.md) | English
 
-A custom **Claude Code skill** for producing high-quality literature reviews in International Relations (IR).
+<p align="left">
+  <strong>A custom Claude Code skill for high-quality International Relations literature reviews.</strong>
+</p>
 
-It prioritizes research tension and argument positioning over mechanical paper summaries, and supports:
-- in-text citations grounded in verified sources,
-- automatic reference list generation,
-- `.docx` delivery with academic formatting defaults,
-- **Chinese as the default output language, with optional English output on request**.
+<p align="left">
+  It turns a paper outline and a literature-search direction into a review organized around research tension, backed by verified citations, and delivered in academic <code>.docx</code> format by default.
+</p>
 
-## Table of Contents
+## Highlights
 
-- [Overview](#overview)
-- [Core Capabilities](#core-capabilities)
-- [Default Output Contract](#default-output-contract)
-- [Repository Structure](#repository-structure)
-- [Quick Start](#quick-start)
-- [Example Prompts](#example-prompts)
-- [Design Principles](#design-principles)
-- [Contributing](#contributing)
-- [Project Status](#project-status)
+- **Tension-first writing**: focus on disputes, mechanisms, and gaps instead of paper-by-paper summaries.
+- **IR-aware workflow**: supports security studies, IPE, foreign policy analysis, international organizations, comparative authoritarian politics, information politics, and constructivist research.
+- **Verification-aware citations**: only cite checked sources; mark anything unverified explicitly.
+- **Docx-first delivery**: final output is meant to be usable `.docx`, not plain text alone.
+- **Chinese-first default**: English output is available when requested.
 
-## Overview
+## What This Skill Does
 
-`ir-literature-review` is built for workflows where users provide:
-- a paper outline,
-- a broad literature-search direction,
-- and optionally known competing studies.
+When a user provides a paper outline and a literature-search direction, the skill usually:
 
-Execution flow:
-1. Structure the research question, mechanisms, method scope, and competing literature.
-2. Retrieve and verify literature (Google Scholar / CNKI paths).
-3. Output a review skeleton and wait for user confirmation.
-4. Expand into full draft using the selected writing strategy.
-5. Deliver final text with citations, references, and `.docx` output.
-
-## Core Capabilities
-
-- **Tension-first writing logic**: organize literature around theoretical/empirical tensions.
-- **Two writing strategies**:
-  - Framework integration (framework-first)
-  - Question decomposition (question-driven)
-- **IR subfield adaptation**: security studies, IPE, FPA, IOs, comparative authoritarian politics, constructivist/normative studies.
-- **Citation integrity constraints**:
-  - no fabricated references,
-  - unverified details must be marked,
-  - in-text citations must match the reference list.
-- **Docx-first delivery**: default output is a usable `.docx`, not plain text only.
+1. Extracts the research question, mechanisms, method scope, and competing literature.
+2. Searches and verifies relevant sources through Google Scholar or CNKI workflows.
+3. Produces a literature-review skeleton and waits for confirmation.
+4. Expands the confirmed skeleton into a full draft.
+5. Delivers formatted text, references, and a `.docx` file.
 
 ## Default Output Contract
 
-Unless the user specifies otherwise, the default is:
+Unless the user specifies otherwise, the skill follows this contract:
 
-- **In-text citations**: author-year style (e.g., `Rosenfeld & Wallace, 2024`)
-- **Reference list**: includes only works actually cited in the text
-- **Document formatting**:
-  - Chinese font: SimSun
-  - Latin letters & numbers: Times New Roman
-  - Font size: 12pt
-  - First-line indent: 2 characters
-  - Line spacing: 1.5
+| Item | Default |
+|---|---|
+| In-text citations | Author-year style |
+| Reference list | Only works actually cited in the text |
+| Chinese font | SimSun |
+| Latin font / numbers | Times New Roman |
+| Font size | 12pt |
+| First-line indent | 2 Chinese characters |
+| Line spacing | 1.5 |
+| Final deliverable | `.docx` |
 
-If a school/journal template is provided, template rules override defaults.
+If a school or journal template is provided, that template takes priority.
 
 ## Repository Structure
 
@@ -79,18 +60,18 @@ If a school/journal template is provided, template rules override defaults.
 ```
 
 - `SKILL.md`: main skill definition and execution protocol.
-- `EG1.txt`, `EG2.txt`: high-quality IR exemplar texts for different writing strategies.
-- `LR1.txt`, `LR2.txt`: method references for literature review practice.
-- `references/writing-strategies.md`: detailed strategy expansion.
-- `references/quality-checklist.md`: quality dimensions and common failure modes.
+- `EG1.txt`, `EG2.txt`: exemplar texts for different writing strategies.
+- `LR1.txt`, `LR2.txt`: literature-review method references.
+- `references/writing-strategies.md`: strategy detail reference.
+- `references/quality-checklist.md`: quality standards and common failure modes.
 
 ## Quick Start
 
 1. Open this repository in Claude Code.
-2. Provide your paper outline and literature-search direction.
-3. Confirm the generated review skeleton first.
-4. Generate full text with citations and references.
-5. Receive a `.docx` file with required formatting.
+2. Share the paper outline and broad literature-search direction.
+3. Confirm the review skeleton before full drafting.
+4. Generate the review with citations and references.
+5. Export the final `.docx` file.
 
 ## Example Prompts
 
@@ -101,24 +82,26 @@ If a school/journal template is provided, template rules override defaults.
 ## Design Principles
 
 - A literature review is an argument, not a bibliography.
-- Gaps should grow from concrete limitations in existing studies.
-- Critique must be sharp, grounded, and targeted.
-- Transitions should follow argument logic, not connective filler.
+- Gaps should grow from limitations in existing studies.
+- Critique should be sharp, grounded, and targeted.
+- Transitions should follow logic, not filler phrasing.
 
 ## Contributing
 
-Issues and PRs are welcome.
+Issues and pull requests are welcome.
 
-Suggested directions:
-- add more IR subfield exemplars,
-- improve citation/reference adapters,
+Suggested improvements:
+
+- expand IR subfield examples,
+- improve citation and reference handling,
 - strengthen multilingual retrieval and drafting workflows.
 
 ## Project Status
 
 Actively maintained.
 
-Current version supports:
+Current capabilities include:
+
 - in-text citation and reference generation,
 - default `.docx` delivery,
 - automatic enforcement of academic formatting defaults.
