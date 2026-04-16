@@ -65,6 +65,15 @@
 | `正式综述正文` | 研究问题和结构已经稳定 |
 | `参考文献 + docx` | 需要可交付成稿 |
 
+## 检索依赖
+
+这个 skill 在文献检索阶段会结合两个外部 skill：
+
+- [gs-skills](https://github.com/cookjohn/gs-skills)
+- [cnki-skills](https://github.com/cookjohn/cnki-skills)
+
+它们分别用于英文 IR 文献和中文 IR 文献的检索、核实与补充阅读。
+
 ## 默认写作原则
 
 | 原则 | 含义 |
@@ -149,4 +158,3 @@
 - 文内引用与参考文献生成
 - 默认 `.docx` 交付
 - 学术排版默认值自动落实
-

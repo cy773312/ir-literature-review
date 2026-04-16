@@ -65,6 +65,15 @@ By default it supports 3 output states:
 | `Full review` | the question and structure are stable |
 | `References + docx` | the user needs a ready-to-deliver draft |
 
+## Retrieval Dependencies
+
+This skill relies on two external skills during the literature-search phase:
+
+- [gs-skills](https://github.com/cookjohn/gs-skills)
+- [cnki-skills](https://github.com/cookjohn/cnki-skills)
+
+They are used for English IR literature and Chinese IR literature search, verification, and follow-up reading.
+
 ## Default Writing Rules
 
 | Rule | Meaning |
@@ -149,4 +158,3 @@ Current capabilities include:
 - in-text citation and reference generation
 - default `.docx` delivery
 - automatic enforcement of academic formatting defaults
-
