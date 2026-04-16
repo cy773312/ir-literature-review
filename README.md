@@ -1,51 +1,98 @@
-# ir-literature-review
+# IR 文献综述 Skill
 
-[English](./README.en.md) | 中文
-
-<p align="left">
-  <strong>A custom Claude Code skill for high-quality International Relations literature reviews.</strong>
+<p align="center">
+  <strong>面向国际关系（IR）文献综述写作场景的 Codex Skill</strong><br />
+  先围绕问题张力搭骨架，再把已核实文献嵌入论证，避免写成机械罗列。
 </p>
 
-<p align="left">
-  It helps turn an outline and a search direction into a review that is organized around research tension, supported by verified citations, and delivered in academic <code>.docx</code> format by default.
+<p align="center">
+  <a href="./README.en.md">English Version</a> ·
+  <a href="./SKILL.md">查看 SKILL.md</a>
 </p>
 
-## Highlights
+<p align="center">
+  <img src="https://img.shields.io/badge/Codex-Skill-111827?style=flat-square" alt="Codex Skill" />
+  <img src="https://img.shields.io/badge/语言-中文优先-0f766e?style=flat-square" alt="中文优先" />
+  <img src="https://img.shields.io/badge/用途-IR%20Literature%20Review-7c3aed?style=flat-square" alt="IR Literature Review" />
+</p>
 
-- **Tension-first logic**: write around disputes, mechanisms, and research gaps instead of paper-by-paper summaries.
-- **IR-specific workflow**: supports security studies, IPE, foreign policy analysis, international organizations, comparative authoritarian politics, information politics, and constructivist research.
-- **Verification-aware citations**: only use sources that have been checked; mark anything unverified explicitly.
-- **Docx-first delivery**: final output is expected to be a usable `.docx`, not just pasted text.
-- **Chinese-first by default**: English output is available when the user asks for it.
+<p align="center">
+  <sub>English readers can use <a href="./README.en.md">README.en.md</a>.</sub>
+</p>
 
-## What This Skill Does
+## 一句话介绍
 
-When a user provides a paper outline and a literature-search direction, the skill typically:
+`ir-literature-review` 是一个专门服务于 **国际关系（IR）文献综述** 的 Claude Code skill。
 
-1. Extracts the research question, mechanisms, method scope, and competing literature.
-2. Searches and verifies relevant sources through Google Scholar or CNKI workflows.
-3. Produces a literature-review skeleton and waits for confirmation.
-4. Expands the confirmed skeleton into a full draft.
-5. Delivers formatted text, references, and a `.docx` file.
+它不是用来“把很多论文说一遍”，而是帮助 agent 更稳定地做到：
 
-## Default Output Contract
+- 先提炼研究问题与核心张力
+- 先确认骨架，再展开成文
+- 用已核实文献支撑论证，而不是堆作者名
+- 默认输出符合学术排版要求的 `.docx`
 
-Unless the user specifies otherwise, the skill follows this contract:
+## 适合什么场景
 
-| Item | Default |
+这个 skill 特别适合：
+
+- 你已经有论文框架，但还需要把综述写扎实
+- 你有大致检索方向，希望先出骨架再展开
+- 你想写安全研究、IPE、外交政策分析、国际组织、比较威权、信息政治、建构主义等 IR 主题
+- 你需要把“研究空缺”写成从已有研究局限中自然长出来的缺口
+- 你希望最终交付的不只是纯文本，而是可直接使用的 `.docx`
+
+它**不主要用于**：
+
+- 普通论文式背景介绍
+- 机械化的文献清单
+- 不需要综述结构的泛化写作
+
+## 这个 Skill 会做什么
+
+默认执行流程是：
+
+1. 结构化提取研究问题、机制、方法范围与竞争文献
+2. 检索并核实文献（Google Scholar / CNKI 路径）
+3. 输出“文献综述骨架草案”并等待确认
+4. 按选定策略展开正式写作
+5. 输出带引用、参考文献和排版的 `.docx`
+
+默认支持 3 类输出形态：
+
+| 输出形态 | 适用情况 |
 |---|---|
-| In-text citations | Author-year style |
-| Reference list | Only works actually cited in the text |
-| Chinese font | SimSun |
-| Latin font / numbers | Times New Roman |
-| Font size | 12pt |
-| First-line indent | 2 Chinese characters |
-| Line spacing | 1.5 |
-| Final deliverable | `.docx` |
+| `文献综述骨架草案` | 还需要先确认方向 |
+| `正式综述正文` | 研究问题和结构已经稳定 |
+| `参考文献 + docx` | 需要可交付成稿 |
 
-If a school or journal template is provided, that template takes priority.
+## 默认写作原则
 
-## Repository Structure
+| 原则 | 含义 |
+|---|---|
+| 张力优先 | 不是逐篇总结，而是围绕争论、机制和缺口组织文献 |
+| 骨架先行 | 先确认论证结构，再进入展开写作 |
+| 核实优先 | 未核实文献不得当作确定性证据使用 |
+| 交付优先 | 默认要生成可直接使用的 `.docx` |
+| 中文优先 | 默认先给中文界面与中文输出，英文作为可选项 |
+
+## 默认输出规范
+
+除非用户另有说明，默认按以下规则交付：
+
+| 项目 | 默认值 |
+|---|---|
+| 文内引用 | 作者-年份格式 |
+| 参考文献 | 仅包含正文实际引用过的文献 |
+| 中文字体 | 宋体 |
+| 西文字体 / 数字 | Times New Roman |
+| 字号 | 12pt |
+| 首行缩进 | 2 个中文字符 |
+| 行间距 | 1.5 倍 |
+| 最终交付 | `.docx` |
+
+如果用户提供学校或期刊模板，以模板要求优先。
+
+## 仓库结构
 
 ```text
 .
@@ -59,49 +106,47 @@ If a school or journal template is provided, that template takes priority.
     └── quality-checklist.md
 ```
 
-- `SKILL.md`: main skill definition and execution protocol.
-- `EG1.txt`, `EG2.txt`: exemplar texts for different writing strategies.
-- `LR1.txt`, `LR2.txt`: literature-review method references.
-- `references/writing-strategies.md`: strategy detail reference.
-- `references/quality-checklist.md`: quality standards and common failure modes.
+- `SKILL.md`：技能主定义与执行协议
+- `EG1.txt`、`EG2.txt`：不同写作策略的范文样本
+- `LR1.txt`、`LR2.txt`：文献综述方法参考材料
+- `references/writing-strategies.md`：策略细化说明
+- `references/quality-checklist.md`：质量标准与常见错误
 
-## Quick Start
+## 快速开始
 
-1. Open this repository in Claude Code.
-2. Share the paper outline and broad literature-search direction.
-3. Confirm the review skeleton before full drafting.
-4. Generate the review with citations and references.
-5. Export the final `.docx` file.
+1. 在 Claude Code 中打开这个仓库
+2. 提供论文框架和大致检索方向
+3. 先确认文献综述骨架
+4. 再展开成完整正文
+5. 最终导出 `.docx`
 
-## Example Prompts
+## 示例提示词
 
-- “Based on my paper outline, draft an IR literature review. Give me the skeleton first.”
-- “Use a question-driven strategy for deterrence failure mechanisms and compare competing explanations.”
-- “Output in docx with SimSun for Chinese, Times New Roman for English/numbers, 12pt, first-line indent 2 characters, line spacing 1.5.”
+- “基于我的论文框架，写一版国际关系文献综述，先给骨架再展开。”
+- “围绕威慑失效机制做问题拆解式综述，重点比较竞争性解释。”
+- “最终输出 docx，中文宋体、西文 Times New Roman，小四、首行缩进 2 字符、1.5 倍行距。”
 
-## Design Principles
+## 设计原则
 
-- A literature review is an argument, not a bibliography.
-- Gaps should grow from limitations in existing studies.
-- Critique should be sharp, grounded, and targeted.
-- Transitions should follow logic, not filler phrasing.
+- 文献综述是论证，不是文献目录
+- 研究缺口应从既有研究局限中长出来
+- 评价要有力、要有据、要有针对性
+- 段落过渡应由逻辑推进，而不是靠空泛连接词
 
-## Contributing
+## 相关文件
 
-Issues and pull requests are welcome.
+- 主要技能文件：[SKILL.md](./SKILL.md)
+- 英文说明：[README.en.md](./README.en.md)
+- 质量检查清单：[references/quality-checklist.md](./references/quality-checklist.md)
+- 写作策略说明：[references/writing-strategies.md](./references/writing-strategies.md)
 
-Suggested improvements:
+## 维护状态
 
-- expand IR subfield examples,
-- improve citation and reference handling,
-- strengthen multilingual retrieval and drafting workflows.
+持续维护中。
 
-## Project Status
+当前版本已支持：
 
-Actively maintained.
+- 文内引用与参考文献生成
+- 默认 `.docx` 交付
+- 学术排版默认值自动落实
 
-Current capabilities include:
-
-- in-text citation and reference generation,
-- default `.docx` delivery,
-- automatic enforcement of academic formatting defaults.

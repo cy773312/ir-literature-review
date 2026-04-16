@@ -1,41 +1,88 @@
-# ir-literature-review
+# IR Literature Review Skill
 
-[中文](./README.md) | English
-
-<p align="left">
-  <strong>A custom Claude Code skill for high-quality International Relations literature reviews.</strong>
+<p align="center">
+  <strong>A Codex Skill for International Relations literature reviews</strong><br />
+  It turns an outline and a search direction into a review organized around research tension, verified literature, and usable academic delivery.
 </p>
 
-<p align="left">
-  It turns a paper outline and a literature-search direction into a review organized around research tension, backed by verified citations, and delivered in academic <code>.docx</code> format by default.
+<p align="center">
+  <a href="./README.md">中文版</a> ·
+  <a href="./SKILL.md">View SKILL.md</a>
 </p>
 
-## Highlights
+<p align="center">
+  <img src="https://img.shields.io/badge/Codex-Skill-111827?style=flat-square" alt="Codex Skill" />
+  <img src="https://img.shields.io/badge/Language-Chinese%20first-0f766e?style=flat-square" alt="Chinese first" />
+  <img src="https://img.shields.io/badge/Use-IR%20Literature%20Review-7c3aed?style=flat-square" alt="IR Literature Review" />
+</p>
 
-- **Tension-first writing**: focus on disputes, mechanisms, and gaps instead of paper-by-paper summaries.
-- **IR-aware workflow**: supports security studies, IPE, foreign policy analysis, international organizations, comparative authoritarian politics, information politics, and constructivist research.
-- **Verification-aware citations**: only cite checked sources; mark anything unverified explicitly.
-- **Docx-first delivery**: final output is meant to be usable `.docx`, not plain text alone.
-- **Chinese-first default**: English output is available when requested.
+<p align="center">
+  <sub>This repository is Chinese-first. English is available as an option.</sub>
+</p>
 
-## What This Skill Does
+## One-line Summary
 
-When a user provides a paper outline and a literature-search direction, the skill usually:
+`ir-literature-review` is a custom Claude Code skill for **International Relations literature review** tasks.
 
-1. Extracts the research question, mechanisms, method scope, and competing literature.
-2. Searches and verifies relevant sources through Google Scholar or CNKI workflows.
-3. Produces a literature-review skeleton and waits for confirmation.
-4. Expands the confirmed skeleton into a full draft.
-5. Delivers formatted text, references, and a `.docx` file.
+Its purpose is not to summarize a pile of papers, but to help an agent reliably do the things strong IR reviews require:
+
+- identify the research question and tension first
+- confirm the structure before drafting full text
+- ground claims in verified literature
+- produce a `.docx` file with academic formatting by default
+
+## Good Fit
+
+This skill is especially useful when:
+
+- you already have a paper outline and need the review to match it
+- you have a broad search direction and want a skeleton first
+- you are writing on security studies, IPE, foreign policy analysis, international organizations, comparative authoritarianism, information politics, or constructivism
+- you want the research gap to grow out of concrete limitations in existing work
+- you need a deliverable that is ready to submit, not just plain text
+
+It is **not primarily for**:
+
+- generic essay-style background sections
+- mechanical paper lists
+- writing tasks that do not require a literature-review structure
+
+## What the Skill Does
+
+The default workflow is:
+
+1. Extract the research question, mechanism, method scope, and competing literature.
+2. Search and verify sources through Google Scholar or CNKI workflows.
+3. Produce a literature-review skeleton and wait for confirmation.
+4. Expand the confirmed skeleton into full prose.
+5. Deliver citations, references, and a formatted `.docx` file.
+
+By default it supports 3 output states:
+
+| Output State | When to Use |
+|---|---|
+| `Skeleton draft` | the direction still needs confirmation |
+| `Full review` | the question and structure are stable |
+| `References + docx` | the user needs a ready-to-deliver draft |
+
+## Default Writing Rules
+
+| Rule | Meaning |
+|---|---|
+| Tension first | organize around disputes, mechanisms, and gaps, not paper-by-paper summaries |
+| Structure first | confirm the argument structure before expansion |
+| Verification first | unverified literature should not be treated as settled evidence |
+| Delivery first | default output should be a usable `.docx` |
+| Chinese first | the Chinese page and Chinese output are the default, English is optional |
 
 ## Default Output Contract
 
-Unless the user specifies otherwise, the skill follows this contract:
+Unless the user specifies otherwise:
 
 | Item | Default |
 |---|---|
 | In-text citations | Author-year style |
-| Reference list | Only works actually cited in the text |
+| Reference list | only works actually cited in the text |
 | Chinese font | SimSun |
 | Latin font / numbers | Times New Roman |
 | Font size | 12pt |
@@ -45,7 +92,7 @@ Unless the user specifies otherwise, the skill follows this contract:
 
 If a school or journal template is provided, that template takes priority.
 
-## Repository Structure
+## Repository Layout
 
 ```text
 .
@@ -59,17 +106,17 @@ If a school or journal template is provided, that template takes priority.
     └── quality-checklist.md
 ```
 
-- `SKILL.md`: main skill definition and execution protocol.
-- `EG1.txt`, `EG2.txt`: exemplar texts for different writing strategies.
-- `LR1.txt`, `LR2.txt`: literature-review method references.
-- `references/writing-strategies.md`: strategy detail reference.
-- `references/quality-checklist.md`: quality standards and common failure modes.
+- `SKILL.md`: main skill definition and execution protocol
+- `EG1.txt`, `EG2.txt`: sample texts for different writing strategies
+- `LR1.txt`, `LR2.txt`: literature-review method references
+- `references/writing-strategies.md`: strategy detail reference
+- `references/quality-checklist.md`: quality standards and common failure modes
 
 ## Quick Start
 
 1. Open this repository in Claude Code.
-2. Share the paper outline and broad literature-search direction.
-3. Confirm the review skeleton before full drafting.
+2. Share your paper outline and search direction.
+3. Confirm the skeleton before expanding the draft.
 4. Generate the review with citations and references.
 5. Export the final `.docx` file.
 
@@ -86,15 +133,12 @@ If a school or journal template is provided, that template takes priority.
 - Critique should be sharp, grounded, and targeted.
 - Transitions should follow logic, not filler phrasing.
 
-## Contributing
+## Related Files
 
-Issues and pull requests are welcome.
-
-Suggested improvements:
-
-- expand IR subfield examples,
-- improve citation and reference handling,
-- strengthen multilingual retrieval and drafting workflows.
+- Main skill file: [SKILL.md](./SKILL.md)
+- Chinese homepage: [README.md](./README.md)
+- Quality checklist: [references/quality-checklist.md](./references/quality-checklist.md)
+- Writing strategies: [references/writing-strategies.md](./references/writing-strategies.md)
 
 ## Project Status
 
@@ -102,6 +146,7 @@ Actively maintained.
 
 Current capabilities include:
 
-- in-text citation and reference generation,
-- default `.docx` delivery,
-- automatic enforcement of academic formatting defaults.
+- in-text citation and reference generation
+- default `.docx` delivery
+- automatic enforcement of academic formatting defaults
+
