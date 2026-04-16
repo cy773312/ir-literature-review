@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>A tool for International Relations literature reviews</strong><br />
-  Chinese-first, with English available as an option. Build the argument skeleton first, then embed verified literature into the draft.
+  Chinese-first, with English available as an option. Start from retrieval-based positioning, then build argument-driven prose with verified sources.
 </p>
 
 <p align="center">
@@ -16,6 +16,13 @@
   <img src="https://img.shields.io/badge/Retrieval-GS%20%2B%20CNKI-7c3aed?style=flat-square" alt="GS and CNKI" />
 </p>
 
+It prioritizes research tension and argument positioning over mechanical paper summaries, and supports:
+- in-text citations grounded in verified sources,
+- automatic reference list generation,
+- `.docx` delivery with academic formatting defaults,
+- **cross-user / cross-model consistency controls (fixed protocol + quality gates)**,
+- **Chinese as the default output language, with optional English output on request**.
+
 <p align="center">
   <sub>This repository is Chinese-first. English readers can start here.</sub>
 </p>
@@ -24,63 +31,34 @@
 
 `ir-literature-review` is a tool for **International Relations literature review** tasks.
 
-Its goal is not to summarize a stack of papers, but to help an agent reliably do the things strong IR reviews require:
+`ir-literature-review` is built for workflows where users provide:
+- at least a literature search scope,
+- optionally a paper outline,
+- and optional seed papers for retrieval expansion.
 
-- identify the research question and tension first
-- confirm the structure before drafting full text
-- ground claims in verified literature
-- produce a `.docx` file with academic formatting by default
-
-## Good Fit
-
-This skill is especially useful when:
-
-- you already have a paper outline and need the review to match it
-- you have a broad search direction and want a skeleton first
-- you are writing on security studies, IPE, foreign policy analysis, international organizations, comparative authoritarianism, information politics, or constructivism
-- you want the research gap to grow out of concrete limitations in existing work
-- you need a deliverable that is ready to submit, not just plain text
-
-It is **not primarily for**:
-
-- generic essay-style background sections
-- mechanical paper lists
-- writing tasks that do not require a literature-review structure
-
-## What You Get
-
-| Output | Meaning |
-|---|---|
-| Skeleton draft | structure first, full prose later |
-| Full review | organized around disputes, mechanisms, and gaps |
-| References + `.docx` | a ready-to-deliver manuscript |
-
-## Default Workflow
-
-1. Extract the research question, mechanism, method scope, and competing literature.
-2. Search and verify sources through Google Scholar or CNKI workflows.
-3. Produce a literature-review skeleton and wait for confirmation.
-4. Expand the confirmed skeleton into full prose.
-5. Deliver citations, references, and a formatted `.docx` file.
-
-## Retrieval Dependencies
-
-This skill relies on two external skills during the literature-search phase:
-
-- [gs-skills](https://github.com/cookjohn/gs-skills)
-- [cnki-skills](https://github.com/cookjohn/cnki-skills)
-
-They are used for English IR literature and Chinese IR literature search, verification, and follow-up reading.
+Execution flow:
+1. Structure search boundaries, language/database priorities, inclusion criteria, and seed papers.
+2. Retrieve and verify literature (Google Scholar / CNKI paths).
+3. Output a “search scope + literature map” first and wait for confirmation.
+4. Then move to research positioning and drafting (show skeleton first only when user asks).
+5. Deliver final text with citations, references, and `.docx` output.
 
 ## Core Capabilities
 
-| Capability | What it does |
-|---|---|
-| Tension first | organize around disputes, mechanisms, and gaps, not paper-by-paper summaries |
-| Structure first | confirm the argument structure before expansion |
-| Verification first | unverified literature should not be treated as settled evidence |
-| Delivery first | default output should be a usable `.docx` |
-| Chinese first | the Chinese page and Chinese output are the default, English is optional |
+- **Tension-first writing logic**: organize literature around theoretical/empirical tensions.
+- **Two writing strategies**:
+  - Framework integration (framework-first)
+  - Question decomposition (question-driven)
+- **IR subfield adaptation**: security studies, IPE, FPA, IOs, comparative authoritarian politics, constructivist/normative studies.
+- **Citation integrity constraints**:
+  - no fabricated references,
+  - unverified details must be marked,
+  - in-text citations must match the reference list.
+- **Robustness controls**:
+  - quality tiers (fast / standard / rigorous) for retrieval depth,
+  - fixed "retrieval log + literature map" output protocol,
+  - mandatory evidence/structure/positioning quality gates before drafting.
+- **Docx-first delivery**: default output is a usable `.docx`, not plain text only.
 
 ## Default Output Contract
 
@@ -102,23 +80,24 @@ If a school or journal template is provided, that template takes priority.
 ## Quick Start
 
 1. Open this repository in Claude Code.
-2. Share your paper outline and search direction.
-3. Confirm the skeleton before expanding the draft.
-4. Generate the review with citations and references.
-5. Export the final `.docx` file.
+2. Provide your literature search scope (optionally with outline + seed papers).
+3. Confirm the generated “search scope + literature map” first.
+4. Generate full text with citations and references (skeleton first only if needed).
+5. Receive a `.docx` file with required formatting.
 
 ## Example Prompts
 
-- “Based on my paper outline, draft an IR literature review. Give me the skeleton first.”
-- “Use a question-driven strategy for deterrence failure mechanisms and compare competing explanations.”
+- “Start from this search scope and give me a literature map first: deterrence failure mechanisms, 2015–2025, English-first with Chinese supplements; I’ll also provide seed papers.”
+- “Use my seed papers plus GS/CNKI retrieval, confirm coverage first, then draft a question-driven IR literature review.”
 - “Output in docx with SimSun for Chinese, Times New Roman for English/numbers, 12pt, first-line indent 2 characters, line spacing 1.5.”
 
 ## Design Principles
 
 - A literature review is an argument, not a bibliography.
-- Gaps should grow from limitations in existing studies.
-- Critique should be sharp, grounded, and targeted.
-- Transitions should follow logic, not filler phrasing.
+- Gaps should grow from concrete limitations in existing studies.
+- Critique must be sharp, grounded, and targeted.
+- Transitions should follow argument logic, not connective filler.
+- To keep quality close across users, agents, and models, prioritize fixed protocols and quality gates over free-form variation.
 
 ## Related Files
 
