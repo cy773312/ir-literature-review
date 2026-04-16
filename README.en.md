@@ -1,7 +1,7 @@
-# IR Literature Review Skill
+# IR Literature Review Tool
 
 <p align="center">
-  <strong>A Codex Skill for International Relations literature reviews</strong><br />
+  <strong>A tool for International Relations literature reviews</strong><br />
   Chinese-first, with English available as an option. Build the argument skeleton first, then embed verified literature into the draft.
 </p>
 
@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Codex-Skill-111827?style=flat-square" alt="Codex Skill" />
   <img src="https://img.shields.io/badge/Home-Chinese%20first-0f766e?style=flat-square" alt="Chinese first" />
   <img src="https://img.shields.io/badge/English-optional-1d4ed8?style=flat-square" alt="English optional" />
   <img src="https://img.shields.io/badge/Retrieval-GS%20%2B%20CNKI-7c3aed?style=flat-square" alt="GS and CNKI" />
@@ -23,7 +22,7 @@
 
 ## One-line Summary
 
-`ir-literature-review` is a custom Claude Code skill for **International Relations literature review** tasks.
+`ir-literature-review` is a tool for **International Relations literature review** tasks.
 
 Its goal is not to summarize a stack of papers, but to help an agent reliably do the things strong IR reviews require:
 
@@ -123,7 +122,7 @@ If a school or journal template is provided, that template takes priority.
 
 ## Related Files
 
-- Main skill file: [SKILL.md](./SKILL.md)
+- Main instruction file: [SKILL.md](./SKILL.md)
 - Chinese homepage: [README.md](./README.md)
 - Quality checklist: [references/quality-checklist.md](./references/quality-checklist.md)
 - Writing strategies: [references/writing-strategies.md](./references/writing-strategies.md)

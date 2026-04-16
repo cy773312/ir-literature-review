@@ -1,7 +1,7 @@
-# IR 文献综述 Skill
+# IR 文献综述工具
 
 <p align="center">
-  <strong>面向国际关系（IR）文献综述写作的 Codex Skill</strong><br />
+  <strong>面向国际关系（IR）文献综述写作的工具</strong><br />
   中文优先，英文可选。先搭论证骨架，再把已核实文献嵌入推理，避免机械罗列。
 </p>
 
@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Codex-Skill-111827?style=flat-square" alt="Codex Skill" />
   <img src="https://img.shields.io/badge/主页-中文优先-0f766e?style=flat-square" alt="中文优先" />
   <img src="https://img.shields.io/badge/英文-可选-1d4ed8?style=flat-square" alt="英文可选" />
   <img src="https://img.shields.io/badge/检索-GS%20%2B%20CNKI-7c3aed?style=flat-square" alt="GS and CNKI" />
@@ -23,7 +22,7 @@
 
 ## 一句话介绍
 
-`ir-literature-review` 是一个专门服务于 **国际关系（IR）文献综述** 的 Claude Code skill。
+`ir-literature-review` 是一个专门服务于 **国际关系（IR）文献综述** 的工具。
 
 它的目标不是“把很多论文说一遍”，而是让 agent 更稳定地做到：
 
@@ -123,7 +122,7 @@
 
 ## 相关文件
 
-- 主要技能文件：[SKILL.md](./SKILL.md)
+- 主要说明文件：[SKILL.md](./SKILL.md)
 - 英文说明：[README.en.md](./README.en.md)
 - 质量检查清单：[references/quality-checklist.md](./references/quality-checklist.md)
 - 写作策略说明：[references/writing-strategies.md](./references/writing-strategies.md)
