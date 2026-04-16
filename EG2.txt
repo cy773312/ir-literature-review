@@ -1,0 +1,778 @@
+Information Politics and Propaganda in Authoritarian Societies
+
+Bryn Rosenfeld and Jeremy Wallace
+
+Department of Government, Cornell University, Ithaca, New York, USA; email: brr59@cornell.edu, jlw397@cornell.edu
+
+Keywords
+
+propaganda, censorship, authoritarianism, persuasion, domination, information
+
+Abstract
+
+What role does propaganda play in the information politics of authoritarian societies, and what is its relationship to censorship? What have we learned from rival accounts in recent literature about why states produce it? While regimes clearly invest in propaganda believing that it is effective, there is still much to learn about whether, when, and how it actually is effective. We first discuss some of the tensions inherent in distinguishing between persuasive and dominating, soft and hard, propaganda. We then review efforts to understand the conditions under which propaganda changes attitudes and/or behavior in terms of propaganda’s content, relational factors, aspects of the political environment, and citizens’ own predispositions. We highlight the need for more research on propaganda in authoritarian settings, especially on how patterns of its consumption may change amid crises, technological shifts, and direct state interventions.
+
+Downloaded from
+
+263
+
+INTRODUCTION
+
+The systematic study of authoritarian politics has boomed over the past two decades. Given the relative opacity of authoritarianism, the first generation of this new scholarship focused on analyzing comparatively visible aspects of a regime’s politics. Hence, scholars classified regimes into types based on the identity of the leader (Geddes 1999, Cheibub et al. 2010) and examined the role of institutions such as elections, ruling parties, and legislatures (Magaloni 2006, Brownlee 2007, Gandhi 2008, Blaydes 2010), which could be used to aid the dictator in cooptation. Meanwhile, the simultaneous feats of managing elite conflict and maintaining the loyalty of citizens drew widespread scholarly attention to the role of the coercive apparatus—both as a tool for social control and as a source of coup threats (Svolik 2012, Greitens 2016). Coercion and cooptation remain essential for dictators seeking to generate acquiescence, and these factors lay at the heart of much of the earlier analysis of their regimes. Yet, subsequent work builds on these foundations to more deeply examine the politics of information inside of dictatorships, typically centered on the concepts of censorship and propaganda.
+
+These two types of tools—control and manipulation—are closely connected. While censorship, in common usage, describes the removal, blocking, or banning of particular information, and propaganda refers to the dissemination of positive information or “spin,” recent research on the information politics of authoritarian societies has recognized significant ambiguity in such a division. Roberts (2018), for example, classifies “flooding,” or autocrats’ practice of filling the discourse with positive or inoffensive news, as a method of censorship, since by raising the costs of accessing sensitive information, authorities obscure it with essentially the same effects as deletion [see also Minozzi’s (2011) account of “jamming” in a democratic context]. Similarly, censoring reports of internal dissent can result in an information environment that projects harmony in ways that match the ends of propaganda.
+
+While propaganda—or the production of spin involving a range of information manipulation technologies besides filtering—is comparatively understudied relative to work on censorship (e.g., Roberts 2020), a proliferation of new research sheds light on propaganda’s political role in authoritarian societies. These studies address timeless questions as to why states produce propaganda. They also turn to micro-level questions about the extent to which citizens are resilient to propaganda messages, such as: When does propaganda affect beliefs and behavior? And when does it create backlash or other undesired consequences?
+
+This review begins with the origins of propaganda, discussing several accounts of why states produce it. The reasons range from persuasion, distraction, and demobilization to the desire to inculcate nationalism, foster hegemonic worldviews, or recruit future generations. A second set of questions follows: Whatever its purpose, is propaganda effective? Does it change attitudes and/or behavior? Parsing the evidence on these questions requires deeper discussion of the mechanisms by which propaganda’s effects manifest. These studies show the need to explore more deeply what accounts for variation in the consumption of propaganda and its effectiveness. Finally, we briefly discuss trade-offs and unintended consequences of propaganda before ending with potential future directions in scholarship.
+
+WHY STATES PRODUCE PROPAGANDA
+
+Any government or regime that finds itself unable to propagate messages widely risks slipping quickly into irrelevance. While dictators may prefer to keep many details of internal deliberations private, they must make some things observable and known to project a strong and unified image of the regime (Schedler & Hoffmann 2016). There is a reason that the quick seizure of mass media by those attempting a coup is nearly universal in such episodes; President Erdo˘gan’s
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+264
+
+Rosenfeld
+
+• Wallace
+
+successful turning back of the July 2016 coup in Turkey demonstrates what can occur when communication channels are not captured (Esen & Gumuscu 2017). Like governments and leaders in more democratic settings, authoritarian regimes do more than merely report actions; they spin the truth, inflate statistics, exaggerate accomplishments, and hide failures—they propagandize. Indeed, many invest heavily in the production of propaganda. Rival accounts explain this expenditure of time, talent, and treasure, debating the extent to which propaganda is persuasive rather than merely dominating (Carter & Carter 2023).
+
+Persuasion can come in different forms for different purposes. Perhaps the quintessential kind of propaganda attempts to persuade individuals that the leader is good and competent and, thus, implicitly, that his continued rule should be accepted (Guriev & Treisman 2022). Studies of campaign advertising in democratic societies show that exposure to simple juxtapositions of positive icons with a politician can improve attitudes about the politician even in an open information environment with free contestation (Brader 2005, Huber & Arceneaux 2007). Such messaging is likely to be even more effective in the comparatively constrained context of a nondemocratic regime. Dictators manipulate information to spin narratives of public-mindedness and competence about themselves (Guriev & Treisman 2019, 2022). Increasingly common is propaganda that hides state violence or reframes repressive actions as protecting the public from chaos and disorder (Lankina & Watanabe 2017). These narratives can evolve over time, with changing emphases and shifting institutional structures and investments (Creemers 2017).
+
+However, leaders attempting to demonstrate competence can raise the question of competence at what. Competence typically evokes widely shared goals such as order or economic growth. Yet competence is multidimensional, and political actors select dimensions for their own purposes. This selection of emphasis can be contested. For instance, a rapidly growing economy might simultaneously experience rising income inequality, allowing a dictatorship to depict itself as competent at promoting economic development while remaining susceptible to criticisms for betraying egalitarian values (Wallace 2022). The multidimensionality of competence thus plausibly creates for autocrats both opportunities for framing performance from a more flattering angle and risks for competing narratives to emerge.
+
+Propaganda can also attempt to shape citizens’ beliefs beyond a simple assessment of the leader as a good or bad type, and it operates in multiple modes. Education represents a key phase of life when individuals are socialized, learning about the ways in which a particular society functions and what it values. While mass education has democratic properties in that it transfers skills to the poor (Stasavage 2005), it can also instill ideas that inculcate obedience (Paglayan 2022). Education can indoctrinate citizens to promote nationalism and loyalty (Darden & Grzymala-Busse 2006, Cantoni et al. 2017, Fouka 2019, Koesel 2020, Paglayan 2021). It can affect the very preferences that citizens form, mold how they perceive the environments in which they live, and shape the worldviews that they come to hold (Dahl 1971, Wallace 2022). Propaganda does not require ideology or an ideological coherence, but intellectual frameworks can help deepen a regime’s efforts at indoctrination (Lee 1991).
+
+Many studies look beyond persuasion for why states might produce propaganda, focusing instead on domination. As Huang (2015b, p. 420) summarizes this view, “such propaganda is not meant to ‘brainwash’ people with its specific content about how good the government is, but rather to forewarn the society about how strong it is via the act of the propaganda itself.” The very stiltedness of the presentation signals that the regime does not need to pander to its audience, reflecting its confidence, the inevitability and invulnerability of its continued rule (Dukalskis 2017). So-called hard propaganda may fail to persuade its audience of its message, but it can convince recipients that the state should be feared (Huang 2018). Carter & Carter (2023, p. 15) propose that unconstrained dictatorships focus on domination through “absurd propaganda,” while those
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+www.annualreviews.org
+
+• Propaganda in Authoritarian Societies
+
+265
+
+facing constraints rely on “honest propaganda” to persuade. Dominating messaging need not be coherent; the firehose of utterings itself is a powerful indicator of the state’s resources, in addition to serving censorious purposes (Paul & Matthews 2016).
+
+Propaganda as domination can go beyond citizens encountering the ubiquitous presence of the regime’s preferred symbols in daily life. The production of this panorama often requires the active participation of citizens themselves, whether of the greengrocer leaving a “workers of the world unite” sign in his store or a Syrian at a stadium holding up a placard that, when joined by thousands of others, depicts the dictator (Havel 1985, Wedeen 1999). When people act as if they believe in the substance of a regime’s propaganda, they substantiate it, as doing so builds habits of action and of mind that further generate compliance and increase the difficulty of defiance (Wedeen 1999).
+
+Empirically, both persuasive and dominating propaganda are present in real-world examples; yet our understanding of the mechanisms by which they accomplish the propagandist’s ends are in tension. On one hand, the persuasive logic of propaganda values honesty, believability, and credibility to convince broad swaths of the population of its claims. This ostensible constraint on the messaging—keeping reality close and outright lies rare—is particularly useful in crises, when being able to credibly deny the existence of the crisis might have real value to a regime (King et al. 2017). On the other hand, the dominating logic pushes absurdity in order to demonstrate how far the regime is willing and able to go to distort the truth, thus signaling its strength in a costly manner. Former Chinese premier Zhu Rongji (2015, p. 83) discussed the importance of balance:
+
+Publicity, we’ve often said, should “primarily report positively and primarily publicize achievements.” Although this policy is correct, it also constrains us. What does it mean to report positively? Does it mean 99% of reports should be positive? Won’t 98% or 80% be acceptable? I wonder if 51% would also be acceptable.
+
+The optimal propaganda balance aims to maintain confidence in both the regime at large and in the information system, to be responsive to problems and prevent potential crises. Propaganda is optimally calibrated when the regime can still intensify it in case a crisis emerges.
+
+What are the propagandist’s ends? Most scholarship takes regime survival as the chief motivation for propaganda. Propaganda aids survival by inducing compliance or acquiescence to the regime in both beliefs and behavior. At the individual level, the two logics separate on the operative mechanisms. The persuasive logic holds that propaganda instills beliefs that the government is good and thus there is no need to resist, whereas by the domination logic, propaganda pushes individuals to see the government as strong and thus there is no way to resist. These mechanisms have corresponding operations at the collective level. Besides mitigating the threat from below, they also shape elite beliefs, which is significant as most authoritarian regimes end not through mass revolts but through coups (Svolik 2012, Geddes et al. 2018). However, those contemplating coups tend to take seriously the possibility of resistance from below; so while a coup’s outcome is fundamentally uncertain, context and information about popular beliefs about the regime bound this uncertainty.
+
+Extreme propaganda can induce skepticism but effectuate domination, especially when citizens are forced to substantiate the propaganda. How does such absurdity arise? One view might see propagandists’ lurch for absurdity—such as the sobriquet “premier pharmacist” bestowed on Syria’s President Assad—as a signal of strength operating through a dominating logic (Wedeen 1999), but ratcheting effects comprise another, underdiscussed mechanism producing absurdity. If reality is exaggerated at any given time, then—in the absence of some discontinuity that allows one to reset—the pressure to further exaggerate at later times becomes strong. For instance, if official economic growth is overreported at a given moment, then either the growth rate or the level will disappoint in future moments without continued falsification (Wallace 2016). Similarly,
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+266
+
+Rosenfeld
+
+• Wallace
+
+the industrial organization of propaganda work can reinforce these ratcheting dynamics. Once a statement about production or a policy’s success has been put out into the world, walking it back is difficult and risky. Individual propaganda system workers may be able to claim credit for championing a particular number, slogan, or image in ways that redound positively to themselves even at the expense of stretching the overall messaging further than its ostensible ideal point.
+
+Views on propaganda as domination tend to be associated with a perspective on authoritarian governance that emphasizes demobilization. Many have seen twenty-first-century dictators as interested only in cultivating citizens’ political apathy (e.g., Robertson 2011, pp. 30–31; Dukalskis 2017). However, regimes also choose other rhetorical strategies: Xi Jinping has aggressively politicized life in China, using nationalism and actively encouraging engagement with political life—at both the emotional and intellectual levels—in ways that evoke ideological regimes of a different era, considered by some a failed experiment (Robinson 2006, p. 504; Wallace 2022).
+
+While general quiescence aids continued authoritarian rule, regimes often need individuals, especially elites, to act in specific ways and not merely submit. For instance, outside of planned economies,businesspeople need to choose to invest—to locate production,to hire laborers,to fund research, and so on—for the economy to function. Information controls and propaganda can add friction and sow distrust that make an overly domineering state a less advantageous place to operate commercially (Wallace 2016, Roberts 2018). Relying on propaganda thus implies trade-offs for an autocrat, a point we return to below.
+
+Beyond relations with the population, propaganda can undergird internal regime politics as well. Propaganda can help internal and external cohesion and recruitment. While regular citizens are exposed to it, the vocabulary of state rhetoric and propaganda saturates those inside a political regime, who are distinct from the general population in the depth of their dosage. Officials must deftly navigate the byways of messages they deliver to remain officials. Individuals inside political networks make “nauseating displays of loyalty” to higher-level officials (Shih 2008), and being publicly enmeshed in the regime’s propaganda can contaminate them from any subsequent political activities, “disqualify[ing] them as credible interlocutors for regime opponents” (Schedler & Hoffmann 2016, p. 108). Speech supporting the propaganda of an unpopular regime could serve as a costly signal of preferences and aid the dictator in identifying talent, whereas if a regime is popular, then finding people willing to work for it should not be difficult (see Svolik 2012).
+
+Propaganda can cross borders as well. Public diplomacy, portraying one’s state in the best light possible, is ubiquitous, but some authoritarian regimes have increasingly directed their propaganda pipelines to external audiences (Carter & Carter 2021a, Dukalskis 2021). States even disseminate propaganda on networks that they censor at home (Fan et al. 2024). Russia is widely seen as having initiated a disinformation campaign or electoral interference around the 2016 American elections (Golovchenko et al. 2020, Lukito 2020), which included not only simple if aggressive attempts to disinform the public but also interesting examples of flooding apolitical content consistent with demobilizing efforts in domestic crises (Cirone & Hobbs 2023). Similar campaigns were waged on European elections (Brattburg & Maurer 2018). Beyond the specific interventions, Russia’s international television network, RT, along with China’s CGTN, chug along endeavoring to shift attitudes on some, but not all, issues (Carter & Carter 2021a).
+
+IS PROPAGANDA EFFECTIVE?
+
+Regimes clearly invest in propaganda believing that it is effective. But is it? An important ongoing debate concerns the extent to which propaganda is effective at shaping attitudes and behaviors. The empirical literature on these questions has grown rapidly over the past decade and encompasses research on a range of outcomes: from beliefs about regime performance to leader approval to violent political behavior to disengagement,apathy,and reduced willingness to protest.
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+www.annualreviews.org
+
+• Propaganda in Authoritarian Societies
+
+267
+
+More meso- and micro-level theorizing could help reconcile these studies’ mixed conclusions on propaganda’s effectiveness.
+
+On the one hand, research shows that authoritarian regimes use government-controlled media effectively to shape both citizens’ attitudes and behavior (e.g., Stockmann & Gallagher 2011, Yanagizawa-Drott 2014, Adena et al. 2015, Huang 2015b, Bleck & Michelitch 2017, Little 2017, Pan et al. 2022). For example, Huang (2018) shows that exposure to hard propaganda reduces Chinese citizens’ willingness to protest, and Carter & Carter’s (2021b) analysis of state-run newspapers across 30 countries finds that propaganda discourages dissent, particularly over the short term. Stockmann & Gallagher (2011) show that Chinese state propaganda helps to channel aggrieved citizens to the legal system, a safer outcome for the regime. Yanagizawa-Drott (2014) meanwhile demonstrates that radio propaganda encouraging violence against the Tutsi minority during the Rwandan genocide significantly increased participation in the violence. In a similar vein, Adena et al. (2015) show that a popular pro-Nazi radio broadcast encouraged listeners to join the Nazi Party and overtly express anti-Semitism through acts of violence and discrimination. Syunyaev (2022) argues that citizens’ knowledge that propaganda outlets are under the regime’s control may even make them more effective.
+
+Of the evidence that propaganda persuades, Pan et al.’s (2022) is particularly impressive. The authors show that by changing the framing of a policy issue, government propaganda can actually shift public attitudes to the opposite side of the issue. Importantly, their results suggest that, if well framed, government propaganda has great latitude to move the public to support even policies that the regime previously rejected.
+
+Conversely, some other experimental and quasi-experimental studies underscore that propaganda has, at least under certain circumstances, only modest persuasive effects. Selb & Munzert (2018) find that Hitler’s speeches—centerpieces of Nazi propaganda—had a negligible effect on voter support in the national elections prior to the Nazi Party’s seizure of power. Bleck & Michelitch (2017), meanwhile, show that exposure to regime propaganda following a coup in Mali increased the salience of national identity and was persuasive on some policy issues but had little effect on approval for the junta—no doubt that propaganda’s most important aim. Other studies also suggest propaganda’s more limited effect (Peisakhin & Rozenas 2018, Rosenfeld 2018, Aytaç 2021).
+
+Yet whether or not propaganda changes citizens’ regime attitudes or mobilizes proregime behaviors, propaganda may still be successful primarily by undermining citizens’ sense of their own political agency. As Alyukov (2022, p. 764) writes, propaganda messages succeed “not because they are persuasive, but because they benefit from political apathy produced by a broader authoritarian environment.” In turn, they produce more cynicism and disengagement—contributing to a vicious cycle that may help maintain regimes in power.
+
+Content
+
+One approach to explaining variation in propaganda’s effectiveness focuses on the characteristics of propaganda itself. This line of reasoning holds that propaganda must be accepted to be effective (Horz 2021); that is, it must earn the confidence of citizens (Kamenica & Gentzkow 2011). If citizens reject regime sources or stories out of hand, propaganda will not have the desired effect. Propaganda must have at least some information value to citizens or they may choose to ignore it entirely (Stockmann 2013, Gehlbach & Sonin 2014).
+
+This line of argument helps explain why regimes mix fact with fiction in the production of propaganda (Gehlbach et al. 2016). Regimes lie, but their lies cannot be so outrageous as to provoke disbelief. Like censorship, propaganda may be most effective when it is least obvious (Roberts 2020). Hence, Geddes & Zaller’s (1989) classic study of the Brazilian dictatorship finds that more
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+268
+
+Rosenfeld
+
+• Wallace
+
+educated and politically sophisticated citizens who could detect propaganda messages were more likely to reject them. When the facts are directly observable, propagandists must tread carefully.
+
+Indeed, the overall economic situation is quite difficult for regimes to censor, since individuals can compare their own experiences with official information (Hollyer et al. 2011, Wallace 2016). Rosenfeld (2018), for example, shows that when citizens distrust regime media, they give more weight to their own personal economic experiences when deciding whether to support the regime party. Such arguments aid in explaining why regimes often do not hide poor economic performance 1 but rather use their control over information to shift the blame onto others. Thus, autocrats engage in attribution manipulation: taking credit for positive news while blaming foreign forces or other domestic officials when times are bad (Rozenas & Stukal 2019). Sirotkina & Zavadskaya (2020), for example, show that while Putin took credit for the 2014 annexation of Crimea, blame for the economic crisis that ensued was placed on the State Duma and government officials.
+
+Similarly, when evaluating their own government, citizens in autocracies and democracies alike tend to benchmark their country’s relative performance against their perception of the performance of foreign states (Kayser & Peress 2012, Huang 2015a). Autocratic propaganda exploits this fact: News that highlights chaos and poor performance abroad is a common trope (Dukalskis 2017). The converse is also true. Regimes broadcast internal harmony, generating “an image of invincibility” (Magaloni 2006, p. 15), to subvert oppositional politics and diminish the possibility of elite splits (Magaloni 2006, Schedler & Hoffmann 2016).
+
+In general, then, propaganda appears to be most effective not when it hides facts, but when it recasts regime performance in relative terms that are more flattering, or when it changes the agenda to a more favorable issue (Wallace 2016, Aytaç 2021). Yet, even the strategy of using propaganda to deflect responsibility has a mixed empirical track record. It is apparently effective in some cases (Rozenas & Stukal 2019) but not all (Aytaç 2021).
+
+Interaction
+
+Another perspective holds that propaganda can be effective even if it fails to change beliefs and that variations in its effectiveness derive primarily from interactions between receivers. Little (2017) points out that propaganda may affect behavior without affecting beliefs if citizens are motivated by the desire to coordinate. Citizens’ beliefs about the beliefs of others—and, in particular, the credulousness of others—affect the actions they take.Put another way,people may act as if they believe government propaganda even if they do not, so long as there are social or intrinsic incentives to do so.
+
+This argument closely relates to work on preference falsification (Kuran 1991). Interestingly, recent empirical research suggests that citizens’ changing beliefs about an autocrat’s popularity may affect both sincere and insincere expressions of support simultaneously. Buckley et al. (2023) find evidence that Putin’s approval rating is buoyed by an information environment that prevents negative information about the level of his popular support from getting into the media. The authors show that while cues about Putin’s popularity do little to enhance people’s support for him, cues about a decline in his popularity cause both stated and sincere support to fall. In other words, being told that Putin’s support is at its nadir not only seems to give people permission to state their opposition—it seems to actually change their view of him, perhaps because they infer something about his competence or performance that has undermined support.
+
+1 Interestingly, Erlich & Garner (2023) find that Ukrainians were more likely to be persuaded by Russian propaganda stories about the economy than by stories about politics, history, or the military.
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+www.annualreviews.org
+
+• Propaganda in Authoritarian Societies
+
+269
+
+In any case, such social mechanisms for the reproduction of conformity are clearly aided by fear and intimidation (Gitmez & Sonin 2023). Accounts of endogenous popularity help to explain the effectiveness of repression that is matched with hard or extravagant and apparently unbelievable forms of propaganda, as studied by Wedeen (1999) in Syria or Huang (2015b) in China. Again, the interactive perspective underscores that propaganda may have contrasting effects on attitudes and behavior.
+
+Political Environment
+
+Seeking to explain variation in propaganda’s effectiveness, scholars have also emphasized certain features of the political environment. Here we focus in particular on the presence of constraining institutions, the extent of repression, and the role of crises. Carter & Carter (2023) contend that the power of propaganda and the effectiveness of different types of propaganda messages depend on the degree of electoral constraint that an autocrat faces. Where autocrats are more constrained, the effectiveness of propaganda rests on the appearance of neutrality; where they are able to secure themselves by repression alone, the effectiveness of propaganda rests on threats and absurdities. Indeed, there are theoretical accounts that see propaganda both as a complement and as a substitute for repression. 2 While Guriev & Treisman’s (2020) model assumes that information manipulation and repression are always substitutes, in Gehlbach et al.’s (2023) model, they may be complements (see also Gitmez & Sonin 2023). Meanwhile, Horz (2021) offers a model in which repression reduces the need for propaganda but also increases its extremity.
+
+In accounting for temporal variation in the effectiveness of autocrats’ attempts to manipulate the information environment, some scholars also point to political crises. Because crises present new risks and dangers, citizens become more willing to exert cognitive effort to ascertain the true state of the world (Horz 2021, Chang et al. 2022). By increasing citizens’ skepticism and giving them additional motivation to seek more (and more diverse) sources of information, crises decrease propaganda’s effectiveness. We return to the effect of crises when discussing variation in propaganda consumption, below.
+
+While these and other features of the political environment, such as the availability of entertainment as a diversion from politics (Kern & Hainmueller 2009), may influence propaganda’s effectiveness, these explanations’ empirical track record is mixed (Horz 2021). Micro-level explanations are emerging, and more research could be done at the individual level to pin down the precise mechanisms at play.
+
+Predispositions
+
+In particular, a number of studies suggest that the effect of propaganda depends crucially on citizens’ predispositions toward the message. Adena et al. (2015) find that Nazi radio was most effective in areas where anti-Semitism was historically widespread. Peisakhin & Rozenas (2018) find that Russian television does much more to increase support for pro-Russian parties among those who are already pro-Russian; among those predisposed to distrust Russian parties, proRussian propaganda has little effect and,in some cases,even backfires.In a similar vein, DellaVigna et al. (2014) show that nationalistic Serbian propaganda backfires, increasing anti-Serbian attitudes, among Croats in Croatia. Erlich & Garner (2023), meanwhile, show that Ukrainians who are already supporters of pro-Russian political forces or who have ethnic or linguistic ties to Russia are more likely to be swayed by Russian misinformation. And Robertson (2017) finds that
+
+2 Empirically, some repressive acts—for example, against independent media—may in the short run at least induce more positive “spin” (e.g., Paskhalis et al. 2022).
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+270
+
+Rosenfeld
+
+• Wallace
+
+motivated reasoning helps inoculate Russian regime supporters when propaganda messages are challenged.
+
+These studies imply that political predispositions are a key factor shaping susceptibility to regime messages. But what precisely is the role of prior beliefs about the content of the message in propaganda-induced opinion change? Under what conditions does the effect of propaganda (positive,neutral,negative/backfire) depend on the political predispositions of the target audience? The evidence just discussed contrasts with Pan et al.’s (2022) finding that frames are effective regardless of individual predispositions (and effective enough, recall, to sway opinion to the opposite side of a policy issue). These unsettled questions about the role of predispositions and the circumstances in which they affect the uptake of propaganda messages are ripe for additional research.
+
+At least two types of predispositions potentially operate together. First, individuals have predispositions with regard to the subject of the government’s message or the regime’s competence in that area. This is how predispositions are typically understood in the literature. Second, however, individuals have predispositions toward sources in the form of beliefs about media bias. When citizens receive new messages, they simultaneously update their beliefs about both regime competence and media slant (Rozenas et al. 2018). Splitting apart and examining each of these two dimensions of predisposition provides greater analytical leverage than considering either one individually.
+
+VARIATION IN THE CONSUMPTION OF AUTHORITARIAN PROPAGANDA
+
+One issue that has been suggestively linked to the results on predisposition is the availability of competing viewpoints. When alternative voices are absent—as in a hegemonic information environment—predisposition likely matters less than it does when media messages are polarized, or at least lack consensus (Pan et al. 2022). Related to this is the availability of contextual information. State-dominated media environments not only eliminate alternative perspectives; they also suppress contextual information that would allow a person to connect their predispositions to regime messages (and their alternatives). In this sense, authoritarian regimes prevent citizens from being able to choose sources of information other than regime propaganda outlets.
+
+However, intriguingly, research also shows that state propaganda may attenuate demand for uncensored information. Chen & Yang (2019), for example, find that even with tools to bypass media censorship, Chinese students show little interest in uncensored information. Further, their findings suggest that fear is unlikely to be the reason that students failed to consume alternative information; instead, the authors conclude that most of their study’s subjects saw little value in independent information—at least not until they were nudged to consume it.
+
+This puzzle of why people consume regime propaganda, even when they know it to be propaganda, is the subject of several recent investigations. Clearly, regime propaganda is more accessible, even ubiquitous. But the research suggests that regime propaganda’s appeal for some audiences also has crucially to do with its content. Holding ease of access constant, Blum (2023) finds in a “blind taste-test” that several content-based factors drive the preference for regime media in Russia. One factor is emotional appeal. Blum’s experiments reveal that state media content is more likely to engage viewers’ emotions and to elicit positive emotions like pride and hope; independent media, by contrast, were more likely to elicit negative emotions like anxiety and sadness. A second factor is the preference for confirmatory content. Regime propaganda often conforms to viewers’ prior beliefs and is politically appealing—for example, Russian media emphasize foreigners’ anti-Russian bias, which conforms with many citizens’ belief that Russia has been mistreated by the West. Blum (2023) finds that people who watch state media consider its content more interesting, important, and relevant—and less biased—than independent sources. In a similar vein,
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+www.annualreviews.org
+
+• Propaganda in Authoritarian Societies
+
+271
+
+Shirikov (2024a,b) finds that regime supporters are more susceptible to propaganda-consistent misinformation. Acceptance of regime messages that conform with the viewer’s prior beliefs lowers cognitive dissonance. One potentially important implication is that propaganda’s appeal may depend primarily on popular support for the regime and have limited utility in convincing government critics. Propaganda consolidates supporters but may do less to sway opponents.
+
+Finally, a third factor that encourages people to consume regime propaganda is the perception that its content is socially useful. State propaganda outlets and independent/commercial media differ not only in the tone of coverage but also in the topics they cover. Without being told the name of the source, Russians in Blum’s (2023) experiments reported that stories on state media were more likely to be a topic of conversation, that the events they described were more personally relevant, and that they had a civic duty to know about the topics covered, compared with information reported by independent media. State propaganda, whether or not citizens believe it, thus serves as a form of social currency. As Little (2017) describes, even those who are incredulous about state propaganda may consume it, if they believe others are credulous and desire to maintain harmony with the group.
+
+Change
+
+Closely related to these explanations for variation in the consumption of authoritarian propaganda is the question: Under what conditions will people break out of the propaganda bubble and change their patterns of media consumption? This question is of vital scholarly interest and has important practical implications for countering authoritarian propaganda. It has been the subject of a growing body of research.
+
+It is now well established in the literature that even small interventions by the state—such as slowing the download speeds of internet websites, reordering search results, or removing content such that remaining posts on sensitive issues are harder to find—shape patterns of media consumption in authoritarian settings (Roberts 2020). Together with coordinated efforts to distract the public (Sobolev 2019) and crowd out alternative sources of information by “flooding” (Roberts 2018), such strategies increase the cost of information and make sensitive information more difficult to access. Hence, Stukal et al. (2022) show that Russian progovernment bots increase both the volume and diversity of their tweets during periods of heightened opposition activity. Regimes’ tax on information limits who is willing and able to pay the costs associated with accessing independent information.
+
+Research to date has tested several hypotheses about the conditions under which citizens are more likely to pay these costs and break out of their existing patterns of propaganda consumption. First, research shows people are willing to pay higher costs to access entertainment (Roberts 2018). One consequence, then, of state efforts to limit access to entertainment from non-statecontrolled sources can be incidental exposure to independent political information. Hobbs & Roberts (2018), for instance, show that China’s censoring of Instagram encouraged virtual private network downloads, which in turn opened access to Wikipedia, Twitter, and other sources of information.
+
+Second, several recent studies demonstrate how crises shape the consumption of propaganda in authoritarian settings. Because crises frequently impact people’s sense of personal safety, they inspire a more active search for relevant information. Chang et al. (2022) show that the COVID-19 outbreak in China made citizens more inclined to circumvent censorship. Citizens gained alternative information not only about COVID-19 but also about unrelated sensitive political topics. Pop-Eleches et al. (2023) further investigate the emotional mechanisms that drive information acquisition in a crisis. In the case of the COVID-19 crisis in Russia, their study shows that heightened anxiety not only spurred information acquisition, it also encouraged regime supporters to
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+272
+
+Rosenfeld
+
+• Wallace
+
+access media they did not typically consume and increased their interest in independent sources of information. Crises that impose sudden censorship have also been linked to increased exposure to long-blocked political content as citizens seek to restore access to favored sources of entertainment (Hobbs & Roberts 2018). In this way, as well, crises may shift the balance of government propaganda versus independent content that citizens consume.
+
+Interventions
+
+While the literature just discussed looks at regime-initiated and natural events that can trigger changes in propaganda consumption, other recent studies explore interventions that could shape citizens’ consumption of regime misinformation (see Blair et al. 2024 for a review). In particular, new experimental work demonstrates the promise (and limitations) of several strategies that might induce citizens to be more skeptical about their consumption of propaganda messages.
+
+One approach uses informational interventions or bias corrections. For example, Huang (2021) shows that a simple informational intervention that exposes Chinese citizens to true information about perceptions of China around the world makes their own initial propaganda-inflated perceptions more accurate, an effect that endures for some time. Such evidence implies that propaganda succeeds primarily when its messages go uncontested—that is, through its monopoly on the truth.
+
+Other experimental work from more democratic information environments suggests that countering misperceptions may not be straightforward, even in the presence of competing information. Druckman (2022), for example, finds that the efficacy of corrections is undermined by information that either reinforces the initial misperception or questions its validity. Like most scholarly work on misinformation correction—an interdisciplinary research field that has grown rapidly over the past 10 years—Druckman’s study was conducted in a Western democracy, the United States. More work on this important subject in autocratic settings is needed. Yet, autocrats clearly hold an advantage at reinforcing regime messages where media compete on an unequal playing field, and they frequently undermine the validity of competing messages by attacking the motives of their source—for instance, by alleging foreign influence or labeling alternative voices as extremist (Sanovich 2018, Lonardo et al. 2020).
+
+Another approach is to identify the characteristics of individuals who are resistant to propaganda in hopes of devising interventions that would increase the resilience of vulnerable populations. Accordingly, Erlich et al. (2023) show that people who engage in more analytical thinking or “cognitive reflection” are less likely to believe pro-Kremlin propaganda, closely mirroring the distinction between skeptical and unskeptical citizens in some formal literature (e.g., Horz 2021). This holds true regardless of the subjects’ attitudes toward Russia, though again the effect is less pronounced for those with an initially pro-Russian orientation. Such work suggests that interventions aimed at encouraging people to rely less on intuitions and engage in more effortful deliberation may reduce the persuasive power of false regime propaganda. A further task for future research is to sort out whether raising political knowledge or interrupting “lazy thinking” is more effective, or whether other interventions are more powerful. In conclusion, there is still much to learn about the effectiveness of many prominent interventions designed to combat misinformation in authoritarian societies.
+
+TRADE-OFFS AND UNINTENDED CONSEQUENCES
+
+Distorting the information environment with propaganda might be a reasonable strategy for authoritarian regimes. However, doing so can have serious trade-offs and negative unintended consequences for governments. Many have noted that severe disasters disproportionately fall
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+www.annualreviews.org
+
+• Propaganda in Authoritarian Societies
+
+273
+
+on people in dictatorships (Sen 1999), often from delusional decisions made by misinformed dictators (Svolik 2012).
+
+Scott (1998) documents multiple devastating incidents where informational failures ended up decimating populations. Sen’s (1999) famous finding that democracies avoid famines while dictatorships suffer from them suggests that information transmission and power relations are key factors in catastrophe. The epic famine of China’s Great Leap Forward under Mao killed tens of millions as officials up and down the hierarchy reported production numbers that matched the propaganda rather than the reality in the fields (Yang 2012). International crises have also precipitated from dictators coming to believe their own propaganda, with Saddam Hussein and Vladimir Putin as recent examples (Casey & Gunitsky 2022).
+
+Why does this occur? Propaganda, along with media restrictions and censorship, can lead to overconfidence at the top of a regime. But propaganda-filled information environments can also generate failures through bottom-up processes.
+
+While the wider populace is aware of the state’s rhetoric, those inside the regime are saturated with it. Officials know the propaganda intimately, working within and toward the regime’s slogans and priorities, which they also utter from their own mouths. A propaganda apparatus that pushes a line that the economy is rapidly growing, especially when paired with an internal institutional setup that rewards fast growth, will lead to local lying (Gao 2016, Pan & Chen 2018, Ghosh 2020) and economic falsification (Tsai 2008; Wallace 2016, 2022). 3 Dictatorships have been shown to lie about their economic statistics at the national level as well (Magee & Doces 2014).
+
+While there has been less research on other issue areas, similar dynamics are likely also at play when the propaganda apparatus touts growing military might and modernization. The pairing of propaganda and institutional incentives for officials within the military and security apparatus to lie about their readiness and misrepresent capabilities should have similarly devastating consequences. More empirical work on this area is likely to follow from Russia’s miscalculations in Ukraine.
+
+CONCLUSION AND NEXT STEPS
+
+The growing body of findings on authoritarian propaganda suggests multiple directions for future research. More work could be done to understand, for example, the changing content of domestic propaganda; how the dissemination and uptake of propaganda beyond a state’s borders have evolved; the relationship between propaganda and other tools in the arsenal of authoritarian regimes, including repression, policy actions, and censorship; the effectiveness of interventions to counter propaganda and disinformation; and finally, how shifting technologies—most notably artificial intelligence (AI)—will affect propaganda’s future.
+
+Devoting systematic attention to the content, form, and frequency of propaganda can improve our understanding of regimes’ shifting priorities and threat perceptions as well as their internal personnel dynamics like network connections (Shih 2008). As with other domains, it is important to try to capture what is omitted in addition to what is broadcast. Even in North Korea, arguably the world’s most dominance-oriented propaganda system, regime messaging exhibits shifts in language and attempts to attract support. North Korean propaganda broadcasts are not simply an effort to inspire fear but offer an opportunity to extract meaning about an opaque regime (Boussalis et al. 2023).
+
+As time passes and the tools that have allowed large-scale analysis of propaganda continue to develop, there will be ever more opportunities to capture changes and explain variation. With the
+
+3 See also Dimitrov (2023) and Gueorguiev (2021) on systems of information gathering and processing.
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+274
+
+Rosenfeld
+
+• Wallace
+
+development of more sophisticated techniques of quantitative text analysis (Rodriguez et al. 2023) and communication becoming increasingly internet-based, tracking the nuances of large-scale propaganda operations is another avenue of research ahead. Particularly relevant is how regimes would use propaganda in moments that are outside of the normal range of political challenges that they have faced during the periods in which their propaganda has been closely studied. For instance, how would the Chinese propaganda apparatus respond to an actual economic downturn? Would it simply follow the same playbook that it uses to address slowing growth? Would it increase the frequency or urgency of propaganda messages? Or would there be changes in kind—different frames or techniques—to meet the moment? Scholars studying the production of propaganda in Russia are facing a similar set of questions about continuity and change as the Russian propaganda machine seeks to justify Russia’s full-scale war in Ukraine (Goode 2023).
+
+While television, radio, and even newspapers crossed national borders, the rising domination of internet-based media consumption enhances the possibilities for disseminating international propaganda of various forms. The most-used technologies and platforms also expand typical understandings about international information threats. The most significant threats from foreign actors may not lie in privacy violations but in foreign governments’ ability to cheaply broadcast propaganda messages.
+
+Anonymity online is pervasive, allowing the source of a given message to remain hidden or disguised. Individual accounts or avatars may or may not be people at all and can easily claim to be located in or affiliated with rival states. Trolls and bot armies might flood a platform purporting to be from a country holding an election rather than a state-sponsored intelligence unit in an authoritarian’s propaganda apparatus. Such was the intent of Russia’s Internet Research Agency during the 2016 US presidential election,though research suggests it had little influence on voters’ attitudes, polarization, or voting (Eady et al. 2023). While this cloak of anonymity is often easy for experts to pull back, the ability to stir up controversies can serve the interests of the propagandists. While, again, persuasion might be best from the dictator’s perspective, polluting a discourse can undermine generalized trust in another polity with potentially serious political, economic, and social knock-on effects for the adversary.
+
+Platforms controlled by authoritarian and propagandizing states are particularly relevant here, as algorithms rather than users’ choices dictate what is seen. For instance, the Chinese-controlled TikTok has come to be seen as politically suspect by many politicians in the United States. To date, the bulk of complaints about the platform focus on data privacy concerns—that is, having a Chinese-controlled entity possess detailed location data and information on the consumption habits of particular individuals may make them vulnerable to blackmail or may be weaponized in some other fashion (Schumer & Cotton 2019). However, another aspect of these platforms may be more problematic: Control over an opaque algorithm that seamlessly grants one the ability to broadcast particular videos to millions of people (or to hide them) at a moment’s notice could serve as a powerful propaganda tool. Video platforms, such as TikTok and YouTube, are perhaps particularly well suited to shifting people’s perspectives and positions. Video as a medium can use sounds and images as well as words to wrench emotions more easily and deeply than short bursts of text. While more expensive to produce than simple text-based propaganda, the costs of these video formats are still paltry compared with traditional television or film media. Research on the effect of new nontext formats is still in its infancy, and more broadly, the impact of foreign information influence operations and their interaction with other strategies of foreign influence remain important topics for future work.
+
+Next, grappling with whether and under what conditions tools like propaganda and cooptation are complements or substitutes for repression remains an important challenge for future research (e.g., Gehlbach et al. 2023, Gitmez & Sonin 2023). Repression and propaganda have long been
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+www.annualreviews.org
+
+• Propaganda in Authoritarian Societies
+
+275
+
+studied together. Cassinelli (1960), for instance, sees propaganda under totalitarianism principally as domination but notes that totalitarian regimes often repressed broad classes of the population regardless of their fealty to the propagandized ideology of the day. On the other hand, most recent analyses see repression under authoritarianism as targeted at individuals rather than generalized (e.g., Guriev & Treisman 2022) and view cases like China’s sweeping actions in Xinjiang as exceptions (Brazys & Dukalskis 2020, Greitens et al. 2020). While it invites backlash, broadcasting the use of the coercive apparatus against those deemed internal enemies represents an important piece in the propaganda toolkit of dictators that is surely worthy of future study.
+
+Cooptation—whether through direct payments, social redistribution through welfare systems, or policy concessions—also represents a key pillar of authoritarian rule that can intersect with propaganda. One argument is that the possibility of real policy concessions reduces the need for a government to rely on information manipulation or propaganda, and perhaps even makes the propaganda that is disseminated more credible (Chen & Xu 2017). A more cynical perspective might see propaganda about such efforts as describing not true acts of generosity, benevolence, or legitimate governance but merely symbolic gestures intended to construct a facade of decency and preserve the regime’s rule. Potential lines of inquiry examining how policy shifts in different domains are justified, when triumphs are propagandized, and the half-life of political successes could be fruitful.
+
+Ultimately, synthesizing the informational and institutional dimensions of authoritarian politics will be needed to create a well-rounded perspective on political control under dictatorship (Hassan et al. 2022).
+
+Finally, the sudden explosion of capabilities categorized as AI will likely stimulate fascinating research in the years to come. Content on social media platforms such as WhatsApp, Facebook, and X is consumed rapidly, making critical assessment rare—a feature that may aid in the uptake of misinformation. What is more, these platforms make it possible to reach a large audience with a single post at near zero cost. The expense to engage in propaganda on these platforms, compared with prior technologies, is negligible, as indicated by the Chinese expression “Fifty Cent Party,” signifying the low payment received for positive posting (Han 2015, 2018). As the cost of producing propaganda decreases, the strength signaled by propaganda decreases alongside it, suggesting perhaps a limit to propaganda strategies focused on domination. In a world where troll armies can be paid cheaply or merely programmed by bots or even AI, propaganda may become ubiquitous, likely eroding trust in all manner of political and social discourse.
+
+To go further, one might imagine that AI could represent a revolution in the world of authoritarian propaganda. Indeed, Harari (2018) argues that machine learning and other AI technologies can help ameliorate authoritarian information problems broadly—automating the collecting, processing, and analyzing of citizens’ thoughts and creating an ability to manipulate them. Perhaps such technological developments would allow propaganda to shift from broadcasting to narrowcasting tailored for persuasion or dominating signals (Rodan 1998). However, this perspective fails to address the classic “garbage in, garbage out” problem that would afflict such automated processes, particularly in already distorted information environments (Farrell et al. 2022). Digital dictatorships face a dilemma: To gain access to higher-quality data about their own population’s worldviews, preferences, and beliefs (so as to police them) would require relinquishing control of platforms in the short run, which might make them vulnerable to dissent (Yang 2023). Yang’s work shows the distorted nature of AI systems when trained on the constrained set of posts made in a restricted political atmosphere. Such distortions can lead AI systems to fail to understand and react well in the case of an explosion of open critique, such as one might expect amid a crisis. That said, acquiring better training data sets from more open platforms might mitigate this weakness. The blazing pace of change in this space opens many opportunities for further inquiry.
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+276
+
+Rosenfeld
+
+• Wallace
+
+DISCLOSURE STATEMENT
+
+The authors are not aware of any affiliations, memberships, funding, or financial holdings that might be perceived as affecting the objectivity of this review.
+
+ACKNOWLEDGMENTS
+
+The authors thank Aura Gonzalez for her input and excellent research assistance.
+
+LITERATURE CITED
+
+Adena M, Enikolopov R, Petrova M, Santarosa V, Zhuravskaya E. 2015. Radio and the rise of the Nazis in prewar Germany. Q. J. Econ. 130(4):1885–939 Alyukov M. 2022. Propaganda, authoritarianism, and Russia’s invasion of Ukraine. Nat. Hum. Behav. 6(6):763–
+
+65 Aytaç SE. 2021. Effectiveness of incumbent’s strategic communication during economic crisis under electoral
+
+authoritarianism: evidence from Turkey. Am. Political Sci. Rev. 115(4):1517–23 Blair RA, Gottlieb J, Nyhan B, Paler L, Argote P, Stainfield C. 2024. Interventions to counter misinformation:
+
+lessons from the Global North and applications to the Global South. Curr. Opin. Psychol. 55:101732 Blaydes L. 2010. Elections and Distributive Politics in Egypt. Cambridge, UK: Cambridge Univ. Press Bleck J, Michelitch K. 2017. Capturing the airwaves, capturing the nation? A field experiment on state-run
+
+media effects in the wake of a coup. J. Politics 79(3):873–89 Blum A. 2023. Popular propaganda: audience preferences for state and independent media in an informational autocracy.
+
+Work. Pap., MIT. http://dx.doi.org/10.2139/ssrn.4672426 Boussalis C,Dukalskis A,Gerschewski J.2023.Why it matters what autocrats say: assessing competing theories
+
+of propaganda. Probl. Post-Communism 70(3):241–52 Brader T. 2005. Striking a responsive chord: how political ads motivate and persuade voters by appealing to
+
+emotions. Am. J. Political Sci. 49(2):388–405 Brattberg E, Maurer T. 2018. Russian election interference: Europe’s counter to fake news and cyber attacks.
+
+Brief, Carnegie Endow. Int. Peace, Washington, DC. https://carnegieendowment.org/files/CP_333_
+
+Brattberg_Maurer_Russia_Elections_Interference_Brief_FINAL.pdf Brazys S, Dukalskis A. 2020. China’s message machine. J. Democr. 31(4):59–73 Brownlee J. 2007. Authoritarianism in an Age of Democratization. New York: Cambridge Univ. Press Buckley N, Marquardt K, Reuter O, Tertytchnaya K. 2023. Endogenous popularity: how perceptions of
+
+support affect the popularity of authoritarian regimes. Am. Political Sci. Rev. https://doi.org/10.1017/
+
+S0003055423000618 Cantoni D, Chen Y, Yang DY, Yuchtman N, Zhang YJ. 2017. Curriculum and ideology. J. Political Econ.
+
+125(2):338–92 Carter EB, Carter BL. 2021a. Questioning more: RT, outward-facing propaganda, and the post-west world
+
+order. Sec. Stud. 30(1):49–78 Carter EB, Carter BL. 2021b. Propaganda and protest in autocracies. J. Confl. Resolut. 65(5):919–49 Carter EB, Carter BL. 2023. Propaganda in Autocracies: Institutions, Information, and the Politics of Belief.
+
+Cambridge, UK: Cambridge Univ. Press Casey AE, Gunitsky S. 2022. The bully in the bubble. Foreign Aff., Feb. 4. https://www.foreignaffairs.com/
+
+articles/russian-federation/2022-02-04/bully-bubble Cassinelli CW. 1960. Totalitarianism, ideology, and propaganda. J. Politics 22(1):68–95 Chang KC, Hobbs WR, Roberts ME, Steinert-Threlkeld ZC. 2022. COVID-19 increased censorship
+
+circumvention and access to sensitive topics in China. PNAS 119(4):e2102818119 Cheibub JA, Gandhi J, Vreeland J. 2010. Democracy and dictatorship revisited. Public Choice 143:67–101 Chen J, Xu Y. 2017. Information manipulation and reform in authoritarian regimes. Political Sci. Res. Methods
+
+5(1):163–78 Chen Y, Yang DY. 2019. The impact of media censorship: 1984 or brave new world? Am. Econ. Rev.
+
+109(6):2294–332
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+www.annualreviews.org
+
+• Propaganda in Authoritarian Societies
+
+277
+
+Cirone A, Hobbs WR. 2023. Asymmetric flooding as a tool for foreign influence on social media. Political Sci.
+
+Res. Methods 11(1):160–71 Creemers R. 2017. Cyber China: upgrading propaganda, public opinion work and social management for the
+
+twenty-first century. J. Cont. China 26(103):85–100 Dahl RA. 1971. Polyarchy: Participation and Opposition. New Haven, CT: Yale Univ. Press Darden K, Grzymala-Busse A. 2006. The great divide: literacy, nationalism, and the communist collapse. World
+
+Politics 59(1):83–115 DellaVigna S, Enikolopov R, Mironova V, Petrova M, Zhuravskaya E. 2014. Cross-border media and
+
+nationalism: evidence from Serbian radio in Croatia. Am. Econ. J. Appl. Econ. 6:103–32 Dimitrov MK. 2023. Dictatorship and Information: Authoritarian Regime Resilience in Communist Europe and
+
+China. New York: Oxford Univ. Press Druckman J. 2022. Misperceptions, competition, and support for democracy: Are meta-perception corrections effec-
+
+tive? Northwestern Inst. Policy Res. Work. Pap. Ser. WP-22-46. https://www.ipr.northwestern.edu/
+
+documents/working-papers/2022/wp-22-46.pdf Dukalskis A.2017.The authoritarian public sphere: legitimation and autocratic power in North Korea,Burma,
+
+and China. London: Taylor & Francis Dukalskis A. 2021. Making the World Safe for Dictatorship. New York: Oxford Univ. Press Eady G, Paskhalis T, Zilinsky J, Bonneau R, Nagler J, Tucker JA. 2023. Exposure to the Russian Internet
+
+Research Agency foreign influence campaign on Twitter in the 2016 US election and its relationship to
+
+attitudes and voting behavior. Nat. Commun. 14:62 Erlich A, Garner C. 2023. Is pro-Kremlin disinformation effective? Evidence from Ukraine. Int. J. Press/Politics
+
+28(1):5–28 Erlich A, Garner C, Pennycook G, Rand DG. 2023. Does analytic thinking insulate against pro-Kremlin
+
+disinformation? Evidence from Ukraine. Political Psychol. 44:79–94 Esen B, Gumuscu S. 2017. Turkey: how the coup failed. J. Democr. 28(1):59–73 Fan Y, Pan J, Sheng J. 2024. Strategies of Chinese state media on Twitter. Political Commun. 41(1):4–25 Farrell H, Newman A, Wallace JL. 2022. Spirals of delusion. Foreign Aff., Aug. 31. https://www.
+
+foreignaffairs.com/world/spirals-delusion-artificial-intelligence-decision-making Fouka V. 2019. How do immigrants respond to discrimination? The case of Germans in the US during World
+
+War I. Am. Political Sci. Rev. 113(2):405–22 Gandhi J. 2008. Political Institutions Under Dictatorship. Cambridge, UK: Cambridge Univ. Press Gao J. 2016. “Bypass the lying mouths”: How does the CCP tackle information distortion at local levels? China
+
+Q. 228:950–69 Geddes B. 1999. What do we know about democratization after twenty years? Annu. Rev. Political Sci. 2:115–44 Geddes B, Wright J, Frantz E. 2018. How Dictatorships Work: Power, Personalization, and Collapse. New York:
+
+Cambridge Univ. Press Geddes B,Zaller J.1989.Sources of popular support for authoritarian regimes.Am.J.Political Sci.33(2):319–47 Gehlbach S, Luo Z, Shirikov A, Vorobyrev D. 2023. Is there really a dictator’s dilemma? Information and repression
+
+in autocracy. Work. Pap., Univ. Chicago Gehlbach S, Sonin K. 2014. Government control of the media. J. Public Econ. 118:163–71 Gehlbach S, Sonin K, Svolik MW. 2016. Formal models of nondemocratic politics. Annu. Rev. Political Sci.
+
+19:565–84 Ghosh A. 2020. Making It Count: Statistics and Statecraft in the Early People’s Republic of China. Princeton, NJ:
+
+Princeton Univ. Press Gitmez A, Sonin K. 2023. The dictator’s dilemma: a theory of propaganda and repression. Becker Friedman
+
+Inst. Political Econ. Initiative Work. Pap. 2023-67, Univ. Chicago. https://bfi.uchicago.edu/wp-
+
+content/uploads/2023/05/BFI_WP_2023-67.pdf Golovchenko Y, Buntain C, Eady G, Brown MA, Tucker JA. 2020. Cross-platform state propaganda: Russian
+
+trolls on Twitter and YouTube during the 2016 U.S. presidential election. Int. J. Press/Politics 25(3):357–89 Goode P. 2023. How Russian television normalizes the war. Riddle, July 14. https://ridl.io/how-russian-
+
+television-normalizes-the-war/ Greitens SC. 2016. Dictators and Their Secret Police: Coercive Institutions and State Violence. Cambridge, UK:
+
+Cambridge Univ. Press
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+278
+
+Rosenfeld
+
+• Wallace
+
+Greitens SC, Lee M, Yazici E. 2020. Counterterrorism and preventive repression: China’s changing strategy in Xinjiang. Int. Secur. 44(3):9–47 Gueorguiev D. 2021. Retrofitting Leninism: Participation without Democracy in China. New York: Oxford Univ.
+
+Press Guriev S, Treisman D. 2019. Informational autocrats. J. Econ. Perspect. 33(4):100–27 Guriev S, Treisman D. 2020. A theory of informational autocracy. J. Public Econ. 186:104158 Guriev S, Treisman D. 2022. Spin Dictators. Princeton, NJ: Princeton Univ. Press Han R.2015.Manufacturing consent in cyberspace: China’s “Fifty-Cent Army.”J.Curr.Chinese Aff.44(2):105–
+
+34 Han R. 2018. Contesting Cyberspace in China: Online Expression and Authoritarian Resilience. New York: Columbia
+
+Univ. Press Harari YN. 2018. Why technology favors tyranny. Atlantic, Oct. https://www.theatlantic.com/magazine/
+
+archive/2018/10/yuval-noah-harari-technology-tyranny/568330/ Hassan M, Mattingly D, Nugent ER. 2022. Political control. Annu. Rev. Political Sci. 25:155–74 Havel V. 1985. The Power of the Powerless: Citizens Against the State in Central-Eastern Europe, transl. KJ Armonk.
+
+New York: M.E. Sharpe. From Czech Hobbs WR, Roberts ME. 2018. How sudden censorship can increase access to information. Am. Political Sci.
+
+Rev. 112:621–36 Hollyer JR, Rosendorff BP, Vreeland JR. 2011. Democracy and transparency. J. Politics 73(4):1191–205 Horz CM. 2021. Propaganda and skepticism. Am. J. Political Sci. 65(3):717–32 Huang H. 2015a. International knowledge and domestic evaluations in a changing society: the case of China.
+
+Am. Political Sci. Rev. 109(3):613–34 Huang H. 2015b. Propaganda as signaling. Comp. Politics 47(4):419–37 Huang H. 2018. The pathology of hard propaganda. J. Politics 80(3):1034–38 Huang H. 2021. Triumphalism and the inconvenient truth: correcting national overconfidence in a rising power. Work.
+
+Pap., Univ. Calif. Merced. http://dx.doi.org/10.2139/ssrn.3971231 Huber GA, Arceneaux K. 2007. Identifying the persuasive effects of presidential advertising. Am. J. Political
+
+Sci. 51(4):957–77 Kamenica E, Gentzkow M. 2011. Bayesian persuasion. Am. Econ. Rev. 101(6):2590–615 Kayser MA, Peress M. 2012. Benchmarking across borders: electoral accountability and the necessity of
+
+comparison. Am. Political Sci. Rev. 106(3):661–84 Kern HL, Hainmueller J. 2009. Opium for the masses: how foreign media can stabilize authoritarian regimes.
+
+Political Anal. 17(4):377–99 King G, Pan J, Roberts ME. 2017. How the Chinese government fabricates social media posts for strategic
+
+distraction, not engaged argument. Am. Political Sci. Rev. 111(3):484–501 Koesel KJ. 2020. Legitimacy, resilience, and political education in Russia and China: learning to be loyal. In
+
+Citizens and the State in Authoritarian Regimes: Comparing China and Russia, ed. KJ Koesel, VJ Bunce,
+
+JC Weiss, pp. 250–78. New York: Oxford Univ. Press Kuran T. 1991. Now out of never: the element of surprise in the East European Revolution of 1989. World
+
+Politics 44(1):7–48 Lankina T,Watanabe K.2017.“Russian spring”or “spring betrayal”? The media as a mirror of Putin’s evolving
+
+strategy in Ukraine. Eur.-Asia Stud. 69(10):1526–56 Lee HY. 1991. From Revolutionary Cadres to Party Technocrats in Socialist China. Berkeley: Univ. Calif. Press Little AT. 2017. Propaganda and credulity. Games Econ. Behav. 102:224–32 Lonardo LD, Sun JS, Tyson SA. 2020. Autocratic stability in the shadow of foreign threats. Am. Political Sci.
+
+Rev. 114(4):1247–65 Lukito J. 2020. Coordinating a multi-platform disinformation campaign: Internet Research Agency activity
+
+on three U.S. social media platforms, 2015 to 2017. Political Comm. 37(2):238–55 Magaloni B. 2006. Voting for Autocracy: Hegemonic Party Survival and its Demise in Mexico. New York: Cambridge
+
+Univ. Press Magee CSP, Doces JA. 2014. Reconsidering regime type and growth: lies, dictatorships, and statistics. Int.
+
+Stud. Q. 59(2):223–37
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+www.annualreviews.org
+
+• Propaganda in Authoritarian Societies
+
+279
+
+Minozzi W. 2011. A jamming theory of politics. J. Politics 73(2):301–15 Paglayan AS. 2021. The non-democratic roots of mass education: evidence from 200 years. Am. Political Sci.
+
+Rev. 115(1):179–98 Paglayan AS. 2022. Education or indoctrination? The violent origins of public school systems in an era of
+
+state-building. Am. Political Sci. Rev. 116(4):1242–57 Pan J, Chen K. 2018. Concealing corruption: how Chinese officials distort upward reporting of online
+
+grievances. Am. Political Sci. Rev. 112(3):602–20 Pan J, Shao Z, Xu Y. 2022. How government-controlled media shifts policy attitudes through framing. Political
+
+Sci. Res. Methods 10(2):317–32 Paskhalis T, Rosenfeld B, Tertytchnaya K. 2022. Independent media under pressure: evidence from Russia.
+
+Post-Sov. Aff. 38(3):155–74 Paul C, Matthews M. 2016. The Russian “Firehose of Falsehood” Propaganda Model: Why It Might Work and Options
+
+to Counter It. Santa Monica, CA: RAND Peisakhin L, Rozenas A. 2018. Electoral effects of biased media: Russian television in Ukraine. Am. J. Political
+
+Sci. 62(3):535–50 Pop-Eleches G, Robertson G, Rosenfeld B. 2023. Anxiety and information seeking in an autocracy: lessons from the
+
+COVID pandemic in Russia. Paper presented at Authoritarian Propaganda: Narratives, Public Responses,
+
+and Limitations, Columbia Harriman Inst., Apr. 7. https://bit.ly/3PJMYaa Roberts ME. 2018. Censored: Distraction and Diversion Inside China’s Great Firewall. Princeton, NJ: Princeton
+
+Univ. Press Roberts ME. 2020. Resilience to online censorship. Annu. Rev. Political Sci. 23:401–19 Robertson G. 2011. The Politics of Protest in Hybrid Regimes: Managing Dissent in Post-Communist Russia.
+
+New York: Cambridge Univ. Press Robertson G. 2017. Political orientation, information and perceptions of election fraud: evidence from Russia.
+
+Br. J. Political Sci. 47(3):589–608 Robinson JA. 2006. Economic development and democracy. Annu. Rev. Political Sci. 9:503–27 Rodan G. 1998. The internet and political control in Singapore. Political Sci. Q. 113(1):63–89 Rodriguez PL, Spirling A, Stewart BM. 2023. Embedding regression: models for context-specific description
+
+and inference. Am. Political Sci. Rev. 117(4):1255–74 Rosenfeld B. 2018. The popularity costs of economic crisis under electoral authoritarianism: evidence from
+
+Russia. Am. J. Political Sci. 62(2):382–97 Rozenas A, Stukal D. 2019. How autocrats manipulate economic news: evidence from Russia’s state-controlled
+
+television. J. Politics 81(3):982–96 Rozenas A, Stukal D, Syunyaev G. 2018. Persuasion through propaganda: experimental evidence from Russia. OSF
+
+Preregistration. https://doi.org/10.17605/OSF.IO/FZBHV Sanovich S. 2018. Russia: the origins of digital misinformation. In Computational Propaganda: Political Parties,
+
+Politicians, and Political Manipulation on Social Media, ed. SC Woolley, PN Howard, pp. 21–40. New York:
+
+Oxford Acad.
+
+Schedler A, Hoffmann B. 2016. Communicating authoritarian elite cohesion. Democratization 23(1):93–117 Schumer C, Cotton T. 2019. Letter to Acting Director of National Intelligence re: TikTok. https://www.
+
+democrats.senate.gov/imo/media/doc/10232019%20TikTok%20Letter%20-%20FINAL%
+
+20PDF.pdf Scott JC. 1998. Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed. New
+
+Haven, CT: Yale Univ. Press Selb P, Munzert S. 2018. Examining a most likely case for strong campaign effects: Hitler’s speeches and the
+
+rise of the Nazi Party, 1927–1933. Am. Political Sci. Rev. 112(4):1050–66 Sen AK. 1999. Democracy as a universal value. J. Democr. 10(3): 3–17 Shih V.2008.“Nauseating”displays of loyalty: monitoring the factional bargain through ideological campaigns
+
+in China. J. Politics 70(4):1177–92 Shirikov A. 2024a. Rethinking propaganda: how state media build trust through belief affirmation. J. Politics.
+
+In press Shirikov A. 2024b. Fake news for all: how citizens discern disinformation in autocracies. Political Comm.
+
+41(1):45–65
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+280
+
+Rosenfeld
+
+• Wallace
+
+Sirotkina E, Zavadskaya M. 2020. When the party’s over: political blame attribution under an electoral authoritarian regime. Post-Soviet Aff. 36(1):37–60 Sobolev A. 2019. How pro-government “trolls” influence online conversations in Russia. Paper presented at the
+
+Annual Meeting of the Western Political Science Association, Aug. 29–Sep. 1, Washington, DC.
+
+https://www.wpsanet.org/papers/docs/2019W-Feb-Anton-Sobolev-Trolls-VA.pdf Stasavage D. 2005. Democracy and education spending in Africa. Am. J. Political Sci. 49(2):343–58 Stockmann D. 2013. Media Commercialization and Authoritarian Rule in China. Cambridge, UK: Cambridge
+
+Univ. Press Stockmann D, Gallagher ME. 2011. Remote control: how the media sustain authoritarian rule in China. Comp.
+
+Political Stud. 44(4):436–67 Stukal D, Sanovich S, Bonneau R, Tucker J. 2022. Why botter: how pro-government bots fight opposition in
+
+Russia. Am. Political Sci. Rev. 116(3):843–57 Syunyaev G.2022.Is propaganda effective? Evidence on framing of responsibility by state-owned media in Russia.Work.
+
+Pap., WZB Berlin Soc. Sci. Cent., Berlin, Ger. https://gsyunyaev.com/assets/pdf/syunyaev_jmp.pdf Svolik M. 2012. The Politics of Authoritarian Rule. Cambridge, UK: Cambridge Univ. Press Tsai LL. 2008. Understanding the falsification of village income statistics. China Q. 196:805–26 Wallace JL.2016.Juking the stats? Authoritarian information problems in China.Br.J.Political Sci.46(1):11–29 Wallace JL. 2022. Seeking Truth and Hiding Facts: Information, Ideology, and Authoritarianism in China.
+
+New York: Oxford Univ. Press Wedeen L. 1999. Ambiguities of Domination: Politics, Rhetoric, and Symbols in Contemporary Syria. Chicago: Univ.
+
+Chicago Press Yanagizawa-Drott D. 2014. Propaganda and conflict: evidence from the Rwandan genocide. Q. J. Econ.
+
+129(4):1947–94 Yang E. 2023. The digital dictator’s dilemma. Work. Pap., Univ. Calif. San Diego. https://www.eddieyang.net/
+
+research/AI_dilemma.pdf Yang J. 2012. Tombstone: The Great Chinese Famine, 1958–1962. New York: Farrar, Straus and Giroux Zhu R. 2015. Zhu Rongji on the Record: The Road to Reform: 1998–2003. Washington, DC: Brookings Inst.
+
+Downloaded from
+
+www.annualreviews.org. Guest
+
+(guest) IP:
+
+175.144.109.38 On:
+
+Thu, 16
+
+Apr 2026
+
+12:37:58
+
+www.annualreviews.org
+
+• Propaganda in Authoritarian Societies
+
+281
+

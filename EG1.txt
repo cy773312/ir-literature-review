@@ -1,0 +1,728 @@
+Bureaucratic Influence in International Politics
+
+Richard Clark, Lindsay R. Dolan, and Tyler Jost*  May 8, 2025
+
+Abstract
+
+Over the past decade, a new wave of research has restored interest in the central and complex role of bureaucracy in international politics. We introduce the concept of bureaucratic influence to unify theories modeling how bureaucrats — ranging from foreign policy advisers to international organization (IO) staff — shape political outcomes. We identify two dimensions that structure the pathways through which bureaucrats exert such influence: the degree of centralization in the decision-making process and the selection criteria political leaders apply. We synthesize the resurgent literature along these dimensions, illustrating how emerging findings challenge several conventional wisdoms about the scope and effects of bureaucracy. Finally, we take stock of the empirical accomplishments of recent scholarship, highlighting the rich micro-level data it has introduced while noting the bureaucratic populations that remain understudied. Together, our review illuminates how bureaucratic actors embedded in states and IOs shape consequential events in international politics.
+
+Keywords: bureaucracy; foreign policy; leaders; decision-making; international organizations
+
+Invited for the Annual Review of Political Science
+
+* Richard Clark (richard.clark@nd.edu) is an Assistant Professor of Political Science at the University of Notre Dame. Lindsay R. Dolan (ldolan@wesleyan.edu) is an Assistant Professor of Government at Wesleyan University. Tyler Jost (tyler_jost@brown.edu) is an Assistant Professor of Political Science at Brown University. We thank Shannon Carcelli, Austin Carson, Don Casler, Michael Goldfien, Mirko Heinzel, Joshua Kertzer, Eric Min, Robert Schub, Aditi Sahasrabuddhe, and Calvin Thrall for helpful comments and feedback. We also thank Benas Babenskas for excellent research assistance.
+
+The question of how to model organized political action has bedeviled the study of international relations (IR) since the inception of the discipline (Waltz 1959). The phenomena that capture our scholarly imagination — world wars, peace summits, technological diffusion, territorial conquests, economic depressions, and genocides — are collective enterprises involving hundreds, thousands, even millions of actors making (often tragic and horrific) choices. To make sense of such sprawling global events, many IR scholars embrace simplifying assumptions that model large groups — most often states and international organizations (IOs) — as unitary actors making choices as if they were abiding by the cognitive processes etched into the neural pathways of a single human brain (e.g., Waltz 1979; Keohane 1984; Fearon 1995; Wendt 1999; Mearsheimer and Rosato 2023).
+
+Although such assumptions are useful in crafting elegant explanations, they arguably leave the impression that action in world politics is the inhuman, asocial, and deterministic product of fungible, soulless agents. After all, decision-making is an individual-level phenomenon: political action is impossible without individuals making choices. Yet, while scholars have made impressive gains into the psychology of decision-making, 1 especially in the context of world leaders, 2 such models inevitably dead-end into an aggregation problem — international outcomes are rarely, if ever, the product of a single person’s choices.
+
+In this essay, we explore the Janus-faced nature of modeling international action by reviewing an outpouring of scholarship on the individuals who actually comprise the states and IOs upon which our canonical IR models are built: bureaucrats. 3 The modern world would be unrecognizable without the individuals who make state and IO action possible — from generating the information upon which leaders accept the gamble of war to stamping the visas that make transnational migration possible, from negotiating agreements that might stave off climate change to designing tariff policies that erect or eradicate barriers to trade flows, from investigating the origins of global pandemics to patrolling demilitarized zones after civil conflicts end. In short, studying the politics of states and IOs while overlooking what transpires in the corridors of those entities is a bit like
+
+1 For recent reviews, see Hafner-Burton et al. (2017); Kertzer and Tingley (2018); Davis and McDermott (2021). 2 Jervis (1976); Colgan (2013); Yarhi-Milo (2014); Horowitz, Stam and Ellis (2015).
+
+3 For recent reviews of bureaucracy and the state outside IR, see Dahlström and Lapuente (2022); Brierley et al. (2023); Bersch and Fukuyama (2023); Queralt (2024).
+
+1
+
+drawing inferences in zoology without ever having dissected an animal.
+
+Our essay synthesizes two sets of trends in IR scholarship on bureaucracy, the first theoretical and the second empirical. Theoretically, we organize the emerging literature around the concept of bureaucratic influence, or the ability of individuals embedded in bureaucratic organizations to affect outcomes in international politics. We identify two dimensions that characterize the different ways in which these individuals interact with their environments: the level of centralization in decision-making, and whether political leaders screen subordinates based on the criterion of competence or bias. These factors have an important bearing on a bureaucrat’s incentives and opportunities, and considering them jointly allows us to identify four types of bureaucratic influence: technocracy, counsel, politicization, and sycophancy.
+
+Empirically, we document a turn toward microfoundations in the literature on bureaucracy, using individuals rather than organizations as the analytical point of departure. In the past, the empirical challenge of studying sprawling bureaucracies often required scholars to make sweeping assumptions that bureaucrats took on the interests of the organizations in which they are embedded. The emerging literature shifts the proverbial “lampposts,” both by shining light on who the bureaucrats who walk the halls of power are, and by unveiling methodological techniques to estimate their worldviews at a distance. While our survey highlights many gaps in our understanding, such as the near-myopic focus on the United States and the World Bank, the emerging literature has shown proof-of-concept such that future investigations need not rest on the same simplifying aggregation assumptions that they seek to improve.
+
+Rather than segmenting our review along the lines of organizational seniority or institutional role, as is common in existing work, we intentionally consider a range of bureaucratic positions and contexts together in this review. We contend that the fundamental dynamics of bureaucratic influence are similar across various levels of organizational hierarchy, from cabinet-level advisers to street-level practitioners, and across different organizations, from state-level foreign policy bureaucracies to IOs. In addition, side-by-side comparison of these research traditions provides theoretically grounded insights as to why some state and IO bureaucrats are sometimes associated
+
+2
+
+with different forms of influence.
+
+Collectively, we argue that the resurgent literature revises three conventional wisdoms prevalent in two previous “waves” of bureaucracy work (e.g., Allison 1969, 1971; Allison and Halperin 1972; Destler 1972; Pollack 1997; Barnett and Finnemore 1999). First, recent scholarship suggests that bureaucratic influence is more prevalent than previously acknowledged. 4 Similar to what scholars who “brought the state back in” observed in the context of comparative (e.g., Rueschemeyer, Skocpol and Evans 1985) and American (e.g., Carpenter 2001) politics, one can reasonably argue that there are few facets of international politics that bureaucrats do not affect. Second, in contrast to critiques that bureaucrats generally exert a deleterious effect on policymaking, recent scholarship emphasizes how bureaucrats help political leaders achieve their goals. Like the contemporary study of political psychology (Kertzer and Tingley 2018, 332), the study of bureaucracy today is about more than explaining mistakes. Finally, by focusing on individuals rather than organizations, the emerging scholarship complicates, and sometimes disputes, the foundational law of bureaucratic politics: preferences follow from one’s organizational position — or, colloquially, “where you stand depends on where you sit.” 5 Many emerging studies find that where bureaucrats stand and what they do depends on who bureaucrats are and the institutions that shape their choices. Collectively, the concept of bureaucratic influence offers exciting opportunities to study aggregate state and IO action as a function of the choices made by the individuals who comprise them.
+
+Bureaucratic Influence in International Politics
+
+We define bureaucrats as individuals embedded within organizations composed of many actors, selected through screening criteria established by ruling political leaders, to perform specialized tasks that are not primarily evaluated by external markets. 6 For the purpose of our review, we are
+
+4 For foundational critiques of the bureaucratic politics paradigm, see Krasner (1972); Bendor and Hammond (1992); Welch (1992).
+
+5 On the origins of the phrase, see Miles (1978).
+
+6 Our definition builds on Downs (1967, 25–26). The bright-line between politician and bureaucrat can be blurry. Downs draws a distinction rooted in democratic institutions, suggesting that bureaucrats are “not periodically elected
+
+3
+
+interested in bureaucrats whose roles and responsibilities center on international affairs.7 
+
+Our definition serves several purposes. First, it distinguishes bureaucrats from other foreign policy elites. 8 Bureaucrats are unique in their embeddedness in organizations, which shapes their access to information, their authority to set or advise policy, and their exposure to social influence from a unique set of peers. 9 Our definition is otherwise intentionally ecumenical; it subsumes both state-level foreign policy bureaucracies, such as a foreign ministry or intelligence organization, as well as IO-level bureaucracies, such as staffs in the International Monetary Fund (IMF) or World Health Organization (WHO). The definition is also flexible enough to describe two of the most common types of individuals inside bureaucratic organizations: those who spend their careers rising up the bureaucracy’s ranks and those who are appointed to lead the organization after careers outside it.
+
+In the context of IR, bureaucratic influence can be thought of as the process by which the choices of individuals embedded in state and IO bureaucracies alter international political outcomes. As illustrated in Figure 1, the concept of bureaucratic influence in IR dates back at least a half century and can be profitably divided into three waves.
+
+A first wave of bureaucracy research emerged in the late 1960s, drawing on organizational theory to explain seemingly pathological decisions made during pivotal international events, such as the Cuban Missile Crisis and the U.S. escalation in Vietnam (Allison 1971; Destler 1972). One of the core contentions of the first wave was that decisions that initially appeared suboptimal from the perspective of the national interest were in fact the result of rational decisions made by relatively autonomous bureaucrats acting according to parochial preferences. These insights
+
+to office” and their “continuance is office [is not] tied directly (either legally or by custom) to the continuance in office of some other person who is periodically elected.” In contrast, our definition suggests that bureaucrats begin where political selection for leadership of an institution ends.
+
+7 The distinction between state-level “domestic” and “foreign policy” bureaucracies can be vague during periods of global interconnectedness, as many domestically-focused organizations, such as a commerce department, can set policies that have international consequences.
+
+8 Saunders (2022, 221) defines elites based on their socio-political status (“the small number of decision makers who occupy the top positions in social and political structures”) and the exclusivity of their selection (“primed and selected for service in many ways—through the schools they attend, their connections to existing elites, performance on the job, and other factors.”). See also: Saunders (2024).
+
+9 Organizations are systems of “consciously coordinated activities of two or more persons” which have been “explicitly created to achieve specific ends.” See Downs (1967, 24).
+
+4
+
+12
+
+10
+
+8
+
+Level
+
+6
+
+4
+
+2
+
+0
+
+IO State
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+2020
+
+Year
+
+Figure 1: Publications in Leading IR Journals on Bureaucracy in International Relations. The figure reports the number of publications mentioning both “bureaucrat” or “bureaucracy” and “international” or “foreign” in the American Journal of Political Science, American Political Science Review, International Organization, Journal of Politics, International Security, International Studies Quarterly, Review of International Organizations, and World Politics. Blue and red bars denote articles focusing on state- and IO-level bureaucracies, respectively. Publication data taken from Web of Science; article focus was coded manually by the authors.
+
+Count
+
+5
+
+naturally evoked fears that bureaucrats would set and implement policies in ways that cut against the wishes of political leaders and the citizens they represent.
+
+In the 1990s, a “second wave” of bureaucracy research reached a similar set of conclusions in studying bureaucrats embedded in IOs (Barnett and Finnemore 1999; Pollack 1997). Again, this wave of scholarship explained seemingly pathological and suboptimal behavior inside IOs, such as mission creep, as the result of comparatively autonomous bureaucrats pursuing narrow policy preferences at the expense of their organization’s broader mission. As Barnett and Finnemore (1999, 705) lamented, bureaucrats in the World Bank often exhibited “an independent culture and agendas for action,” and those implementing United Nations (UN) peacekeeping and reconstruction missions often had priorities that were in tension with those of their member state principals.10  Like the first-wave literature, this research raised concern that bureaucrats often acted in ways that contradicted the preferences of member-state principals.
+
+In short, early scholarship on bureaucratic influence in IR posited that bureaucrats wielded widespread but deleterious influence. However, Figure 1 illustrates that these pathbreaking studies did not ignite a vibrant research agenda. As Horowitz (2018, 253) noted roughly a decade ago, “research on bureaucratic politics, once a large area of research in international politics, has declined” since the genesis of the paradigm. Arguably, one of the reasons that early scholarship did not yield a flurry of subsequent studies — in the same way that the study of power, strategic choice, regime type, or leaders transformed the field of IR — was vulnerability to two interrelated critiques (Krasner 1972; Bendor and Hammond 1992). First, if bureaucrats tend to exert a deleterious effect on policy, why would political principals allow them to affect policy in the first place? Second, assuming that political leaders have sound reasons to curb its deleterious effects, why would bureaucracy matter at all in international politics? For skeptics, the proposition that bureaucrats could shape major international events was closer to fantasy — or, as Krasner (1972) colorfully termed it, an Allisonian “wonderland” — than to the cold reality of world politics.
+
+We argue that these conclusions merit reconsideration. As Figure 1 shows, a third and much
+
+10 Such principals may also hold preferences that are in tension with one another, which can abet bureaucratic discretion. See Nielson and Tierney (2003).
+
+6
+
+larger wave of scholarship over the past decade has brought bureaucracy back into the study of international politics across both domestic and international institutions. One of the central findings of these studies is that bureaucratic influence is more pervasive, and arguably less pathological, than previously thought, largely because political leaders have limited time and attention. This necessitates a reliance on bureaucrats to set and implement international policies.
+
+Types of Bureaucratic Influence
+
+Emerging scholarship on bureaucracy in IR emphasizes two dimensions that conceptually distinguish different pathways for bureaucrats to shape international outcomes. First, the path by which bureaucrats can influence policy depends on where decisions are made. Some decisions are made by bureaucrats themselves (decentralized decision-making), whereby principals delegate authority to bureaucrats and permit them to act within established limits. Such discretion allows bureaucrats to shape outcomes directly. Other foreign policy decisions are made by political leaders themselves (centralized decision-making). Yet, as we discuss later, centralized decision-making does not necessarily mean that bureaucrats cannot shape policy. On the contrary, leaders often rely on bureaucrats as advisers, leaning on the information they collect and sometimes deferring to the recommendations they supply.
+
+Second, how bureaucrats affect policy in both centralized and decentralized settings depends in part on the screening criteria for their appointment and promotion. Some bureaucrats enter their position based on competence — knowledge, skills, or credentials that suggest a high level of task performance, even when such performance undercuts the preferences of the political principal. Other bureaucrats enter their position based on political bias, either because of preference alignment (a bureaucrat’s preferences match those of the principal) or out of loyalty (a commitment to follow a leader’s directions regardless of the content). 11 In both cases, leaders hire bureaucrats with similar political views to their own, regardless of whether they are likely to perform well.
+
+11 On the ally principle, see Bendor, Glazer and Hammond (2001). We treat bureaucrats as mostly fixed in their competence and political bias, although we recognize that socialization within organizations could shape either.
+
+7
+
+Decision-making
+
+Decentralized
+
+Technocracy
+
+Politicization
+
+Centralized
+
+Competence
+
+Political Bias
+
+Counsel
+
+Screening Criteria
+
+Sycophancy
+
+Table 1: Types of Bureaucratic Influence. A typology of four pathways by which bureaucrats shape international politics.
+
+As illustrated in Table 1, combining these two dimensions yields four types of bureaucratic influence: technocracy, counsel, politicization, and sycophancy. A given state or IO bureaucracy often features a mix of centralized and decentralized decision-making, and sometimes applies different screening criteria to different parts of a single bureaucratic organization. However, different types of organizations often feature certain patterns of decision-making or screening criteria. Statelevel foreign policy decision-making, particularly on consequential issues such as the use of force, tend to be centralized. In contrast, IO decision-making tends to be more decentralized, as political principals share control over their bureaucracies. 12 Indeed, even in cases where a principal has disproportionate formal power in an IO, like the U.S. at the World Bank, the level of power typically pales in comparison to that held by a national executive.
+
+In subsequent sections, we leverage recent scholarship to illustrate each type of influence. We ground our discussion of each category in two counterfactuals originally proposed by Jervis (1976, 28). First, what would the world be like had there been “no bureaucracy at all?” Second, what would the world be like with “a different constellation of bureaucratic interests?” The first counterfactual points us to how bureaucratic capacity (or lack thereof) changes the scope of action of which political leaders are capable, whereas the second counterfactual points us to how differences between appointments based on competence and political bias alter the effects of such capacity.
+
+12 See Copelovitch (2010) for discussion of the “collective principal” in IOs.
+
+8
+
+Technocracy
+
+Technocracy is an influence pathway in which the autonomous decisions made by expert bureaucrats change international outcomes. By definition, technocratic discretion hinges on selecting bureaucrats on merit: hiring is contingent on a demonstrated ability to perform high-quality work, and principals extend bureaucrats the freedom to select and implement policies as they see fit. Technocracy is at the heart of first- and second-wave models of bureaucratic politics, in which bureaucrats autonomously make decisions. As such, it is arguably the type of bureaucratic influence about which we know the most.
+
+Third-wave scholarship documents the abundance of technocratic discretion present in contemporary state and IO bureaucracies. In many cases, decentralized decision-making to expert bureaucrats follows the same script as earlier scholarship: autonomous decision-making allows bureaucrats to pursue their parochial interests. Diplomats sometimes lobby for treaties that “bring home the bacon” to the localities from which they hail (Kim and Fu 2025) and are responsive to lobbying by interest groups (Thrall 2024). Career incentives can lead economic planners to selectively uphold commitments to international trade agreements (Tan 2021). Development agencies may provide foreign aid in inefficient ways (Carcelli 2023, 2024a). Ambitious military commanders sometimes adopt risky battlefield strategies to improve their odds of promotion (Altman and Lee 2022) or to line their pockets (Anderson 2023, 2025).13 
+
+However, recent research suggests that technocracy may not always lead to poor performance. Instead, third-wave accounts point to several benefits of technocratic discretion. First, specialization allows bureaucrats to develop skills that help them perform tasks more quickly or with greater expertise than outsiders, particularly in technical areas of international governance, such as public service provision and climate change policymaking. For example, Eckhard (2021) shows that staffers’ societal backgrounds provide them with unique local information and relational skills. Bureaucrats with more country-specific knowledge achieve higher performance at the World Bank
+
+13 Officers and soldiers embedded in military organizations meet our definition of a bureaucrat. However, given the ample attention military organizations have received, we focus on recent studies of civilian bureaucracies. For an excellent review of the civil-military literature, see Brooks (2019).
+
+9
+
+(Heinzel 2022).
+
+Second, technocratic discretion expands state and IO capacity for action beyond what political leaders could accomplish on their own. Political leaders in states and IOs are responsible for functionally and geographically sprawling international problems, ranging from climate change mitigation to nonproliferation monitoring programs. Bureaucracies, such as African Union peacekeeping missions and IAEA nuclear facility inspections, extend the reach of political leaders to remote or sensitive areas. Diplomats in embassies stationed abroad stamp visas and implement public influence campaigns (Lindsey 2023), and vacant diplomatic posts are associated with higher rates of international conflict and lower levels of trade (Malis 2021). Bureaucrats embedded in commercial and treasury bureaucracies promote businesses abroad (Thrall 2024). Field agents in development organizations accumulate local knowledge and execute tailored projects (Honig 2020).
+
+One reason that technocratic discretion may be less pernicious than earlier scholarship anticipated is that principals have tools they can leverage to limit bureaucratic drift. Institutions that routinize interaction and information flow between leaders and bureaucrats reduce the risk that subordinates transmit unclear or inconsistent signals to other states (Casler and Jost 2025). Social ties between leaders and bureaucrats have analogous effects: subordinates better understand the leader’s intent and can speak on their behalf with clarity and authority (Goldfein 2024). Carcelli (2024b) finds that less fragmented bureaucratic structures yield less fragmented patterns of foreign aid. In IOs like the IMF, the regular rotation of bureaucrats stationed abroad helps to balance the collection of local knowledge against bureaucrats’ devotion to organizational missions (Clark and Zucker 2024). In short, the deleterious aspects of technocracy depend in part on institutional design.
+
+Counsel
+
+Counsel is an influence pathway in which the expert advice that bureaucrats provide to leaders changes international outcomes. In the case of counsel, leaders keep decision-making centralized, but the information, recommendations, and representation of problems supplied by bureaucrats
+
+10
+
+shape the choices that leaders themselves make (Destler 1972; George 1980; Jost et al. 2024).
+
+Counsel is a somewhat surprising influence pathway. Some early critics of bureaucratic discretion suggested that centralized decision-making might obviate bureaucratic influence on policy (Krasner 1972; Byman and Pollack 2001). Taken to the extreme, this critique implied that bureaucrats might not matter at all since leaders ultimately call the shots on the most consequential issues in world affairs. In addition, work in political psychology offers many reasons why, once decision-making is centralized, leaders in states and IOs might rely more on their personal experiences, worldviews, and direct observations (e.g., George 1969; McDermott 2001; Colgan 2013; Yarhi-Milo 2014; Horowitz, Stam and Ellis 2015; Fuhrmann 2020; Sahasrabuddhe 2025), rather than the individuals surrounding them, when setting international policy.
+
+Yet, recent scholarship illuminates that counsel is pervasive. Leaders face significant cognitive and resource constraints on their ability to collect and process information across the array of activities on which they set policy. As Neustadt (1991, 128) observed, a leader’s “first essential need is information.” Thus, it is natural for leaders to outsource some of this analytical work to bureaucratic advisers and subsequently rely on that counsel as they set policy (Brooks 2008; Saunders 2017; Schub 2022; Jost 2023; Casler 2024; Jost et al. 2024; Jost 2024; Carson, Min and Nuys 2024).14 
+
+Much of the work bureaucrats do in IOs, too, involves collecting and analyzing information that ultimately funnels up to their principals: the WHO tracks disease outbreaks across the globe (Ge 2024); the IAEA investigates states’ nuclear facilities (Carnegie and Carson 2020); rank-and-file staff at the World Bank conduct research on development and economic outcomes (Carnegie, Clark and Zucker 2024); and IMF bureaucrats surveil states’ economies to identify risks (Breen and Doak 2023). The information collected by such bureaucrats can inform policymaking both in member states and at the executive level within IOs. Recommendations made to member states in IMF reports, for example, shape such countries’ environmental policy choices (Clark and Zucker 2024; Goes and Chapman 2024). Similarly, the contents of bureaucrats’ research outputs at the
+
+14 For a review of the voluminous work in the foreign policy analysis tradition, see Kaarbo (2015).
+
+11
+
+World Bank correlate with the institution’s future policy outputs (Cormier and Manger 2022).
+
+Like technocratic discretion, counsel does not necessarily lead to poor performance. First, bureaucracy affords leaders with limited time and resources the capacity to collect more information and analyze more problems than they could independently (Schub 2022; Jost 2023; Jost et al. 2024). Schub (2025), for instance, shows that integration of foreign policy advisers into deliberations helps to avoid misplaced certainty in a leader’s assessments on the road to war.
+
+Moreover, third-wave scholars illuminate how the effects of counsel often depend on the institutions leaders utilize to manage the advisory process. Institutional designs that pit bureaucrats with competing perspectives against one another during deliberations, for instance, help leaders uncover bias in the information they receive and deter bureaucrats from intentionally cooking the books (Jost 2024). Information sharing (Zegart 2007) and more precise procedures for assessing uncertainty (Friedman 2019) improve performance in intelligence forecasting. Classification schemes and secrecy provisions in IOs help uncover information from member states (Carnegie and Carson 2020). Finally, a leader’s own prior bureaucratic experiences may assist them in monitoring the advisory process, helping them to discern when subordinates are providing biased or inaccurate information (George 1980; Saunders 2017).
+
+Politicization
+
+Politicization is a type of influence in which autonomous choices made by politically aligned bureaucrats change international outcomes. Similar to technocracy, bureaucrats have discretion to design and execute policies, but the way in which they perform those actions tends to closely align with the political biases of their principals. Here, the counterfactual to consider is how discretionary choices might have been different under a different set of screening criteria (e.g., one that favors competence).
+
+Appointing bureaucrats based on political alignment offers one path to addressing the risk of bureaucratic drift. In particular, monitoring presumably becomes less necessary when political biases align. In such cases, leaders expect that bureaucrats will do as leaders would themselves. The
+
+12
+
+IMF and World Bank are clear examples. Neoliberal beliefs dominate the bureaucracy at the Fund, and hiring decisions hinge on educational backgrounds that demonstrate commitment to such beliefs (Chwieroth 2013, 2015; Nelson 2017). Strong organizational culture reinforces these beliefs, as Weaver (2008) shows at the World Bank. In such politicized institutions, bureaucrats faithfully anticipate the preferences of powerful member states, whether consciously or unconsciously (Clark and Dolan 2021). 15 Indeed, bureaucrats at the IMF shape the number and content of loan conditions according to their personal ideological biases (Lang, Wellner and Kentikelenis 2024).16 
+
+However, political alignment does not necessarily lead to better outcomes. First, leaders can exploit bias-based appointments for political gain, potentially degrading effectiveness. Given that managerial quality is positively associated with program performance in institutions like the World Bank (Denizer, Kaufmann and Kraay 2013; Heinzel and Liese 2021), hiring based on political bias could lead to performance losses. 17 Put differently, it is not always clear that appointing bureaucrats who share the biases of the politically powerful yields more effective or representative governance. To the contrary, more diverse bureaucracies may be perceived as more legitimate (Steinberg and McDowell 2024).
+
+Second, when leaders apply politicized screening criteria, self-interested bureaucrats may be more likely to implement policies in ways that affirm those political credentials, even when those policies are ineffective. For example, as political ideology campaigns in China’s foreign ministry increased in frequency and intensity during the 2010s, China’s diplomats began employing more strident and evocative language in both public and private settings (Xu 2024). Experimental studies suggest that such diplomacy was ineffective in positively shaping public opinion in foreign countries — and may have actually led to less favorable impressions of China abroad (Mattingly and Sundquist 2023). Nevertheless, Chinese diplomats reportedly viewed these tactics as an important method to demonstrate political loyalty (Loh 2024). Similar patterns are evident in political economy. While politically-aligned IOs are more likely to work together than politically-
+
+15 Also see Kentikelenis and Seabrooke (2017) on “script-writing” in IOs and Kim (2024) on trade policy.
+
+16 IO executive heads matter in similar ways, see Copelovitch and Rickard (2021).
+
+17 More competent and experienced state representatives in IOs also tend to be more effective (Forster 2024). IOs thus work hard to attract high-quality bureaucrats (Gray 2018).
+
+13
+
+misaligned organizations to jointly implement development projects, performance often slips as a result of bureaucratic frictions that emerge among staff in these cases (Clark 2025). In central banking, though interpersonal trust between central bankers often drives international cooperation, the resulting policies can reinforce global hierarchies and raise concerns about democratic deficits (Sahasrabuddhe 2024). In short, while politicization can minimize bureaucratic drift, it may have deleterious effects on institutional performance.
+
+Sycophancy
+
+The final type of bureaucratic influence in our typology is sycophancy. The core intuition is that politically aligned bureaucrats shape international outcomes through the information and recommendations they selectively supply and withhold during a leader’s decision-making. The relevant counterfactual to consider is how the capacity for information search and processing within the state or IO would have been different had the leader appointed bureaucrats with a more diverse set of views.
+
+Some earlier scholarship anticipated that centralized decision-making assisted by advisers with aligned political preferences might offer a double-barreled remedy to the pathologies of bureaucracy. Centralization means that leaders can overrule parochially minded bureaucrats, while alignment might mean that the affirming information and recommendations that subordinates supply make it as if the leader were collecting and analyzing the data themselves (e.g., Snyder 1991).
+
+Yet, third-wave scholarship suggests how excessive reliance on political bias over competence might instead lead to the provision of inaccurate or incomplete information. First, appointment based on bias restricts the diversity of perspectives to which leaders have access. If a leader appoints a set of advisers that all have identical political beliefs as the leader, then the leader’s inner circle are more likely to view international problems in the same way. Such uniformity of perspectives shapes a leader’s choices. Jost et al. (2024) show that leaders are more likely to adopt more hawkish policies when their inner circle is filled with hawks. Weeks (2014) finds that excessive conformity of viewpoints among the leader’s bureaucratic advisers commonly makes personalist
+
+14
+
+dictatorships prone to conflict.
+
+Second, biased appointments can convey to the information-collecting tentacles of a state or IO that professional advancement is linked to demonstration of political credentials rather than competence, decreasing motivation to take risks and increasing motivation to supply information that confirms the political ideas upon which their appointments rest. As a result, bureaucrats might be more willing to search for and relay information that reaffirms the leader’s prior beliefs. Jost (2024) finds that the politicization of the Chinese foreign bureaucracy discouraged subordinates from relaying information that might be construed as disagreeing with Mao Zedong. Shirk (2023) suggests similar dynamics occurred after the anti-corruption campaign under Xi Jinping. Even if the leader discounts the advice on offer, this arrangement restricts the amount of information available to leaders, as bureaucrats are unlikely to collect or report certain types of information. More problematically, cognitive biases, such as motivated reasoning (Jervis 1976; Kertzer, Rathbun and Rathbun 2020), might cause leaders to overvalue subordinate information that confirms their existing beliefs, even when they know it should not. Sycophancy thus presents an impediment to learning, as leaders have less access to the information necessary for them to update beliefs as the international environment changes.
+
+These four types of bureaucratic influence — technocracy, counsel, politicization, and sycophancy — offer a conceptual foundation for understanding how bureaucrats shape international politics across a variety of institutional contexts. Yet to assess the prevalence and consequences of these influence pathways, we must better understand who bureaucrats are and how they operate. In the next section, we turn to the microfoundations of bureaucratic influence, examining recent empirical strategies that illuminate the individual-level characteristics, experiences, and preferences of bureaucrats, and how these shape aggregate outcomes in world politics.
+
+Microfoundations of Bureaucratic Influence
+
+One of the perennial challenges of studying bureaucracy is that a bureaucrat’s work is often less legible to outside observers than that performed by the high-profile political leaders they serve. As
+
+15
+
+a result, who bureaucrats are and what backgrounds they possess are often hidden from public view.
+
+The traditional approach to this empirical challenge, common in first- and second-wave studies, is to study bureaucracies as unitary actors rather than as the individuals that comprise them. Often, a critical assumption of this approach is that bureaucrats take on their organization’s collective interests as their own. The inclinations of an individual are the same as the functional interests of the organizations in which they are embedded.
+
+While studying bureaucracy as a unitary organization can be a helpful analytical tool, our typology also suggests the value of studying bureaucrats as individuals embedded inside organizations and institutional environments. Identifying the individual-level qualifications that technocrats and counselors bring with them to their positions helps to explain behaviors in which they apply their knowledge and expertise. In parallel, identifying the individual-level ideological and personal attachments that politicized bureaucrats or sycophants hold helps to understand their motivations and actions. Empirical research at the organizational level has had a long tradition and continues to innovate, but data on individuals has, until recently, been difficult to come by, limiting our ability to understand bureaucratic influence.
+
+Perhaps as a result of the increased availability of individual-level data, the field is experiencing a microfoundational turn. Microfoundations refer to the study of aggregate outcomes by looking at dynamics at a lower level (Kertzer 2017, 83). In the context of bureaucracy, a microfoundational approach denotes two related ideas. First, the aggregate actions that states and IOs perform are a function of the individual actors that comprise them. Since the individuals who make up modern states and IOs are politicians and bureaucrats, the study of international politics is, in a sense, synonymous with the study of how these two types of actors interact. Second, and importantly, applying microfoundations to the study of bureaucracy implies using individual bureaucrats as the analytical point of departure, both in terms of estimating the way they view the world and explaining their behavior. Put differently, it is politicians and bureaucrats “all the way down.” This approach opens doors to account for individual-level demographics, experiences, and dispo-
+
+16
+
+sitions, while also facilitating more nuanced estimates of the distribution of these quantities at the organizational level. For instance, each cell of our typology describes a different set of dynamics between principals and agents, implying that how bureaucracy shapes international affairs depends on individual-level dynamics as much as organization-level ones.
+
+Who Are the Bureaucrats?
+
+The first empirical challenge to a microfoundational approach is identifying the hundreds of thousands of individuals who facilitate decision-making in international politics. In what we view as a positive development in the field, scholars have learned quite a lot about these individuals in the last decade.
+
+We identify two main strategies that researchers use to locate state and IO bureaucrats. First, scholars can collect data from the bureaucratic organizations they seek to study. Many state and IO bureaucracies now disclose highly granular (often geolocated) information on their activities and projects (Honig and Weaver 2019), which frequently identify the individual bureaucrats involved. Many of these databases are publicly available, often in online databases that feature application programming interfaces (APIs). Even small organizations and agencies typically maintain websites disclosing staff member biographies. For example, Jost and Li (2025) mapped career trajectories of senior personnel in China’s Ministry of Foreign Affairs in part using data collected from its website. State and IO archives offer a similar strategy to collect human resources data. Jost and Mattingly (2025) leverage organization records of the Chinese Communist Party to map career trajectories of Chinese defense officials. Clark and Zucker (2024) pull the names of bureaucrats who author surveillance reports at the IMF from the reports themselves, which are available on the Fund’s website. Scholars can also sometimes facilitate the release of data through information requests and partnership with the bureaucracy. For example, Honig (2020) obtained data on World Bank country directors through inquiries submitted to the World Bank, and Eckhard (2021) drew on an internal UN survey of Secretariat staff involved in peace operations.
+
+Second, researchers can collect data from resources available outside the relevant bureaucracy.
+
+17
+
+It is easier than ever to learn who people are through the internet. Researchers can identify bureaucrats through online searches and systematically querying social media sits, such as LinkedIn, Facebook, or other public profiles. Jost et al. (2024) mapped the backgrounds of senior officials in the U.S. national security bureaucracy using a combination of print and digital biographical resources. Mattingly (2024) and Lindsey, Malis and Thrall (2025) apply similar techniques to the U.S. foreign service and Chinese defense establishment, respectively. Heinzel (2022) and Clark, Dolan and Hanson (2024) follow analogous procedures to map the experiences of World Bank Task Team Leaders. Clark (2021, 2025) surveys IO bureaucrats through targeted advertisements on LinkedIn.
+
+Which bureaucrats have scholars managed to identify using these approaches? To answer this question, we reviewed recent studies and coded which state and IO bureaucracies had been studied. We began by manually compiling a list of articles that quantitatively analyzed individual-level bureaucrat data. Hewing to our definition of a bureaucrat, we collected articles that examined street-level bureaucrats, middle managers, appointed diplomats, and senior foreign policy advisers. 18 We then applied a snowball sampling strategy, in which we reviewed the articles cited in our initial collection. In parallel, we compiled a list of the most significant state and IO bureaucracies and then manually searched for and reviewed articles referencing each.19 
+
+Our efforts yielded a dataset documenting prominent state and IO bureaucracies that have received comparatively more or less scholarly attention. Figure 2 plots these data. The two populations that have been studied most extensively are U.S. diplomats (MacDonald 2021; Malis 2021; Kim and Fu 2025) and World Bank staff members (Denizer, Kaufmann and Kraay 2013; Heinzel
+
+18 We consider an individual’s status as a bureaucrat by examining the nature of their relationship to the institution in which they are studied. For example, we consider ambassadors to be bureaucrats insofar as they are agents who serve national political leaders by shaping state-level foreign policy. But the executive director that a country sends to an IO like the IMF is a principal (a stand-in for a state on the institution’s governing board) in that their authority allows them to direct the IO’s policies. We treat the leaders of IOs (e.g. the World Bank president) as bureaucrats because they are employed by the IO and ultimately report to state principals. We include the European Commission as an international organization but recognize the multitude of ways in which principal-agent relationships between states, Commissioners, and bureaucrats can be conceptualized in this case. In fact, identifying the correct conceptualization is the goal of recent empirical efforts (Deckarm 2017; Gehring and Schneider 2018).
+
+19 For state foreign policy bureaucracies, we look at the diplomatic and defense ministries, as well as the principal foreign intelligence agencies of countries with the world’s seven largest economies (United States, United Kingdom, France, China, Russia, Japan, and Germany). For IOs, we look at IOs with over 2,000 staff members.
+
+18
+
+2022; Heinzel, Weaver and Jorgensen 2025). 20 To an extent, this makes sense. The United States and the World Bank are both powerful (and thus substantively important cases) as well as transparent, which assists the research process. The largest bureaucracies we identified — the UN Department of Peacekeeping Operations and the UN Secretariat — have also received a high level of attention, although perhaps not proportional to the size of their staff. But our survey of the literature also finds that numerous bureaucracies with staff sizes comparable to the World Bank (e.g., the UN Children’s Fund, UN Office of the High Commissioner for Refugees, World Food Programme, WHO, and UN Development Programme) have received little, if any, attention. While we acknowledge that our approach may feature omissions, we were unable to identify any foreign policy bureaucracy that has been studied using this approach outside the context of the United States and China. This finding presents an opportunity for future research to fill these gaps.
+
+How Do Bureaucrats Vary?
+
+The second empirical challenge to a microfoundational approach to bureaucracy is measuring individual-level variation, especially if the goal is to move beyond the stylized assumption that individuals derive their perspectives strictly from organizational affiliation (and are thus homogeneous in their policy preferences).
+
+We identify three individual-level dimensions along which bureaucrats vary. First, bureaucrats vary by demographics and their early life experiences, which may (or may not) correlate with patterned beliefs about international politics. Recent studies are often interested in exploring what, if any, effect demographic differences have on bureaucratic appointment, attitudes, behavior, and social perceptions (Clark, Dolan and Hanson 2024). As emphasized by our typology of bureaucratic influence, scholars now commonly leverage data on educational backgrounds to test arguments about intellectual culture and political bias (Weaver 2008; Chwieroth 2009; Nelson 2017). Similarly, the national identity of IO bureaucrats is now commonly studied (Novosad and Werker 2019; Parizek and Stephen 2021), with some studies suggesting that national represen-
+
+20 Within these institutions, specific populations attract disproportionate attention — U.S. ambassadors and World Bank Task Team Leaders, respectively.
+
+19
+
+10
+
+60000
+
+8
+
+40000
+
+6
+
+4
+
+20000
+
+2
+
+0
+
+0
+
+IO
+
+State
+
+Institution
+
+Metric
+
+Number of articles
+
+Staff size
+
+Figure 2: Size and Knowledge of International Bureaucracies. Organizations are included if they meet one of two criteria: (1) we have identified quantitative research on individual bureaucrats in this organization, or (2) the organization met our significance criteria – at least 2,000 staff members in a recent year (for IOs) or (for domestic bureaucracies) one of the main foreign policy branches (intelligence, defense, or diplomatic corps) for countries with the seven largest economies (U.S., China, Germany, Japan, India, UK, France). Domestic bureaucracies for which no articles were identified are not pictured, and we are unable to reliably estimate the bureaucracy sizes of national governments, so these data are not shown.
+
+Number of Articles
+
+Staff Size
+
+20
+
+tation increases a bureaucracy’s access to local knowledge and social networks (Eckhard 2021). Other scholars explore similar questions through the lens of race, although this is often difficult to separate from nationality (Steinberg and McDowell 2024). Race may be especially salient in IOs that have been critiqued for creating inequality across a “global color line” (Oksamytna and von Billerbeck 2024). Other studies examine gender in the context of U.S. ambassadorial appointments (Towns and Niklasson 2017), U.S. foreign service officers (Lindsey, Malis and Thrall 2025), and World Bank bureaucrats (Heinzel, Weaver and Jorgensen 2025). Whereas gender is a relatively easy characteristic for scholars to code using tools like genderize.io, nationality is difficult to decisively determine and may change over the course of a bureaucrat’s career, while race usually involves self-identification and context specificity, limiting reliability.
+
+Second, bureaucrats vary by their professional experiences. Joining a state or IO bureaucracy exposes members to new information and social norms. Even within the same bureaucracy, some individuals are newcomers while others are old — and the types of experience that an individual accumulates are sometimes different from those of their peers. Clark and Zucker (2024), for instance, find that exposure to a climate disaster reorients a bureaucrat’s subsequent behavior. Johnston (2008) finds that experiences in IOs, such as the Association of Southeast Asian Nations Regional Forum, shaped the views of Chinese bureaucrats during the 1990s. Such data on professional experience may be gleaned from online profiles, and more research of this type will be possible as digitized documentation of bureaucratic backgrounds becomes more widely available.
+
+Third, bureaucrats vary by their dispositions — or the central tendencies of their broader foreign policy beliefs and preferred foreign policy behaviors — that they bring with them into their positions. 21 An impressive body of scholarship on political psychology finds that individuals approach political problems, particularly the type of ill-structured problems endemic in international politics, in systematically different ways. Individuals differ in their general attitudes on the use of international violence, willingness to accept risk, attitudes toward authority and fairness, in-
+
+21 All three of the dimensions we identify we view as relatively fixed. Organizations can certainly socialize individuals to conform their views with accepted wisdom and exacerbate biases. But, consistent with work in political psychology (Kertzer and Tingley 2018), we expect that the perspectives and dispositions bureaucrats bring to their organizations are much stronger. See, for instance, Jost, Meshkin and Schub (2022).
+
+21
+
+ternationalism, and so on. Of course, measuring dispositions at a distance introduces challenges of its own. Sometimes, scholars can administer surveys to measure dispositions within a bureaucracy directly. Some studies work collaboratively with a bureaucracy of interest, be it a diplomatic (Etheredge 1978), defense (Jost, Meshkin and Schub 2022), or cyber security organization (Demarest, Jost and Schub 2024), or an international bureaucracy (Murdoch et al. 2019). Other studies have contacted bureaucrats directly, either through large-scale (Holsti and Rosenau 1984) or bespoke recruitment strategies (Clark 2021, 2025; Casler 2024).
+
+Measuring dispositions is all the more challenging when studying historical or otherwise inaccessible individuals. Sometimes, we can infer dispositions from a bureaucrat’s writing or speech acts during meetings, such as research reports (Cormier and Manger 2022) or publicly available consultations (Clark and Zucker 2024). Combining sources of data and using machine learning can strengthen these inferences. Jost et al. (2024), for example, measure the hawkishness of U.S. foreign policy advisers and evaluate its effects on decision-making by combining historical surveys of U.S. elites, original biographical information on individuals who participated in foreign policy deliberations with the U.S. president, and meeting transcripts.
+
+Overall, studying bureaucracy at the individual, rather than organizational, level offers a new way of thinking about the conventional wisdom that where you stand depends on where you sit. It may be true, as earlier scholarship posited, that members of some bureaucratic organizations exhibit on average systematically different beliefs, attitudes, and preferences than individuals in other organizations. But the reason such aggregate patterns emerge stems from the way that bureaucracy orders the distribution of individual-level traits, experiences, and dispositions within a state or IO. Patterns in bureaucratic preferences — what first- and second-wave literature often termed organizational culture — are the outcome of the rules by which bureaucrats enter and are promoted within their organization. Rules about the tasks a bureaucracy performs, about how a bureaucracy recruits its members, and about which types of behavior it rewards explain why this distribution often looks different in some organizations than others. In short, how bureaucrats end up influencing international politics depends on who they are and the institutions that shape the
+
+22
+
+distribution of individual-level traits, experiences, and dispositions.
+
+Avenues for Future Research
+
+We conclude by calling for future scholarship to expand our burgeoning understanding of how interactions between politicians and bureaucrats serve as the foundation for state and IO action in international politics. The studies reviewed in this essay, particularly those embracing what we termed the microfoundational turn, highlight the importance of individual choice and constraint to foreign policy and global governance. We suspect that the field will continue to profit from viewing international behavior as the outcome of interactions between politicians and bureaucrats, and modeling bureaucracies as composites of individual human beings with cognitive characteristics and strategic objectives. Yet, data on and theories of bureaucratic action and behavior are just as important as the descriptive mapping of any bureaucracy. Although bureaucracy is no longer just a “level of analysis” in the field, we need more theories of how institutions structure bureaucratic composition and attitudes, as well as formal and informal models of how strategic interactions between bureaucrats and their political leaders shape state and IO action. Game theory could be especially helpful to unpacking this but has not yet been widely applied to understand the dynamics that exist within bureaucracies.
+
+In addition, our review suggests that the resurgent body of scholarship on bureaucracy heavily overrepresents particular countries and IOs. With important exceptions, the state-level literature remains overwhelmingly focused on the U.S. foreign policy bureaucracy. Data collection efforts focused on foreign policy bureaucracies in different states would help to diversify the theoretical and empirical foundations upon which existing conclusions rest. With respect to IOs, a few highly transparent economic bureaucracies dominate scholarly attention. But other bureaucracies are equally important. Applying existing techniques to the WHO or the Office of the UN High Commissioner for Refugees, for example, would improve our understanding.
+
+When considering these two objectives for research in this tradition, we also note that recent policy developments may change the course of study. The second Trump Administration has taken
+
+23
+
+aim at the U.S. bureaucracy, and the foreign policy bureaucracy in particular, in an unprecedented way. As Russell Vought, head of the U.S. Office of Management and Budget, stated at a 2023 event, “We want the bureaucrats to be traumatically affected. When they wake up in the morning, we want them to not want to go to work because they are increasingly viewed as the villains.”22  Vought’s remark reflects the view that bureaucrats themselves are a class bound by identity. This behavior finds historical precedent in repressive contexts. During the Cultural Revolution in China, for instance, political leaders — Mao Zedong in particular — called for mass violence directed toward bureaucrats. For several weeks in 1967, youth groups known as Red Guards seized foreign policy bureaucracies, such as the foreign ministry. Red Guards forced senior officials to publicly criticize themselves — and, at one point, vice foreign ministers hid in the ministry basement.
+
+As a result of the Trump Administration’s approach, scholars of the U.S. bureaucracy may have to account for this new source of identity formation bureaucrats may experience, as well as a potential decline in the numbers and types of bureaucrats retained by the U.S. foreign policy bureaucracy, and also the loss of detailed online data on U.S. foreign policy activities. Scholars may also have to grapple with similar developments in other countries or the IOs to which the U.S. is party. At the same time, however, the relevance of bureaucrats to IR has rarely been so salient, and the field may experience renewed interest as a result of the consequences of these actions.
+
+22 ProPublica, https://www.youtube.com/watch?v=oBH9TmeJN_M
+
+24
+
+References
+
+Allison, Graham T. 1969. “Conceptual Models and the Cuban Missile Crisis.” American Political Science Review 63(3):689–718.
+
+Allison, Graham T. 1971. Essence of Decision: Explaining the Cuban Missile Crisis. Boston:
+
+Pearson.
+
+Allison, Graham T and Morton H. Halperin. 1972. “Bureaucratic Politics: A Paradigm and Some Policy Implications.” World Politics 24(S1):40–79.
+
+Altman, Dan and Melissa M. Lee. 2022. “Why Territorial Disputes Escalate: The Causes and Conquest Attempts since 1945.” International Studies Quarterly 66(4).
+
+Anderson, Nicholas D. 2023. “Push and Pull on the Periphery: Inadvertent Expansion in World Politics.” International Security 47(3):136–173.
+
+Anderson, Nicholas D. 2025. Inadvertent Expansion: How Peripheral Agents Shape World. Cornell University Press.
+
+Barnett, Michael N. and Martha Finnemore. 1999. “The Politics, Power, and Pathologies of International Organizations.” International Organization 53(4):699–732.
+
+Bendor, Jonathan, Amihai Glazer and Thomas Hammond. 2001. “Theories of delegation.” Annual review of political science 4(1):235–269.
+
+Bendor, Jonathan and Thomas H. Hammond. 1992. “Rethinking Allison’s Models.” American Political Science Review 86(2):301–322.
+
+Bersch, Katherine and Francis Fukuyama. 2023. “Defining Bureaucratic Autonomy.” Annual Review of Political Science 26.
+
+Breen, Michael and Elliott Doak. 2023. “The IMF as a global monitor: surveillance, information, and financial markets.” Journal of European Public policy 30(1):307–331.
+
+Brierley, Sarah, Kenneth Lowande, Rachel Augustine Potter, and Guillermo Toral. 2023. “Bureaucratic Politics: Blind Spots and Opportunities in Political Science.” Annual Review of Political Science 26.
+
+Brooks, Risa A. 2008. Shaping Strategy: The Civil-Military Politics of Strategic Assessment.
+
+Princeton: Princeton University Press.
+
+Brooks, Risa A. 2019. “Integrating the Civil-Military Relations Subfield.” Annual Review of Political Science 22:379–398.
+
+Byman, Daniel L. and Kenneth M. Pollack. 2001. “Let us now praise great men: Bringing the statesman back in.” International Security 25(4):107–146.
+
+Carcelli, Shannon P. 2023. “Special Interests in Foreign Policy Bureaucracies: Evidence from Foreign Aid.” Journal of Politics 85(3):905–918.
+
+25
+
+Carcelli, Shannon P. 2024a. “Bureaucracy at the Border: The Fragmentation of Foreign Aid.”
+
+Journal of Conflict Resolution (7-8):1358–1386.
+
+Carcelli, Shannon P. 2024b. “Bureaucratic Structure and Compliance with International Agree-
+
+ments.” American Journal of Political Science 68(1):177–192.
+
+Carnegie, Allison and Austin Carson. 2020. Secrets in Global Governance: Disclosure Dilemmas
+
+and the Challenge of International Cooperation. Cambridge University Press, New York. Carnegie, Allison, Richard Clark and Noah Zucker. 2024. “Global Governance under Populism:
+
+The Challenge of Information Suppression.” World Politics 76(4):639–666.
+
+Carpenter, Daniel. 2001. The Forging of Bureaucratic Autonomy. Princeton: Princeton University
+
+Press.
+
+Carson, Austin, Eric Min and Maya Van Nuys. 2024. “Racial Tropes in Foreign Policy: A Com-
+
+putational Text Analysis.” International Organization 78(2):189–223.
+
+Casler, Donald P. 2024. “Credibility, Organizational Politics, and Crisis Decision Making.” Journal
+
+of Conflict Resolution .
+
+Casler, Donald and Tyler Jost. 2025. “Noisy Negotiations: Bureaucratic Institutions and Commu-
+
+nication in International Politics.” International Security 49(4).
+
+Chwieroth, Jeffrey M. 2009. Capital Ideas: The IMF and the Rise of Financial Liberalization.
+
+Princeton University Press.
+
+Chwieroth, Jeffrey M. 2013. “The Silent Revolution: How the Staff Exercise Informal Governance
+
+Over IMF Lending.” Review of International Organizations 8(2):265–290.
+
+Chwieroth, Jeffrey M. 2015. “Professional Ties That Bind: How Normative Orientations Shape
+
+IMF Conditionality.” Review of International Political Economy 22(4):757–787.
+
+Clark, Richard. 2021. “Pool or Duel? Cooperation and Competition Among International Organi-
+
+zations.” International Organization 75(4):1133–1153.
+
+Clark, Richard. 2025. Cooperative Complexity: The Next Level of Global Economic Governance.
+
+Cambridge University Press, New York, NY.
+
+Clark, Richard and Lindsay R. Dolan. 2021. “Pleasing the Principal: U.S. Influence in World Bank
+
+Policymaking.” American Journal of Political Science 65(1):36–51.
+
+Clark, Richard, Lindsay R. Dolan and Kolby Hanson. 2024. “Individuals in Institutions: Evidence
+
+from the World Bank and IMF.”. Working paper.
+
+Clark, Richard and Noah Zucker. 2024. “Climate Cascades: IOs and the Prioritization of Climate
+
+Action.” American Journal of Political Science 68(4):1299–1314.
+
+Colgan, Jeff D. 2013. “Domestic revolutionary leaders and international conflict.” World Politics
+
+65(4):656–690.
+
+26
+
+Copelovitch, Mark S. 2010. The International Monetary Fund in the global economy: banks, bonds, and Bailouts. Cambridge ; New York: Cambridge University Press.
+
+Copelovitch, Mark and Stephanie Rickard. 2021. “Partisan Technocrats: How Leaders Matter in
+
+International Organizations.” Global Studies Quarterly 1(3).
+
+Cormier, Ben and Mark S. Manger. 2022. “Power, Ideas, and World Bank Conditionality.” The
+
+Review of International Organizations 17(3):397–425.
+
+Dahlström, Carl and Victor Lapuente. 2022. “Comparative Bureaucratic Politics.” Annual Review
+
+of Political Science 25:43–63.
+
+Davis, James W. and Rose McDermott. 2021. “The past, present, and future of behavioral IR.”
+
+International Organization 75(1):147–177.
+
+Deckarm, Renke. 2017. “The countries they know best: how national principals influence Euro-
+
+pean commissioners and their cabinets.” Journal of European Public Policy 24(3):447–466. Demarest, Heidi, Tyler Jost and Robert Schub. 2024. “Bureaucracy and Cyber Coercion.” Interna-
+
+tional Studies Quarterly 68(1).
+
+Denizer, Cevdet, Daniel Kaufmann and Aart Kraay. 2013. “Good Countries or Good Projects?
+
+Macro and Micro Correlates of World Bank Project Performance.” Journal of Development Eco-
+
+nomics 105:288–302.
+
+Destler, I.M. 1972. Presidents, Bureaucrats and Foreign Policy: The Politics of Organizational
+
+Reform. Princeton: Princeton University Press.
+
+Downs, Anthony. 1967. Inside Bureaucracy. Boston: Pearson.
+
+Eckhard, Steffen. 2021. “Bridging the citizen gap: Bureaucratic representation and knowledge
+
+linkage in (international) public administration.” Governance 34(2):295–314.
+
+Etheredge, Lloyd S. 1978. A World of Men: The Private Sources of American Foreign Policy.
+
+Cambridge: MIT Press.
+
+Fearon, James D. 1995. “Rationalist explanations for war.” International organization 49(3):379–
+
+414.
+
+Forster, Timon. 2024. “Respected Individuals: When State Representatives Wield Outsize Influ-
+
+ence in International Organizations.” International Affairs 100(1):261–281.
+
+Friedman, Jeffrey A. 2019. War and Chance: Assessing Uncertainty in International Politics. New
+
+York: Oxford University Press.
+
+Fuhrmann, Matthew. 2020. “When do leaders free-ride? Business experience and contributions to
+
+collective defense.” American Journal of Political Science 64(2):416–431.
+
+Ge, Zoe Xincheng. 2024. “Empowered by Information: Disease Outbreak Reporting at the World
+
+Health Organization.”. Working paper.
+
+27
+
+Gehring, Kai and Stephan A Schneider. 2018. “Towards the greater good? EU commissioners’ nationality and budget allocation in the European Union.” American Economic Journal: Economic Policy 10(1):214–239.
+
+George, Alexander L. 1969. “The" operational code": A neglected approach to the study of political leaders and decision-making.” International studies quarterly 13(2):190–222.
+
+George, Alexander L. 1980. Presidential Decisionmaking in Foreign Policy: The Effective Use of Information and Advice. Boulder: Westview Press.
+
+Goes, Iasmin and Terrence L. Chapman. 2024. “Can “Soft” Advice from International Organizations Catalyze Natural Resource Sector Reform?” International Studies Quarterly 68(2). Goldfein, Michael A. 2024. “Just Patronage? Familiarity and the Diplomatic Value of Non-Career Ambassadors.” Journal of Conflict Resolution 68(7-8):1417–1442.
+
+Gray, Julia C. 2018. “Life, Death, or Zombie? The Vitality of International Organizations.” International Studies Quarterly 62(1):1–13.
+
+Hafner-Burton, Emilie M, Stephan Haggard, David A. Lake and David G. Victor. 2017. “The behavioral revolution and international relations.” International Organization 71(S1):S1–S31. Heinzel, Mirko. 2022. “International Bureaucrats and Organizational Performance: CountrySpecific Knowledge and Sectoral Knowledge in World Bank Projects.” International Studies Quarterly 66(2).
+
+Heinzel, Mirko and Andrea Liese. 2021. “Managing Performance and Winning Trust: How World Bank Staff Shapes Recipient Performance.” The Review of International Organizations 16(2):625–653.
+
+Heinzel, Mirko, Catherine Weaver and Samantha Jorgensen. 2025. “Bureaucratic representation and gender mainstreaming in international organizations: Evidence from the World Bank.” American Political Science Review 119(1):332–348.
+
+Holsti, Ole R. and James N. Rosenau. 1984. American Leadership in World Affairs: Vietnam and the Breakdown of Consensus. Allen and Unwin.
+
+Honig, Dan. 2020. “Information, Power, and Location: World Bank Staff Decentralization and Aid Project Success.” Governance 33(4):749–769.
+
+Honig, Dan and Catherine Weaver. 2019. “A race to the top? The aid transparency index and the social power of global performance indicators.” International Organization 73(3):579–610. Horowitz, Michael C. 2018. Leaders, Leadership, and International Security. In The Oxford Handbook of International Security, ed. Alexandra Gheciu and William C. Wohlforth. Oxford University Press.
+
+Horowitz, Michael C., Allan C. Stam and Cali M. Ellis. 2015. Why Leaders Fight. New York:
+
+Cambridge University Press.
+
+28
+
+Jervis, Robert. 1976. Perception and Misperception in International Politics. Princeton University Press.
+
+Johnston, Alastair Iain. 2008. Social States: China in International Institutions, 1980-2000.
+
+Princeton: Princeton University Press.
+
+Jost, Tyler. 2023. “The Institutional Origins of Miscalculation in China’s International Crises.”
+
+International Security 48(1):47–90.
+
+Jost, Tyler. 2024. Bureaucracies at War: The Institutional Origins of Miscalculation. New York:
+
+Cambridge University Press.
+
+Jost, Tyler and Daniel Mattingly. 2025. “Networks of Coercion: Military Ties and Civilian Leadership Challenges.” American Journal of Political Science (early view).
+
+Jost, Tyler, Joshua D. Kertzer, Eric Min and Robert Schub. 2024. “Advisers and Aggregation in Foreign Policy Decision-Making.” International Organization 78(1):1–37.
+
+Jost, Tyler, Kaine Meshkin and Robert Schub. 2022. “The Character and Origins of Military Attitudes on the Use of Force.” International Studies Quarterly 66(2).
+
+Jost, Tyler and Yucong Li. 2025. “The Politics of Promotion in China’s Foreign Policy Bureaucracy.” The China Quarterly forthcoming.
+
+Kaarbo, Juliet. 2015. “A foreign policy analysis perspective on the domestic politics turn in IR theory.” International Studies Review 17(2):189–216.
+
+Kentikelenis, Alexander E. and Leonard Seabrooke. 2017. “The Politics of World Polity: Scriptwriting in International Organizations.” American Sociological Review 82(5):1065–1092. Keohane, Robert. 1984. After Hegemony: Cooperation and Discord in the World Political Economy. Princeton University Press, Princeton.
+
+Kertzer, Joshua D. 2017. “Microfoundations in International Relations.” Conflict Management and Peace Science 31(1):81–97.
+
+Kertzer, Joshua D, Brian C Rathbun and Nina Srinivasan Rathbun. 2020. “The price of peace:
+
+Motivated reasoning and costly signaling in international relations.” International Organization 74(1):95–118.
+
+Kertzer, Joshua D. and Dustin Tingley. 2018. “Political Psychology in International Relations:
+
+Beyond the Paradigms.” Annual Review of Political Science 21(1):319–339.
+
+Kim, Minju. 2024. “How Bureaucrats Represent Economic Interests: Partisan Control over Trade Adjustment Assistance.” International Studies Quarterly 68(3).
+
+Kim, Minju and Shu Fu. 2025. “Bringing Home the Bacon: Politician Ambassadors and Home State Trade.” World Politics .
+
+29
+
+Krasner, Stephen D. 1972. “Are Bureaucracies Important? (Or Allison Wonderland.” Foreign Policy 7:159–179.
+
+Lang, Valentin, Lukas Wellner and Alexandros Kentikelenis. 2024. “Biased bureaucrats and the policies of international organizations.” American Journal of Political Science (Early View). Lindsey, David. 2023. Delegated Diplomacy: How Ambassadors Establish Trust in International Relations. New York: Columbia University Press.
+
+Lindsey, David, Matt Malis and Calvin Thrall. 2025. “Gender Bias and Diplomatic Representation.”. Working paper.
+
+Loh, Dylan M. H. 2024. China’s rising foreign ministry: practices and representations of assertive diplomacy. Stanford University Press.
+
+MacDonald, Paul K. 2021. “Are You Experienced? US Ambassadors and International Crises, 1946–2014.” Foreign Policy Analysis 17(4).
+
+Malis, Matt. 2021. “Conflict, Cooperation, and Delegated Diplomacy.” International Organization 75(4):1018–1057.
+
+Mattingly, Daniel. 2024. “How the Party Commands the Gun: The Foreign-Domestic Threat Dilemma in China.” American Journal of Political Science 68(1):227–242.
+
+Mattingly, Daniel and James Sundquist. 2023. “When Does Public Diplomacy Succeed? Evidence from China’s ‘Wolf Warrior’ Diplomats.” Political Science Research and Methods 11(4):921929.
+
+McDermott, Rose. 2001. Risk-Taking in International Politics: Prospect Theory in American Foreign Policy. University of Michigan Press.
+
+Mearsheimer, John J. and Sebastian Rosato. 2023. How states think: the rationality of foreign policy. Yale University Press.
+
+Miles, Rufus E. 1978. “The origin and meaning of Miles’ Law.” Public Administration Review 38(5):399–403.
+
+Murdoch, Zuzana, Hussein Kassim, Sara Connolly and Benny Geys. 2019. “Do international institutions matter? Socialization and international bureaucrats.” European Journal of International Relations 25(3):852–877.
+
+Nelson, Stephen C. 2017. The Currency of Confidence: How Shared Beliefs Shape the IMF’s Relationship with Its Borrowers. Ithaca: Cornell University Press.
+
+Neustadt, Richard E. 1991. Presidential Power and the Modern Presidents: The Politics of Leadership from Roosevelt to Reagan. New American Library New York.
+
+Nielson, Daniel L. and Michael J. Tierney. 2003. “Delegation to International Organizations: Agency Theory and World Bank Environmental Reform.” International Organization 57(2):241–276.
+
+30
+
+Novosad, Paul and Eric Werker. 2019. “Who runs the international system? Nationality and leadership in the United Nations Secretariat.” The Review of International Organizations 14:133.
+
+Oksamytna, Kseniya and Sarah von Billerbeck. 2024. “Race and international organizations.”
+
+International Studies Quarterly 68(2):sqae010.
+
+Parizek, Michal and Matthew D Stephen. 2021. “The increasing representativeness of international organizations’ secretariats: Evidence from the United Nations System, 1997–2015.” International Studies Quarterly 65(1):197–209.
+
+Pollack, Mark A. 1997. “Delegation, Agency, and Agenda Setting in the European Community.”
+
+International Organization 51(1):99–134.
+
+Queralt, Didac. 2024. “From Territorial Consolidation to Bureaucratic Dominance: The Long Arc of State Development.” Annual Review of Political Science 28.
+
+Rueschemeyer, Dietrich, Theda Skocpol and Peter B. Evans, eds. 1985. Bringing the State Back In. Cambridge University Press.
+
+Sahasrabuddhe, Aditi. 2024. “Central Bankers in Crisis: Interpersonal Trust, Cooperation, and the Creation of the Fed Swap Network during the 2008 Global Financial Crisis.” International Studies Quarterly 68(2).
+
+Sahasrabuddhe, Aditi. 2025. Bankers’ Trust: How Social Relations Avert Global Financial Collapse. Cornell University Press.
+
+Saunders, Elizabeth N. 2017. “No Substitute for Experience: Presidents, Advisers, and Information in Group Decision Making.” International Organization 71(S1):S219–S247.
+
+Saunders, Elizabeth N. 2022. “Elites in the Making and Breaking of Foreign Policy.” Annual Review of Political Science 25:219–240.
+
+Saunders, Elizabeth N. 2024. The Insiders’ Game: How Elites Make War and Peace. Princeton:
+
+Princeton University Press.
+
+Schub, Robert. 2022. “Informing the Leader: Bureaucracies and International Crises.” American Political Science Review 116(4):1460–1476.
+
+Schub, Robert. 2025. Wars of Ignorance: Silenced Advisers and International Crises. New York:
+
+Oxford University Press.
+
+Shirk, Susan L. 2023. Overreach: How China Derailed Its Peaceful Rise. Oxford University Press. Snyder, Jack. 1991. Myths of empire: Domestic politics and international ambition. Ithaca: Cornell University Press.
+
+Steinberg, David A and Daniel McDowell. 2024. “Race, Representation, and the Legitimacy of International Organizations.” International Organization 78(3):575–599.
+
+31
+
+Tan, Yeling. 2021. Disaggregating China, Inc.: State Strategies in the Liberal Economic Order.
+
+Cornell University Press.
+
+Thrall, Calvin. 2024. “Informational Lobbying and Commercial Diplomacy.” American Journal of
+
+Political Science forthcoming.
+
+Towns, Ann and Birgitta Niklasson. 2017. “Gender, international status, and ambassador appoint-
+
+ments.” Foreign Policy Analysis 13(3):521–540.
+
+Waltz, Kenneth. 1959. Man, the state, and war: A theoretical analysis. Columbia University Press. Waltz, Kenneth. 1979. Theory of International Politics. Reading, PA: Addison-Wesley.
+
+Weaver, Catherine. 2008. Hypocrisy Trap: The World Bank and the Poverty of Reform. Princeton
+
+University Press, Princeton, NJ.
+
+Weeks, Jessica L. 2014. Dictators at War and Peace. Ithaca: Cornell University Press.
+
+Welch, David A. 1992. “The organizational process and bureaucratic politics paradigms: retrospect
+
+and prospect.” International Security 17(2):112–146.
+
+Wendt, Alexander. 1999. Social theory of international politics. Cambridge university press.
+
+Xu, Weifang. 2024. “Pride and Prejudice: The Dual Effects of ‘Wolf Warrior Diplomacy’ on
+
+Domestic and International Audiences.” Journal of Conflict Resolution 69(5):839–867. Yarhi-Milo, Keren. 2014. Knowing the Adversary: Leaders, Intelligence, and Assessment of In-
+
+tentions in International Relations. Princeton University Press.
+
+Zegart, Amy B. 2007. Spying Blind: The CIA, the FBI, and the Origins of 9/11. Princeton
+
+University Press.
+
+32
+

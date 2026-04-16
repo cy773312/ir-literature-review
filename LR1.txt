@@ -1,0 +1,254 @@
+Doing a Literature Review
+
+Jeffrey W. Knopf, Naval Postgraduate School
+
+S
+
+tudents entering a graduate program often encounter a new type of assignment that differs from the papers they had to write in high school or as college undergraduates: the literature review ~also known as a critical review essay!. Put briefly, a literature review summarizes and evaluates a body of writings about a specific topic. The need to conduct such reviews is by no means limited to graduate students; scholarly researchers generally carry out literature reviews throughout their research careers. In a world where the Internet has broadened the range of potentially relevant sources, however, doing a literature review can pose challenges even to an experienced researcher.
+
+In recent years, I have taught a course designed to help students in a policy-oriented Master’s program draft thesis proposals. In looking for readings to assign to guide their literature reviews for these proposals, I discovered a paucity of appropriate published sources. 1 The vast majority of methods textbooks written for students in political science or public policy contain no discussion whatsoever of the literature review. 2 Some general methods texts contain sections on the literature review ~for example, Cresswell 2003; Patten 2005!, but these turned out not to be very helpful in meeting the needs of the student population I was teaching. Finally, there are a few books devoted solely to preparing a literature review ~Fink 2005; Galvan 2005; Pan 2004!, but these were too long to be a viable reading assignment for the course. In the end, I drafted my own “how to” handout on doing a literature review. In the hope that my observations might be helpful to others, I have adapted my handout for publication here.
+
+Jeffrey W. Knopf is visiting associate professor of National Security Affairs at the Naval Postgraduate School (NPS), Monterey, CA. He is the author of Domestic Society and International Cooperation: The Impact of Protest on US Arms Control Policy (Cambridge University Press, 1998). This essay developed out of materials the author prepared for a course in research methods that he helped create for a new professional Master’s program in Homeland Security at NPS.
+
+In general, a literature review has two key elements. First, it should concisely summarize the findings or claims that have emerged from prior research efforts on a subject. Second, a literature review should reach a conclusion about how accurate and complete that knowledge is; it should present your considered judgments about what’s right, what’s wrong, what’s inconclusive, and what’s missing in the existing literature. In contrast to some other ways of surveying a body of literature, such as an annotated bibliography, the literature review is a work of synthesis. For this reason, it is important not to simply write a summary list of what each individual work says, but instead to focus on the body of work viewed as a whole.
+
+Conducting a literature review can have several benefits:
+
+• It can give you a general overview of a body of research with which you are not familiar.
+
+• It can reveal what has already been done well, so that you do not waste time “reinventing the wheel.”
+
+• It can give you new ideas you can use in your own research.
+
+• It can help you determine where there are problems or flaws in existing research.
+
+• It can enable you to place your research in a larger context, so that you can show what new conclusions might result from your research.
+
+Three Contexts for Literature Reviews
+
+In general, literature reviews are produced in one of three contexts: A literature review can be an end in and of itself; it can be a preliminary stage in a larger research project; and it can be a component of a finished research report. In any of these contexts, a literature review can address either theoretical or practical questions. In academic settings, review essays most often focus on the theories scholars have proposed to explain some phenomenon; sample topics might include the causes of terrorism or the pre-conditions for democratization. A literature review can also be used, however, to determine and assess the practical know-how available in regard to which measures are likely to be effective
+
+or not in dealing with a certain problem. In this context, one might focus, for example, on the “lessons learned” from previous efforts to deal with a certain problem ~and those lessons learned might have been proposed by outside scholars or by practitioners themselves!.
+
+To return to the first context, reviewing existing knowledge can itself be the end goal if one simply wants to ascertain the current “state of the art” on a particular subject or problem. In this context ~as well as the other two!, it is important not to simply summarize the available research, but also to evaluate it critically. Such critical analysis should not be exclusively negative; it is also important to identify positive results to take away from the existing work.
+
+Second, a review of existing knowledge can be a preliminary step in a larger research project. Such a literature review is often required for a thesis or dissertation proposal; it is also frequently an element in proposals for research grants. The most basic reason to undertake a literature review in this context is to make sure the proposed research question has not already been answered. If an existing study convincingly answers the question you want to address, it is better to find out before you get started than when you are in the middle of a research project.
+
+Assuming no prior study has solved your problem of interest, then the purpose of your proposal’s literature review is to situate your proposed project in relation to existing knowledge. This enables you to address the concept of a “contribution to knowledge,” which is important because potential advisors and other people who might review a proposal generally ask of any research proposal “what is the expected contribution to knowledge?” or “what will be the value added of completing this research?” The goal here is to show that people who read the final research product are likely to learn some new or different information or argument compared to what they would find in existing studies. In short, a literature review in a research proposal provides an overview of existing scholarship and explains how your proposed research will add to or alter the existing body of knowledge.
+
+Conducting a literature review at a preliminary stage of a research project
+
+PSOnline www.apsanet.org
+
+127
+
+can also be helpful in stimulating your own thinking. A broad review of existing literature might reveal new theoretical hypotheses, research methods, or policy recommendations that you want to incorporate in your own research.
+
+Third, a literature review can be a component of a finished research report. This literature review will generally involve building on and0or revising the literature review completed at the proposal stage. Its purpose is to help show how your final conclusions relate to the prior wisdom about your subject.
+
+Ways to Frame the Contribution to Knowledge
+
+The literature review is an attempt to summarize the existing state of knowledge about a subject and, in research proposals, to frame the proposed research’s expected contribution to knowledge. Knowledge, in this context, does not necessarily mean “Truth” with a capital T. Rather, knowledge refers to beliefs, in particular beliefs that some individuals have a degree of confidence in due to study or experience. In the social sciences and policy research, many hypotheses cannot be proven conclusively. When reviewing literature, therefore, it is common to refer to the “claims” or “arguments” advanced by a study or school of thought. Hence, a typical review of existing knowledge identifies the claims made in a literature and assesses the strength of the support offered for those claims.
+
+It is helpful to think of knowledge as having two elements: what we believe and how strongly we believe it. Further research can affect either or both of those elements, either positively or negatively, and any of these results would be a contribution to knowledge. This is similar to the logic of Bayesian analysis in statistics. In Bayesian statistics, if one believes a statement has a certain probability of being true and then obtains additional pertinent data, one can revise the estimated probability the statement is true using a mathematical formula provided by Bayes theorem. Even where such precise quantification is not feasible, one can attempt an analogous qualitative assessment.3 
+
+This provides a framework for thinking about the possible consequences of new research. Further research could create a new belief in an area where people have no prior knowledge, it could alter an existing belief, or it could change how much certainty people feel about a current belief. Most obviously, something brand new is a potential con-
+
+tribution to knowledge; this might be new factual information, a new theoretical proposition, or a new policy proposal. In addition, information or reasoned argument that changes our degree of confidence in an existing belief is also a contribution to knowledge. This might be new evidence or analysis that corroborates and thereby strengthens a particular belief. It can also be evidence or analysis that challenges and thereby casts doubt on a particular point of view. If new information or analysis is powerful enough, it might convince people that their prior belief was wrong and lead them to embrace a different perspective. When using a literature review to indicate where proposed research might make a contribution to knowledge, therefore, it is helpful to think in terms of identifying the existing beliefs people have and the level of confidence with which they hold them. This facilitates the task of showing where additional research could make a difference.
+
+Consider Casting Your Net Widely
+
+The traditional literature review focuses on books published by academic presses and articles published in academic journals. For many purposes, these will continue to be the appropriate focus. However, on many questions, especially those involving a policy dimension, actors besides university-based academics might issue relevant reports. In addition, the development of the Internet has made it easier to disseminate research reports in formats other than in academic publications. This growth in alternative research producers and outlets for disseminating research makes it advisable to consider a wider range of sources when conducting a review. Indeed, because relevant information and analysis is increasingly found in sources other than traditional academic publications, it may be more accurate to think of your task as a “review of existing knowledge” 4 than as a review of literature per se.
+
+Other entities that might produce research relevant to your topic include government agencies, international governmental organizations, non-governmental organizations, think tanks, and independent, freelance researchers. Some of their reports are still produced in print form and are available through any good library collection. Increasingly, though, many of their reports are released electronically and can be found through careful searching on the Internet. Traditional academics are also using the Internet as a
+
+vehicle for disseminating their work. Scholars are increasingly posting conference papers, working papers, and monographs on the Internet. 5 These postings are often part of a work in progress that has not been published in a book or journal article; they represent these scholars’ most current thinking. For this reason, it can be important to search for such work to keep a review of existing knowledge as up-to-date as possible.
+
+At the same time, the Internet must be used with great caution. Most academic publications go through peer review, which in most cases helps ensure that the published work meets certain standards of scholarship. In contrast, anyone with access to the necessary equipment can post anything they want on the Internet. Many postings are based on little or no research, make no attempt to be unbiased, and contain factual claims that are questionable. If you use the Internet to broaden the range of sources consulted in a literature review, be sure to consider carefully whether the items that you find are credible and meet at least minimal standards of scholarly research. Look to see whether the authors have provided their credentials and consider whether these make them credible sources on the subject. Also examine whether an item contains documentation of its sources and whether these appear to be credible. If your interest is in existing policy proposals or practices, then academic credibility may matter less than other considerations, such as whether the source of information is in a position of authority or has inside knowledge; even in these cases, however, you need to screen Internet postings to weed out those that lack a valid basis for their assertions. Despite the risks, valuable sources of research exist beyond traditional academic books and journals, and it is worth using the Internet to seek these out. At the same time, be sure not to limit your search for sources to just the Internet as any college or university library will have many items on its shelves that are not available electronically.
+
+Pointers on How to Create an Effective Review
+
+First, especially if this is your first literature review, read some existing review essays to see how other researchers have carried out this task. 6 Imitate what you think works well, and avoid those things that strike you as ineffective or unnecessary. Chances are that some review essays will have been assigned in some of your graduate classes; if so,
+
+128
+
+PS January 2006
+
+begin by re-examining them. You can also ask your instructors or advisors to suggest literature reviews that they believe provide good models to follow.
+
+Second, for each research study you read for your review, be sure you can succinctly summarize the study’s main claim. You should be able to describe in a sentence or two the central argument of each item you read. It will not always be necessary to include this information, but having an awareness of each study’s overarching thesis will help you compare different items as you write your review.
+
+Third, your written review should be selective. When you write the literature review, it is often not necessary to discuss every item you read. The write-up should discuss only the studies that have a direct bearing on the central focus of your review or your proposed research. In addition, rather than summarizing the studies in their entirety, the review should focus only on the aspects of those studies that are relevant for your purposes.
+
+Fourth, when you write a literature review, do not simply summarize, item by item, each publication you have read. A literature review should not have the following structure: paragraph 1 notes that book A says X; paragraph 2 notes that article B says Y; paragraph 3 notes that book C says Z; etc.
+
+In general, a literature review should impose some intellectual order on the material. Therefore—as a fifth pointer—it often helps to think about grouping individual studies into larger “camps” or “schools of thought.” One can do this in terms of different theories they propose or defend, different methodological approaches they take, or different policies they favor. Often, alternative views reflect differences in the disciplines or backgrounds of the authors—academics vs. government officials, psychologists vs. economists, etc. This can stand as another basis for categorizing schools of thought. If you group similar studies together, rather than discuss three like-minded authors separately in three successive paragraphs, you can mention all three together in a single sentence such as ‘A, B, and C argue that policy X has been ineffective and propose policy Y instead.’
+
+For any subject where there is already a substantial body of research, chances are that some scholars have already sought to classify the research into contrasting schools of thought. In such cases, it is a good idea to start by familiarizing yourself with existing summaries of the research. Many fields or sub-fields have encyclopedias or other reference works that contain short, introductory essays on the research on particular topics. 7 If you
+
+were interested in learning about research on deterrence, for example, you could search for encyclopedias or handbooks of social science, of international relations, or of conflict and violence. If you cannot find a relevant source for your area of interest, consult a reference librarian or be creative in trying different combinations of keywords when searching an online library catalogue.
+
+There are a couple of other likely sources for summaries of existing research that identify contrasting schools of thought. Academic journals often publish review essays that reflect upon one or more recently published books on a particular topic. Identify the journals that publish regularly on your topic of interest and peruse the tables of contents for the past few years to determine whether there are recent review essays that could help orient you to a body of research. In addition, theses and dissertations usually contain a literature review section or chapter. Many dissertations become the basis for books, so identifying books published by freshly minted Ph.D.s is often a fruitful way to find recent surveys of a field. Many graduate schools also deposit copies of dissertations and theses completed by their students with UMI ~formerly University Microfilms!. It is now possible to search the UMI collection online, and you can buy copies of theses and dissertations that appear relevant.8 
+
+Sixth, while seeing how others have characterized a field of research is helpful, it is essential not to rely on others’ summaries of existing studies. Review articles in specialized encyclopedias or academic journals are a good place to get started, but they cannot substitute for your own reading. Read for yourself the sources that are most critical for your own interests and draw your own conclusions.
+
+A seventh and final pointer: Get into the habit of associating individual authors and major camps or points of view with each other. In academic writing, scholars often use the last name of the author of a study as a shorthand to refer to the theory or argument advanced by that author. For example, in International Relations Theory, Kenneth Waltz was one of the leading developers of a theory known as “neo-realism.” In writing about this approach, other authors will switch back and forth between referring to Waltz, to the Waltzian approach, and to neo-realism. Since this has become standard practice in scholarly writing and conversation, it is a good idea to get used to thinking about each alternative camp both in terms of the generic label by which it is known as well as in terms of the authors identified with that camp.
+
+The Nuts and Bolts: What Questions Should the Literature Review Try to Answer?
+
+A literature review summarizes and evaluates the state of knowledge or practice on a particular subject. To do this, most literature reviews must address four tasks or sets of questions. The first two steps are to determine what each individual study has examined and what each has concluded from its examination. The third step involves summarizing the collective results. To do this, sort the results into three categories: what the existing studies and reports have in common, what the studies disagree about, and what they overlook or ignore. Finally, the fourth step is to reach a judgment about the quality of the literature overall: what are the key findings that appear to be valid, and where is more work needed?
+
+To elaborate, the first task is simply to be clear about what each item you are reviewing was trying to do. For example, was the work concerned with theory? If so, was the goal explanatory, or did it have some other objective? If the goal was explanation, what was the dependent variable for the study? How was it conceptualized and operationalized? Ascertaining this information before you compare studies will help you determine if they were even examining the same problem. Sometimes different studies reach different conclusions because they asked different questions or defined the phenomenon of interest in different ways.
+
+The second step involves identifying the main argument in each work. Does it have a thesis? If so, how strongly does the study say its findings support the thesis, and what qualifications or reservations does the author report?
+
+The third task listed above—summarizing existing studies in terms of three categories—can be especially valuable in a research proposal. In short, any body of research can be usefully summarized in terms of the following:
+
+~1! Areas of consensus or nearconsensus. On some issues nearly all of the relevant experts may agree. Such conclusions can be either positive or negative; i.e., they can involve beliefs about what is true or what works or what is false or does not work. Areas of consensus represent the “conventional wisdom” about a subject.
+
+~2! Areas of disagreement or debate. In many cases, there exists information and analysis about a topic but no consensus about what is correct. These areas of
+
+PSOnline www.apsanet.org
+
+129
+
+debate usually give rise to the alternative “camps” or “schools of thought” mentioned above.
+
+~3! Gaps. There may be aspects of a topic that have not been examined yet. These gaps in knowledge might involve questions no one has tried to answer, perspectives no one has considered, or bodies of information that no one has attempted to collect or to analyze.
+
+Once you have identified where there is conventional wisdom, where there are debates, and where there are gaps, you can use the literature review to describe what will be the contribution to knowledge of the research you are proposing and why it will be of interest to your intended audience. Your contribution can address any or all of these. For example, you might believe there are reasons to doubt the conventional wisdom. In general, you should not accept areas of agreement uncritically. The fourth task noted above—assessing the quality of the literature—includes probing for areas where the existing wisdom is less than conclusive. The literature review can then be used to highlight potential flaws in the reasoning or evidence related to an area of consensus. This could be used to set up proposed research that might challenge the conventional wisdom.
+
+Weighing in on an existing debate is another possibility. Here, one uses the literature review to show the likely value of research that could help judge the relative merits of conflicting points of view or that could help point the way to a useful synthesis.
+
+Finally, proposing to fill a gap in existing knowledge is an obvious way to frame the usefulness of a suggested piece of research. A gap may involve theory, if no scholar on a topic has yet considered an important theoretical question or a particular alternative theory ~e.g., although there is a growing body of research on the causes of terrorism, perhaps no one has yet studied what influences terrorist decisions about whether to target agriculture versus people!. Or a gap may be empirical, if there is a historical case or a source of data no one has analyzed ~e.g., we know a lot about how local emergency responders acted on September 11, but are there useful lessons that could be learned from how emergency personnel dealt with an incident in some other locality, for example, an anthrax threat phoned in to a local Planned Parenthood clinic?!.
+
+The relevant gaps in knowledge can be broad or narrow. In some cases, a topic might essentially be virgin territory: no one has studied any aspect of it. In
+
+that case, it is easy to show that proposed research on the topic would make a contribution to knowledge. More often, however, the gap will be narrower than this. People will have studied some, but not all, aspects of a problem, or they will have examined a problem using some theories or methodologies, but neglected others. In this situation, if your goal is to fill the gap you identify, your research proposal would state something like “researchers have studied a, b, and c, which are related to the problem of X, but they have not studied d, which is also relevant to understanding @or solving# X.”
+
+The fourth task in a review—evaluating the overall state of knowledge on a topic—requires a thorough examination of how the answers given by the literature have been produced. In examining how people have reached their conclusions, consider evaluating the following:
+
+• Their assumptions. If there are disagreements, can they be traced to different assumptions made by the conflicting studies? Are the key assumptions made by the most important studies a plausible basis for research, or are they so problematic that they call into question the rest of the analysis?
+
+• Their logic. If there are disagreements, can they be traced to different theoretical perspectives? Do the studies explain the reasoning that supports their key conclusions, or are important arguments made purely by assertion? Is the reasoning that is provided logically persuasive, or does it contain internal contradictions or make a giant leap at a key point in the analysis? What are the most plausible counterarguments or alternative explanations to the main thesis in each study, and does each study address these adequately?
+
+• Their evidence. If there are disagreements, can they be traced to the use of different bodies of evidence or to disagreements about the facts? Do the studies provide evidence to back up their main claims, or are important claims made purely by assertion? Is the evidence valid—i.e., is it factually accurate and on point? Has all the relevant evidence been considered, or have some obviously relevant cases or bodies of data been overlooked? Is the evidence that has been considered representative, or are the cases or data selected for study likely to have biased the results? 9
+
+• Their methodology. If there are disagreements, can they be traced to
+
+the use of different methodologies? Do the studies make clear the methodology by which they have reached their conclusions, or are key claims made purely by assertion? Was the methodology used an appropriate choice for the question being researched, and was it applied correctly?
+
+By identifying and comparing the assumptions, theories, data, and methods of the studies you review, you can pinpoint the underlying disagreements responsible for debates in the literature. You can then, if you wish, target your own research on one of the underlying disagreements, which could help resolve an existing debate. By evaluating each of these elements critically, you can also show where there are problems or flaws in existing studies and then, if you wish, target your own research on fixing one or more of these problems in the literature. Finally, as noted previously, you can also look for important issues that the existing research has overlooked and frame your research as an effort to fill this gap.
+
+The Problem of Too Few Sources and the Problem of Too Many Sources
+
+Students sometimes choose a research topic, such as how to address a new policy problem or what can be learned about a recent event, because they think no one has yet studied the issue. In such cases, students expect that there will not be any literature relevant to the question they want to research. It does not pay to be too skeptical on this score; you might be surprised at what you find once you start to search for resources. Even if you come up empty, however, this is not a wasted effort. If you can report that a serious search uncovered no examples of studies that examined your research question, then you have largely demonstrated that your research will fulfill the “contribution to knowledge” criterion for evaluating research proposals ~I say “largely” because you still have to show that the proposed research could produce meaningful results!.
+
+This still leaves the problem of what to discuss in a literature review. The problem of too few sources can usually be solved by thinking in terms of two tiers ~or circles! of literature. In the first tier ~or inner circle!, you are concerned with studies that directly address your own proposed research question. In the second tier ~or outer circle!, you broaden your review to consider publications that are relevant to or overlap some part of your own question, even though they do not
+
+130
+
+PS January 2006
+
+directly address the same point. If there is a reasonable body of work in the first tier, in many cases this will be all that you discuss in the literature review. You would only go outside this inner circle if there was some specific other publication that proposed a theory, policy proposal, or research method that you want to apply in your own research project.
+
+If there is nothing or very little that is directly on the same topic as yours, then your literature review will need to consider some items in the second tier. You might consider items that have a theoretical perspective you want to explore in your research. Even if no one has applied the theory to your specific question, it is still appropriate to discuss key works that have developed the theory so you can explain why it might provide a good perspective for analyzing your topic.
+
+It can also be helpful to think in terms of analogies. In particular, are there situations or problems that are similar to the one you want to study, so that research on those other problems might contain relevant ideas? For example, if you were interested in identifying ways to protect crops from agro-terrorism and you could find no studies directly on this topic, you could consider looking for research on efforts to protect crops against natural disease outbreaks. If your literature review reveals findings about ways to address the latter problem, you could then propose research to consider whether these techniques could be adapted for your problem of interest.
+
+Once you consider literature in this second tier or outer circle, you are likely to encounter the problem of too many sources. The number of potentially relevant publications, especially once you begin considering well-developed areas of theory, could be vast. Hence, you need a way to restrict your focus. It is important not to simply select a few books or articles that you find at random ~for example, whatever happens to be on the library shelf or the first few “hits” returned by a Google search! and make them the basis for your review, because
+
+Notes
+
+*In drafting this overview, I have incorporated some points made by Paul Pitman in a lecture delivered to students at the Naval Postgraduate School. I have also incorporated some suggestions contained in a handout prepared by John Odell for students in the School of International Relations at the University of Southern California.
+
+1. In Internet searches, however, I have found several good items. Given the mutability of the Internet, rather than list URLs here, I suggest that
+
+they might not reflect the current state of knowledge and debate. Instead, consider using one or more of the following rules of thumb:
+
+~1! Focus on the leading authorities. You may discover that certain authors or studies are cited quite frequently in the literature. These are probably considered key works, so it is a good idea to respond to what they have to say, even if it means ignoring some less-influential studies.
+
+~2! Focus on recent studies from highprestige or high-visibility sources. You generally want to emphasize the most recent research in the field you are reviewing. Among recent studies, look especially for those that have been published in a high-prestige outlet: examples include books from the university press of a highly ranked university or articles in the leading journal in the field in question. Sources that garner a lot of attention are also important to evaluate: in some cases, for example, it might be relevant to assess a book on the bestseller list.
+
+~3! Focus on the studies that are most relevant and helpful for your question of interest. The more a study is directly on point for your research, or the more you are relying on a study for inspiration about how to approach your own research, the greater the role it should play in your literature review.
+
+When there is a lot of literature, it is not necessary for a review to be comprehensive. The literature review should focus mainly on those parts of the literature that relate to and help advance your specific interests; edit out the rest.
+
+The Bottom Line
+
+A literature review should concisely summarize from a set of relevant sources the collective conclusions most pertinent
+
+researchers who want to supplement the information in this essay conduct their own search for web pages on doing a literature review.
+
+2. The one exception I have found is Johnson and Reynolds ~2004, ch. 5!.
+
+3. For an introduction to Bayesian statistics, see Wonnacott and Wonnacott ~1985, 75–79 and 515–75!. For a discussion of the relevance of Bayesian reasoning in qualitative research, see McKeown ~1999, 179–83!.
+
+to your own research interests. It should also evaluate the state of knowledge in terms of what’s right, what’s wrong, what’s an area of uncertainty or debate that cannot be resolved using the existing research, and what’s missing because no one has yet considered it carefully. To create such a review of existing knowledge, it helps to ask and answer the following questions:
+
+• What questions have the existing publications addressed? What issues have been neglected?
+
+• What are the main conclusions of existing research? What do the studies actually argue?
+
+• What are the points of convergence in the literature, and what are the main disagreements? Where disagreements exist, what are the bases of the disagreement?
+
+• What theories and0or policies and0or evidence has the literature looked at? What potentially relevant information and alternative theories or policies have not been examined?
+
+• How solid are the conclusions that have been reached? Are they based on sound reasoning, careful assessment of the evidence, and a wellexecuted methodology? Or are there good reasons to doubt some of the existing conclusions?
+
+• What is the overall quality of the literature? What have we learned to date?
+
+• What are the most important problems and gaps that require additional research?
+
+These questions are relevant whether one is producing a stand-alone review essay, a literature review for a research proposal, or a literature review section in a finished report such as a thesis or dissertation. When one proceeds systematically and aims to reach a considered judgment about the state of knowledge on a given subject, the resulting literature review can itself make a useful contribution to knowledge.
+
+4. Paul Pitman first suggested to me this phrasing and the reasoning behind it, for which I thank him.
+
+5. For example, many political science materials of this sort are available through Political Research Online ~PROL!; this includes papers presented at Annual Meetings of the American Political Science Association ~APSA!. See www.politicalscience.org.
+
+6. This is the first suggestion on a short handout created by John Odell. It’s a good place
+
+PSOnline www.apsanet.org
+
+131
+
+to start, so I have followed his lead and included it first in my own list of pointers.
+
+7. For a list of handbooks and encyclopedias in many fields of study, see Booth, Colomb, and
+
+References
+
+Booth, Wayne C., Gregory G. Colomb, and Joseph M. Williams. 2003. The Craft of Research, 2nd ed. Chicago: University of Chicago Press.
+
+Cresswell, John W. 2003. Research Design:
+
+Qualitative, Quantitative, and Mixed Methods Approaches, 2nd ed. Thousand Oaks, CA: SAGE Publications.
+
+Fink, Arlene. 2005. Conducting Research Literature Reviews: From the Internet to Paper, 2nd ed. Thousand Oaks, CA: SAGE Publications.
+
+Williams ~2003!, “An Appendix on Finding Sources.”
+
+8. The electronic database of UMI dissertations and theses is now part of ProQuest Infor-
+
+Galvan, Jose L. 2005. Writing Literature Reviews, 3rd ed. Glendale, CA: Pyrczak Publishing.
+
+Johnson, Janet Buttolph, and H. T. Reynolds.
+
+2004. Political Science Research Methods, 5th ed. Washington, D.C.: CQ Press.
+
+King, Gary, Robert O. Keohane, and Sidney Verba. 1994. Designing Social Inquiry: Scientific Inference in Qualitative Research. Princeton, NJ: Princeton University Press.
+
+mation and Learning, at www.il.proquest.com0 umi0dissertations ~accessed Jan. 24, 2005!.
+
+9. For a discussion of selection bias, see King, Keohane, and Verba ~1994, 128–39!.
+
+McKeown, Timothy J. 1999. “Case Studies and the Statistical Worldview.” International Organization 53: 161–90.
+
+Pan, M. Ling. 2004. Preparing Literature Reviews, 2nd ed. Glendale, CA: Pyrczak Publishing.
+
+Patten, Mildred L. 2005. Understanding Research Methods: An Overview of the Essentials, 5th ed. Glendale, CA: Pyrczak Publishing. Wonnacott, Ronald J., and Thomas H. Wonnacott. 1985. Introductory Statistics, 4th ed. New York: John Wiley & Sons.
+
+132
+
+PS January 2006
+
