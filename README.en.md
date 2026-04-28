@@ -1,117 +1,149 @@
-# IR Literature Review Tool
+# IR Literature Review
 
 <p align="center">
-  <strong>A tool for International Relations literature reviews</strong><br />
-  Chinese-first, with English available as an option. Start from retrieval-based positioning, then build argument-driven prose with verified sources.
+  <strong>Write IR literature reviews at top-journal quality with AI</strong><br />
+  <sub>From your existing literature to argument-driven prose · Auto-citation · One-click docx</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/discipline-IR%20%7C%20International%20Relations-0f766e?style=flat-square" alt="IR" />
+  <img src="https://img.shields.io/badge/output-docx-1d4ed8?style=flat-square" alt="docx" />
+  <img src="https://img.shields.io/badge/language-中文%20%7C%20English-7c3aed?style=flat-square" alt="bilingual" />
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="license" />
 </p>
 
 <p align="center">
   <a href="./README.md">中文版</a> ·
-  <a href="./SKILL.md">View SKILL.md</a>
+  <a href="./SKILL.md">SKILL.md</a> ·
+  <a href="#quick-start">Quick Start</a> ·
+  <a href="#design-philosophy">Philosophy</a>
 </p>
+
+---
+
+## What Is This
+
+**IR Literature Review** is a Claude Code Skill that transforms your existing IR literature into high-quality literature reviews.
+
+You bring the research topic and your literature (abstracts, PDFs, notes, bibliographies). It handles:
+
+- Functional classification and close reading of each source
+- Identification of core research tensions and optimal writing strategy
+- Argument-driven prose — not mechanical summaries
+- Automatic in-text citations and reference lists
+- One-click `.docx` output with academic formatting
+
+> This is not a literature search tool. For retrieval, pair with [gs-skills](https://github.com/cookjohn/gs-skills) or [cnki-skills](https://github.com/cookjohn/cnki-skills).
+
+## Core Philosophy
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Home-Chinese%20first-0f766e?style=flat-square" alt="Chinese first" />
-  <img src="https://img.shields.io/badge/English-optional-1d4ed8?style=flat-square" alt="English optional" />
-  <img src="https://img.shields.io/badge/Retrieval-GS%20%2B%20CNKI-7c3aed?style=flat-square" alt="GS and CNKI" />
+  <strong>The unit of analysis is not the paper — it's the problem and the tension.</strong>
 </p>
 
-It prioritizes research tension and argument positioning over mechanical paper summaries, and supports:
-- in-text citations grounded in verified sources,
-- automatic reference list generation,
-- `.docx` delivery with academic formatting defaults,
-- **cross-user / cross-model consistency controls (fixed protocol + quality gates)**,
-- **Chinese as the default output language, with optional English output on request**.
+A good IR literature review reads like an argument, not a catalog. It uses existing research to surface a structural tension and position new research within it.
 
-<p align="center">
-  <sub>This repository is Chinese-first. English readers can start here.</sub>
-</p>
+## Capabilities
 
-## One-line Summary
-
-`ir-literature-review` is a tool for **International Relations literature review** tasks.
-
-`ir-literature-review` is built for workflows where users provide:
-- at least a literature search scope,
-- optionally a paper outline,
-- and optional seed papers for retrieval expansion.
-
-Execution flow:
-1. Structure search boundaries, language/database priorities, inclusion criteria, and seed papers.
-2. Retrieve and verify literature (Google Scholar / CNKI paths).
-3. Output a “search scope + literature map” first and wait for confirmation.
-4. Then move to research positioning and drafting (show skeleton first only when user asks).
-5. Deliver final text with citations, references, and `.docx` output.
-
-## Core Capabilities
-
-- **Tension-first writing logic**: organize literature around theoretical/empirical tensions.
-- **Two writing strategies**:
-  - Framework integration (framework-first)
-  - Question decomposition (question-driven)
-- **IR subfield adaptation**: security studies, IPE, FPA, IOs, comparative authoritarian politics, constructivist/normative studies.
-- **Citation integrity constraints**:
-  - no fabricated references,
-  - unverified details must be marked,
-  - in-text citations must match the reference list.
-- **Robustness controls**:
-  - quality tiers (fast / standard / rigorous) for retrieval depth,
-  - fixed "retrieval log + literature map" output protocol,
-  - mandatory evidence/structure/positioning quality gates before drafting.
-- **Docx-first delivery**: default output is a usable `.docx`, not plain text only.
-
-## Default Output Contract
-
-Unless the user specifies otherwise:
-
-| Item | Default |
-|---|---|
-| In-text citations | Author-year style |
-| Reference list | only works actually cited in the text |
-| Chinese font | SimSun |
-| Latin font / numbers | Times New Roman |
-| Font size | 12pt |
-| First-line indent | 2 Chinese characters |
-| Line spacing | 1.5 |
-| Final deliverable | `.docx` |
-
-If a school or journal template is provided, that template takes priority.
+- **Tension-first writing** — organize around theoretical dilemmas, empirical debates, conceptual ambiguity, or methodological gaps
+- **Two writing strategies** — Framework Integration or Question Decomposition, mixable
+- **Gap typology** — consensus-zone gaps, debate-zone gaps, blank-zone gaps, each with distinct treatment
+- **Four-dimension evaluation** — assumptions / logic / evidence / methodology, adapted from Knopf (2006)
+- **10 evaluation methods** — from Wang & Tang (2022) for explanatory IR research
+- **Citation integrity** — no fabricated references; all citations traceable to user-provided materials
+- **Quality gates** — citation gate, structure gate, positioning gate
+- **Automatic docx delivery** — SimSun / Times New Roman, 12pt, 1.5× line spacing, first-line indent
+- **IR subfield coverage** — security studies, IPE, FPA, international institutions, comparative authoritarian politics, constructivism
 
 ## Quick Start
 
-1. Open this repository in Claude Code.
-2. Provide your literature search scope (optionally with outline + seed papers).
-3. Confirm the generated “search scope + literature map” first.
-4. Generate full text with citations and references (skeleton first only if needed).
-5. Receive a `.docx` file with required formatting.
+1. Open this repository in Claude Code
+2. Provide your research topic + existing literature materials
+3. The Skill builds a literature map, then writes upon confirmation
+4. Receive a `.docx` with full citations and references
 
-## Example Prompts
+**Example prompts**:
 
-- “Start from this search scope and give me a literature map first: deterrence failure mechanisms, 2015–2025, English-first with Chinese supplements; I’ll also provide seed papers.”
-- “Use my seed papers plus GS/CNKI retrieval, confirm coverage first, then draft a question-driven IR literature review.”
-- “Output in docx with SimSun for Chinese, Times New Roman for English/numbers, 12pt, first-line indent 2 characters, line spacing 1.5.”
+```
+I'm writing a review on "how digital authoritarianism shapes transnational
+political mobilization." Key sources: Rosenfeld & Wallace (2024), Guriev &
+Treisman (2022), Roberts (2018). Classify and evaluate these first, then
+write using the question-driven strategy.
+```
 
-## Design Principles
+```
+I have outlines and abstracts for papers on alliance credibility. Help me
+build a literature inventory — identify core debates and gaps — before we
+move to full drafting.
+```
 
-- A literature review is an argument, not a bibliography.
-- Gaps should grow from concrete limitations in existing studies.
-- Critique must be sharp, grounded, and targeted.
-- Transitions should follow argument logic, not connective filler.
-- To keep quality close across users, agents, and models, prioritize fixed protocols and quality gates over free-form variation.
+## Methodology Foundation
 
-## Related Files
+This Skill's writing methodology is distilled from four reference works:
 
-- Main instruction file: [SKILL.md](./SKILL.md)
-- Chinese homepage: [README.md](./README.md)
-- Quality checklist: [references/quality-checklist.md](./references/quality-checklist.md)
-- Writing strategies: [references/writing-strategies.md](./references/writing-strategies.md)
+| Source | Contribution |
+|---|---|
+| **Knopf (2006)** *Doing a Literature Review* | Four-task framework, four-dimension evaluation, two-tier literature structure, contribution framing |
+| **Wang & Tang (2022)** Ch. 3 "How to Evaluate Literature" | Legitimacy/feasibility framework, 10 explanatory evaluation methods, four quality criteria, common errors |
+| **Clark, Dolan & Jost (2025)** *Bureaucratic Influence in International Politics* | Framework-First strategy demonstration |
+| **Rosenfeld & Wallace** *Information Politics and Propaganda in Authoritarian Societies* | Question-Driven strategy demonstration |
 
-## Project Status
+## Design Philosophy
 
-Actively maintained.
+- A literature review is an **argument**, not a bibliography
+- Gaps must **grow** from concrete limitations in existing studies
+- Critique must be **sharp, grounded, and targeted**
+- Transitions follow **logical momentum**, not filler phrases
+- Every gap must answer: **where does it come from?** and **what follows if unfilled?**
+- Quality gates raise the **floor** — the ceiling is unlimited
 
-Current capabilities include:
+## Output Defaults
 
-- in-text citation and reference generation
-- default `.docx` delivery
-- automatic enforcement of academic formatting defaults
+| Item | Default |
+|---|---|
+| In-text citations | Author-year |
+| Reference list | Only works actually cited |
+| Chinese font | SimSun |
+| Latin / numerals | Times New Roman |
+| Font size | 12pt |
+| First-line indent | 2 Chinese characters |
+| Line spacing | 1.5× |
+| Deliverable | `.docx` |
+
+If you provide a school or journal template, it overrides these defaults.
+
+## Repository Files
+
+| File | Description |
+|---|---|
+| [SKILL.md](./SKILL.md) | Complete Skill instructions |
+| [README.md](./README.md) | 中文主页 |
+| [references/quality-checklist.md](./references/quality-checklist.md) | Literature evaluation quality checklist |
+| [references/writing-strategies.md](./references/writing-strategies.md) | Detailed writing strategies |
+
+---
+
+<p align="center">
+  <strong>🤝 Join Us in Building an Open-Source Ecosystem for IR × AI</strong>
+</p>
+
+International Relations research stands at a pivotal moment for AI empowerment. Literature reviews are just the beginning — fact retrieval, causal inference assistance, policy scenario simulation, multilingual intelligence analysis — every link in the IR research chain holds enormous potential for tooling.
+
+But this ecosystem cannot be built by a handful of people. **IR scholars know what their research needs. Engineers know how to build it. Only when these two communities engage in sustained open-source dialogue can we create tools that truly work.**
+
+If you:
+
+- Used this Skill to write a literature review — share your experience and suggestions
+- Have an idea for another IR research task that could benefit from AI — open an Issue or submit a PR
+- Built your own IR-related Claude Code Skill — let us know so we can cross-link
+- Just passing by and find this interesting — a ⭐ Star goes a long way
+
+<p align="center">
+  <strong>AI-powered IR research needs every one of you.</strong>
+</p>
+
+---
+
+<p align="center">
+  <sub>MIT License · Actively maintained</sub>
+</p>
